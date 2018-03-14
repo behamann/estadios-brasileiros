@@ -1,791 +1,790 @@
-id,nome,apelido,cidade,proprietario, capacidade , oficial ,iluminacao
-1,Antonio Aquino Lopes,Florestão,Rio Branco,P, 8.000 , 10.000 ,Sim
-2,Arena da Floresta,,Rio Branco,E, 13.700 , 20.000 ,Sim
-3,Arena do Juruá,,Cruzeiro do Sul,E, 4.000 , 4.000 ,Sim
-4,Complexo Esportivo Totão,Totão,Mâncio Lima,M, 9.000 ,,Sim
-5,José de Melo,,Rio Branco,P , 2.000 ,,Sim
-6,Nabor Júnior,,Senador Guiomard,M, 2.000 ,,Sim
-1,Adalberto Cavalcante,,Porto Real do Colégio,M, 3.000 , 3.270 ,Não
-2,Alfredo Lehay,,Penedo,M, 3.000 , 3.270 ,Não
-3,Arnon de Mello,,Santana de Ipanema,M, 2.703 , 2.800 ,Não
-4,Cleto Marques,,Maceió,M, 3.000 ,,Não
-5,Coaracy da Mata Fonseca,Fumerão,Arapiraca,M, 15.000 , 15.332 ,Sim
-6,Edivanil Cavalcante Navarro,,Matriz Camaragibe,M, 3.000 ,,Não
-7,Edson Matias,,Olho D'Água das Flores,P, 2.000 , 2.480 ,Não
-8,Eduardo de Melo Gonçalves,,São Luiz do Quitunde,P, 2.000 , 2.480 ,Não
-9,Gerson Amaral,,Coruripe,M, 5.000 , 5.560 ,Sim
-10,Gustavo Paiva,Mutange,Maceió,P, 3.000 ,,Não
-11,João Batista,,Maceió,M, 3.000 ,,Não
-12,José Gomes da Costa,,Murici,M, 3.500 , 3.829 ,Sim
-13,Juca Sampaio,,Palmeira dos Índios,M, 4.500 , 4.995 ,Sim
-14,Luiz Pontes, ,Atalaia,M, 2.000 , 2.182 ,Não
-15,Manoel Ferreira de Amorim,Ferreirão,São Miguel dos Campos,M, 3.000 ,,Não
-16,Manoel Moreira,,Capela,M, 3.000 ,,Sim
-17,Nelson Peixoto Feijó,Nelsão,Maceió,P, 4.000 , 4.930 ,Não
-18,Olival Elias de Moraes,,Boca da Mata,P, 2.500 , 3.000 ,Não
-19,Orlando Gomes,Praxedão,União dos Palmares,M, 1.115 , 4.000 ,Sim
-20,Rei Pelé,Trapichão,Maceió,E, 17.126 , 17.126 ,Sim
-21,Rubens Canuto,Municipal do Pilar,Pilar,M, 1.200 , 2.000 ,Não
-22,Severiano Gomes Filho,Pajuçara,Maceió,P, 6.000 ,,Não
-23,Teotônio Vilela,,Viçosa,M, 4.000 , 4.500 ,Não
-1,Augusto Antunes,Augusto Antunes,Santana,E, 8.000 , 8.000 ,Não
-2,Glicério de Souza Marques,Glicerão,Macapá,M, 5.630 , 5.630 ,Sim
-3,Milton de Souza Correia,Zerão,Macapá,E, 13.680 , 13.680 ,Sim
-1,Arena da Amazônia,,Manaus,E, 44.000 , 44.000 ,Sim
-2,Carlos Zamith,Zamith,Manaus,E, 5.000 , 5.000 ,Sim
-3,Floro de Mendonça,Floro,Itacoatiara,M, 5.000 , 5.000 ,Não
-4,Francisco Garcia,Chicão,Rio Preto da Eva,M, 3.000 , 3.000 ,Não 
-5,Ismael Benigno,Estádio da Colina,Manaus,E, 10.451 , 10.451 ,Sim
-6,Olímpico Gilberto Mestrinho,Gilbertão,Manacapuru,M, 5.000 , 5.000 ,Sim
-7,Roberto Simonsen ,SESI,Manaus,P, 4.000 , 4.000 ,Sim
-8,Tenente Álvaro Maranhão,Álvaro Maranhão,Iranduba,M, 1.500 , 1.500 ,Não
-1,02 de Julho,02 de Julho,Guanambi,M, 2.602 , 3.000 ,Sim
-2,Adauto Moraes,Adautão,Juazeiro,M, 5.018 , 8.000 ,Sim
-3,Agnaldo Bento dos Santos,Arena Porto,Porto Seguro,M, 1.503 , 1.503 ,Sim
-4,Alberto Oliveira,Jóia da Princesa,Feira de Santana,M, 16.274 , 16.274 ,Sim
-5,Antônio Carlos Magalhães,ACM,Conceição do Coité,M, 4.000 ,,Não
-6,Antônio Carlos Magalhães,Primavera,Itapetinga,M, 7.000 ,,Sim
-7,Antônio Carneiro,Carneirão,Alagoinhas,M, 8.000 , 9.000 ,Sim
-8,Antônio Elias Ribeiro,Ribeirão,Camacan,M, 4.000 ,,Não
-9,Antônio Pena,Penão,Catu,M, 8.000 ,,Não
-10,Antônio Pena ,,São Sebastião do Passé,M, 3.000 ,,Não
-11,Antônio Rodrigues Santana,Tomatão,Teixeira de Freitas,M, 2.493 ,,Não
-12,Antônio Sereia,,Valença,M, 3.000 ,,Sim
-13,Armando Oliveira,,Camaçari,M, 7.000 ,,Sim
-14,Carmelito Barbosa Alves,Barbosão,Cruz das Almas,M, 4.300 ,,Não
-15,José Cândido dos Santos,,Dias D'Ávila,M, 3.000 ,,Sim
-16,Da Primavera,,Itaberaba,M, 4.000 ,,Não
-17,David Caldeiras,,Candeias,M, 4.000 ,,Não
-18,Edgar Santos,,Simões Filho,M, 4.000 ,,Sim
-19,Edvaldo Flores,,Vitória da Conquista,M, 1.277 , 2.077 ,Sim
-20,Eliel Martins,Valfredão,Riachão do Jacuípe ,M, 4.091 ,,Não
-21,Ferreira Brito,Ferreirão,Ribeirão do Pombal,M, 4.000 ,,Sim
-22,Geraldo Pereira,Geraldão,Barreiras,M, 7.000 ,,Sim
-23,Gerino de Souza Filho,,Lauro de Freitas,M, 1.200 ,,Sim
-24,Heraldo Curvelo,Heraldão,Poções,M, 7.000 ,,Sim
-25,Jonatas Eneas do Carmo,,Santo Amaro,M, 3.000 ,,Sim
-26,José Araújo,Araújão,Eunápolis,M, 5.000 ,,Não
-27,José Fontoura,,Itagibá,M, 3.000 ,,Não
-28,José Rocha,,Jacobina,M, 3.500 , 5.000 ,Sim
-29,José Trindade Lobo,,Santo Antônio de Jesus,M, 3.000 ,,Sim
-30,Joviniano Otaviano Dourado,,Irecê,M, 6.000 ,,Não
-31,Juarez Barbosa,Barbosão,Itamaraju,M, 8.000 ,,Sim
-32,Junqueira Ayres,,São Francisco do Conde,M, 1.622 , 3.000 ,Sim
-33,Lauro de Freitas,Itinga,Lauro de Freitas,M, 3.000 ,,Sim
-34,Lomanto Júnior,Lomantão,Vitória da Conquista,M, 11.538 , 12.934 ,Sim
-35,Luiz Eduardo Magalhães,,Terra Nova,M, 1.300 , 5.000 ,Sim
-36,Luiz Viana Filho,,Itabuna,M, 9.200 ,,Sim
-37,Luiz Viana Filho,,Pojuca,M, 3.500 ,,Sim
-38,Luiz Viana Neto,Bandarrão,Santo Estévão,M, 5.000 ,,Sim
-39,Madre de Deus,,Madre de Deus,M, 5.000 ,,Sim
-40,Manoel Barradas,Barradão,Salvador,P, 34.535 , 35.000 ,Sim
-41,Mariano Santana,,Serrinha,M, 2.034 , 6.066 ,Sim
-42,Mário Pessoa,,Ilhéus,M, 4.297 , 5.300 ,Sim
-43,Ocival Rodrigues de Souza,Ocivalzão,São Desidério,M, 3.500 ,,Sim
-44,Octávio Mangabeira,Arena Fonte Nova,Salvador,E, 47.907 , 50.025 ,Sim
-45,Ozório Ferraz de Oliveira,Ozorão,Itambé,M, 3.000 ,,Não
-46,Parque Santiago Compostela,Parque Santiago,Salvador,P, 2.000 ,,Não
-47,Pedro Amorim Duarte,,Senhor do Bonfim,M, 4.193 ,,Sim
-48,Pedro Caetano,,Ipiaú,M, 3.000 ,,Não
-49,Roberto Santos ,Pituaçu,Salvador,E, 32.157 , 32.157 ,Sim
-50,Ruberiano Oliveira,,Paulo Afonso,M, 4.000 ,,Sim
-51,Waldomiro Borges,,Jequié,M, 3.227 , 5.000 ,Sim
-1,Agenor Gomes de Araújo,Agenorzão,Iguatu,M, 3.475 , 9.715 ,Sim
-2,Aguinaldo Alves,Rorizão,Jardim,M, 2.000 , 2.000 ,Não
-3,Alberto Oliveira Sobrinho ,Betão,Pacatuba,M, 2.000 , 2.400 ,Não
-4,Alberto Wagner,Albertão,Baturité,M, 3.000 , 3.000 ,Sim
-5,Alcides Santos ,Alcides Santos,Fortaleza,P, 5.500 , 7.100 ,Sim
-6,Antônio Cruz ,Uniclinic,Fortaleza,P, 1.420 , 3.000 ,Sim
-7,Antônio de Paula Sales,,Uruburetama,M, 2.000 , 2.000 ,Não
-8,Antônio Lírio Callou,Inaldão,Barbalha,M, 3.400 , 5.000 ,Sim
-9,Antony Costa,,Fortaleza,M, 500.000 , 700.000 ,Não
-10,Arena Mateus Aquino,Coliseu,Alto Santo,M, 3.850 , 3.850 ,Não
-11,Capitão Tarcisio Araújo,Tarcisão,São Benedito,M, 1.500 , 4.000 ,não
-12,Carlos de Alencar Pinto,Vovozão,Fortaleza,P, 1.500 , 3.000 ,Sim
-13,Coronel Virgilio Távora,Virgilio Távora,Aracati,M, 2.500 , 3.000 ,Sim
-14,Estádio M. de Quiterianopoles,Vieirão,Quiterianopoles,M, 8.000 , 12.000 ,Sim
-15,Francisco Cardoso de Moraes,Moraisão,Maranguape,M, 1.700 , 3.700 ,Sim
-16,Francisco Clenilson dos Santos,Clenilsão,Horizonte,M, 2.500 , 5.000 ,Não
-17,Franzé Moraes,Cidade Vozão,Itaitinga,P, 1.500 , 2.500 ,Não
-18,Gerardo Feitosa de Sousa,Gerardão,Tauá,M, 8.000 , 11.168 ,Sim
-19,Gov. Plácido Aderaldo Castelo,Castelão/Arena Castelão,Fortaleza,E, 63.903 , 63.903 ,Sim
-20,Governador Virgilio Távora,Mirandão,Crato,M, 8.080 , 11.732 ,Sim
-21,Horácio Domingos de Sousa,Domingão,Horizonte,M, 10.400 , 10.500 ,Sim
-22,José Antonio Abilio de Lima,Abilhão,Quixadá,M, 2.500 , 3.000 ,Sim
-23,José de Oliveira Bandeira,Bandeirão,Limoeiro do Norte,M, 1.800 , 5.000 ,Sim
-24,José Santos Neto,Mourãozão,Nova Russas,M, 1.281 , 6.968 ,Sim
-25,Juvenal Melo,Jumelão,Crateús,M, 1.688 , 7.108 ,Sim
-26,João Firmino de Sousa,,Viçosa do Ceará,M, 2.400 , 2.400 ,Não
-27,Manuel Barroso Neto,Barrosão,Trairi,M, 2.108 , 5.000 ,Sim
-28,Mauro Castelo Branco Sampaio,Romeirão,Juazeiro do Norte,M, 10.000 , 15.000 ,Sim
-29,Pedro Eymard,Pedro Eymard,Morada Nova,M, 7.500 , 16.000 ,Sim
-30,Perilo Teixeira,Perilão,Itapipoca,M, 3.900 , 6.000 ,Sim
-31,Plácido Aderaldo Castelo,Junco,Sobral,M, 8.585 , 10.500 ,Sim
-32,Prefeito Assis Benicio,Assisão,Pacajus,M, 3.500 , 3.500 ,Sim
-33,Presidente Vargas,PV,Fortaleza,M, 20.262 , 20.262 ,Sim
-34,Raimundo da Cunha Rola,,Eusébio,M, 2.000 , 2.000 ,Não
-35,Raimundo de Oliveira,Raimundão,Caucaia,M, 5.000 , 5.000 ,Não
-36,Raimundo Vieira Filho,Vieirão,Itapajé,M, 3.000 , 3.000 ,Não
-37,Senador Carlos Jereissate,Carlos Jereissate,Maracanau,M, 3.500 , 3.500 ,Sim
-38,Sergismundo Rodrigues Neto,Serjão,Boa Viagem,M, 2.000 , 8.124 ,Sim
-39,Tancredo Neves,Tancredão,Tianguá,M, 2.000 , 2.000 ,Não
-40,Ubiratan Diniz Aguiar,Unbirão,Caridade,M, 1.500 , 1.500 ,Sim
-41,Valter Lacerda,Murilão,Fortaleza,M, 3.000 , 3.000 ,Sim
-42,Vila Olimpica Elzir Cabral,Elzir Cabral,Fortaleza,P, 2.500 , 4.200 ,Sim
-1,Adonir José Guimarães,Adonir Guimarães,Planaltina,M, 6.000 ,,Sim
-2,Antônio Otoni Filho,CAVE,Guará,M, 8.000 ,,Sim
-3,Augustinho Pires de Lima,Augustinho Lima,Sobradinho,M, 10.000 ,,Sim
-4,Chapadinha,Chapadinha,Brazlândia,M, 3.000 ,,Sim
-5,Do Cruzeiro,Cruzeiro,Cruzeiro Velho,M, 2.000 ,,Sim
-6,Elmo Serejo Farias,Boca do Jacaré / Serejão,Taguatinga,M, 27.000 , 28.800 ,Sim
-7,Estádio Nacional Mané Garrincha,Mané Garrincha,Brasília,E, 72.788 , 72.788 ,Sim
-8,JK Paranoá,JK,Paranoá,M, 8.000 ,,Não
-9,Joaquim Domingos Roriz,Rorizão,Samambaia,M, 8.000 ,,Sim
-10,Maria de Lourdes Abadia ,Abadião,Ceilândia,M, 3.000 , 3.000 ,Sim
-11,Vasco Viana de Andrade,Metropolitana,Núcleo Bandeirante,M, 3.000 ,,Sim
-12,Valmir Campelo Bezerra,Bezerrão,Gama,M, 20.310 , 20.310 ,Sim
-1,Alencar de Araripe,Engenheiro Araripe,Cariacica,P, 7.700 , 7.700 ,Sim
-2,Centro Esportivo Conilon,Conilon,Jaguaré,M, 2.664 , 2.664 ,Sim
-3,Dr. Arthur Gerhardt,Arthur Gerhardt,Domingos Martins,P, 500.000 , 500.000 ,Sim
-4,Emilio Nemer,,Castelo,P, 2.000 , 2.000 ,Sim
-5,Ernesto Campos da Fonseca,Estádio do Motorista,São José do Calçado,P, 1.250 , 1.250 ,Não
-6,Estádio da Estiva,Estiva,Serra,P, 2.100 , 2.100 ,Não
-7,Eugenio Bitti,Bambu,Aracruz,P, 5.058 , 5.058 ,Sim
-8,Gil Bernardes,Toca Índio,Vila Velha,P, 1.000 , 1.000 ,Não
-9,Joaquim Calmon,,Linhares,P, 2.000 , 2.000 ,Não
-10,José Olimpio da Rocha,,Aguia Branca,P, 3.200 , 3.200 ,Sim
-11,José Olivio Soares,,Itapemirim,P, 1.000 , 1.000 ,Sim
-12,Justiniano de Mello e Silva,,Colatina,M, 2.600 , 2.600 ,Sim
-13,Kleber José de Andrade,Kleber Andrade,Cariacica,E, 18.000 , 21.000 ,Sim
-14,Manoel Moreira Sobrinho,Sernamby,São Mateus,P, 3.854 , 3.854 ,Sim
-15,Mário Monteiro,Sumaré,Cachoeiro de Itapemirim,P, 6.000 , 6.000 ,Sim
-16,Moreira Rebello,Moreira Rebello,Cachoeiro de Itapemirim,P, 1.000 , 1.000 ,Não
-17,Municipal Cleber Roque Bertolde,,Marilândia,M, 1.100 , 1.100 ,Sim
-18,Municipal de Itaguaçú,,Itaguaçú,M, 1.000 , 1.000 ,Não
-19,Municipal Almiro Ofranti,,Vargem Alta,M, 2.000 , 2.000 ,Sim
-20,Roberto Costa,Robertão,Serra,P, 1.040 , 1.040 ,Sim
-21,Salvador Venâncio da Costa,Ninho da Águia,Vitória,P, 3.000 , 3.000 ,Sim
-22,Virgilio Grassi,,Rio Bananal,P, 2.200 , 2.200 ,Não
-1,Abrão Manoel Costa,,Trindade,P, 4.300 , 4.300 ,Sim
-2,Anibal Batista de Toledo,,Aparecida de Goiânia,M, 4.800 , 4.800 ,Sim
-3,Antônio Accioly,,Goiânia,P, 5.000 , 5.000 ,Sim
-4,Bichinho Vieira,,Quirinópolis,M, 7.000 , 7.000 ,Sim
-5,Centro Esportivo João Vilela,João Vilela,Morrinhos,E, 5.040 , 5.040 ,Sim
-6,Centro Olímpico,,Ceres,E, 5.000 , 5.000 ,Não
-7,Cruzeiro do Sul,,Itauçú,P, 2.600 , 2.600 ,Não
-8,Diogo Francisco Gomes,Diogão,Formosa,M, 6.000 , 6.000 ,Sim
-9,Divino Garcia Rosa,,Goiatuba,M, 6.000 , 6.000 ,Sim
-10,Durval Ferreira Franco,,Ipameri,P, 1.904 , 1.904 ,Não
-11,Francisco José Ferreira,Ferreirão,Iporá,M, 3.500 , 3.500 ,Não
-12,Genervino Evangelista da Fonseca ,Genervino da Fonseca,Catalão,P, 7.500 , 7.500 ,Sim
-13,Gilmar Alves,,Bom Jesus de Goiás,M, 3.000 , 3.000 ,Sim
-14,Hailé Pinheiro,Serrinha,Goiânia,P, 6.300 , 6.300 ,Sim
-15,José Roriz Aguiar (Zequinha Roriz),Serra do Lago,Luziânia,M, 12.300 , 12.300 ,Sim
-16,Jaime Guerra,,Nerópolis,M, 3.000 , 3.000 ,Sim
-17,Jonas Ferreira Duarte,Jonas Duarte,Anápolis,M, 10.707 , 10.707 ,Sim
-18,José Pereira de Souza,,Paraúna,M, 2.000 , 2.000 ,Sim
-19,Juscelino Kubitschek de Oliveira,JK,Itumbiara,M, 15.000 , 15.000 ,Sim
-20,Mozart Veloso do Carmo,,Rio Verde,E, 7.000 , 7.000 ,Sim
-21,Nelson Antônio da Silva,Arapucão,Jataí,M, 15.000 , 15.000 ,Sim
-22,Odilon Flores,,Mineiros,P, 7.000 , 7.000 ,Sim
-23,Onésio Brasileiro Alvarenga,OBA,Goiânia,P, 6.500 , 6.500 ,Sim
-24,Pedro Romualdo Cabral,,Santa Helena,E, 6.070 , 6.070 ,Sim
-25,Plínio José de Souza,,Senador Canedo,M, 3.816 , 3.816 ,Sim
-26,Rio das Pedras,,Itaberaí,P, 5.000 , 5.000 ,Sim
-27,Serra de Caldas,,Caldas Novas,M, 4.000 , 4.000 ,Sim
-28,Serra Dourada,,Goiânia,E, 42.000 , 42.000 ,Sim
-29,Waldeir José de Oliveira,,Goianésia,E, 4.000 , 4.000 ,Sim
-30,Zico Brandão,,Inhumas,E, 2.800 , 2.800 ,Sim
-1,Artemas Santos,Binezão,Santa Inês,M, 9.146 ,,Sim
-2,Cazuza Ribeiro,Cazuzão,Balsas,M, 826.000 ,,Sim
-3,Daniel Rodrigues Leal,Rodrigão,Santa Quitéria,M, 3.500 ,,Não
-4,Djalma Santos Campos Filho ,Djlama Campos,Viana,M, 3.725 ,,Não
-5,Duque de Caxias,,Caxias,M, 1.500 ,,Sim
-6,Francisco Camilo,Mirandão,Miranda do Norte,M, 700.000 ,,Não
-7,Frei Epifânio D'Abadia,Frei Epifânio,Imperatriz,M, 10.000 , 10.100 ,Sim
-8,Governador João Castelo,Castelão,São Luís,E, 40.149 , 40.149 ,Sim
-9,Ildemar Gonçalves dos Santos,Demazão,Itinga do Maranhão,M, 1.720 ,,Não
-10,José Cardoso do Nascimento ,Cardosão,Araioses,M, 800.000 ,,Não
-11,José Luis Neriz Correa,Correão,Bacabal,M, 7.816 ,,Sim
-12,Leandro Silva,Leandrão,Barra do Corda,M, 600.000 ,,Não
-13,Lucídio Frazão,Lucidão,Chapadinha,M, 2.300 ,,Não
-14,Miguel Lins,Miquelzão,Timon,M, 1.500 ,,Não
-15,Nhozinho Santos,,São Luís,M, 11.429 , 11.429 ,Sim
-16,Renê Bayma,,Codó,M, 8.000 ,,Sim
-1,Antônio Afonso de Melo,Bilinão,Alto Araguaia,M, 3.500 ,,Sim
-2,Antônio Santo Renosto,Cerradão,Primavera do Leste,M, 4.000 ,,Sim
-3,Apolônio Bouret Mello,,Chapada dos Guimarães,M, 4.000 ,,Não
-4,Arena Pantanal,,Cuiabá,E, 44.000 , 44.000 ,Sim
-5,Egídio José Preima,,Sorriso,M, 4.000 ,,Sim
-6,Danilo Pagot,,Juara,M, 4.000 ,,Sim
-7,Félix Belém de Castro,,Campo Verde,M, 3.000 ,,Sim
-8,José Valeriano Costa,Zeca Costa,Barra do Garças,M, 3.000 ,,Sim
-9,Luiz Geraldo da Silva,Geraldão,Cáceres,M, 6.500 ,,Sim
-10,Luthero Lopes,,Rondonópolis,M, 18.000 ,,Sim
-11,Mané Garrincha,,Tangará da Serra,M, 4.000 ,,Sim
-12,Márcio Cassiano da Silva,,Jaciara,M, 4.000 ,,Sim
-13,Massami Uriu,Gigante do Norte,Sinop,M, 13.000 ,,Sim
-14,Neco Falcão,,Poconé,M, 2.000 ,,Não
-15,Passo das Emas,,Lucas do Rio Verde,M, 10.000 , 10.000 ,Sim
-16,Presidente Dutra,Dutrinha,Cuiabá,M, 4.500 ,,Sim
-17,Virgílio do Nascimento,,Nova Xavantina,M, 2.000 ,,Não
-1,André Borges,Caldeirão do Borjão,Coxim,M, 3.500 ,,Não
-2,Arena da Paz,Olho do Furacão,Campo Grande,P, 1.200 ,,Não
-3,Arthur Marinho,,Corumbá,M, 5.000 ,,Sim
-4,Benedito Soares da Mota,Madrugadão,Três Lagoas,M, 3.500 ,,Sim
-5,Cacildo Pereira,Toca do Urso,Mundo Novo,M, 4.000 ,,Não
-6,Cezário de Freitas,,Rio Verde,M, 3.000 ,,Não
-7,Estádio Municipal Aral Moreira ,Aral Moreira,Ponta Porã,M, 4.000 ,,Não
-8,Estádio Municipal de Caarapó,Carecão,Caarapó,M, 1.800 ,,Não
-9,Estádio Municipal Sotero Zarate,,Sidrolândia,M, 4.000 ,,Sim
-10,Estádio Pedro Pedrossian,Morenão,Campo Grande,F, 24.000 , 29.670 ,Sim
-11,Francisco Chaves Filho,Chavinha,Itaporã,M, 1.250 ,,Sim
-12,Frédis Saldivar,Douradão,Dourados,E, 30.000 ,,Sim
-13,Ijair Tomquelsqui,SERC,Chapadão do Sul,P, 7.000 ,,Não
-14,Iliê Vidal,Ninho D'Águia,Rio Brilhante,M, 5.000 ,,Sim
-15,Jacques da Luz,Toca do Leão,Campo Grande,M, 4.500 ,,Não
-16,Joaquim Faustino Rosa,Carecão,Camapuã,M, 3.000 ,,Não
-17,José Cândido dos Santos Viroti,Virotão,Naviraí,M, 3.500 ,,Sim
-18,Laerte Paes Coelho,Laertão,Costa Rica,M, 5.000 ,,Sim
-19,Luiz Gonzaga Prata Braga,Loucão,Maracaju,M, 6.000 ,,Sim
-20,Luiz Saraiva Vieira,Saraivão,Ivinhema,M, 5.000 ,,Sim
-21,Municipal de Aquidauana,Noroeste,Aquidauana,M, 2.600 ,,Sim
-22,Municipal de Nova Andradina,Andradão,Nova Andradina,M, 6.980 , 8.000 ,Sim
-23,Municipal de Paranaíba,,Paranaíba,M, 5.000 ,,Não
-24,Municipal de Terenos,,Terenos,M, 500.000 ,,Não
-25,Municipal de Ribas do Rio Pardo,,Ribas do Rio Pardo,M, 500.000 ,,Não
-26,Vicente Fortunato,Vicentão,Ladário,M, 3.000 ,,Não
-1,Antônio Guimarães de Almeida,,Tombos,P, 3.050 , 3.050 ,Sim
-2,Astrogildo Duarte,,Nova Serrana,P, 1.200 , 1.200 ,Sim
-3,Bernardo Rubinger de Queiroz,,Patos de Minas,P, 8.372 , 10.000 ,Sim
-4,Campo do América,,Nepomuceno,P, 3.500 , 3.500 ,Sim
-5,Carlos Costa Monteiro,,Guaxupé,M, 2.471 , 2.471 ,Sim
-6,Castor Cifuentes,Penidão,Nova Lima,M, 5.160 , 5.160 ,Sim
-7,Cícero Paiva,,Sto Antônio do Amparo,M, 4.165 ,,Não
-8,Coleto de Paula,,Ituiutaba,P, 1.100 , 1.100 ,Não
-9,Coronel Erasmo Cabral,,Santa Rita do Sapucaí,M, 2.000 , 3.044 ,Não
-10,Dilzon Luís de Melo,Melão,Varginha,M, 15.471 , 15.471 ,Sim
-11,Elias Arbex,,Três Corações,M, 2.500 , 3.000 ,Sim
-12,Fausto Alvim,,Araxá,M, 5.500 , 7.000 ,Sim
-13,Fazendinha,,Ituiutaba,P, 1.800 , 3.000 ,Sim
-14,Irmão Gino Maria Rossi,,Pouso Alegre,M, 26.000 , 26.000 ,Sim
-15,Israel Pinheiro,,Itabira,M, 5.000 , 5.000 ,Sim
-16,João Guido,Uberabão,Uberaba,M, 10.000 , 16.384 ,Sim
-17,João Havelange,Parque do Sabiá,Uberlândia,M, 53.350 , 56.450 ,Sim
-18,João Lamego Neto,Lamegão,Ipatinga,M, 16.000 , 16.000 ,Sim
-19,Joaquim Henrique Nogueira,Arena do Jacaré,Sete Lagoas,P, 20.020 , 22.000 ,Sim
-20,José Flávio de Carvalho,,Itaúna,M, 1.900 , 3.800 ,Sim
-21,José Mammud Abbas,Marmudão,Governador Valadares,P, 8.678 , 8.678 ,Sim
-22,José Maria Melo,Campo do Casimiro,Montes Claros,P, 5.000 , 5.000 ,Sim
-23,Juca Pedro,,Formiga,P, 2.380 , 3.581 ,Sim
-24,Juca Ribeiro,,Uberlândia,P, 7.000 ,,Sim
-25,Júlio Aguiar,,Patrocínio,M, 1.500 , 3.000 ,Sim
-26,Louis Ensch,Campo do Social,Coronel Feliciano,P, 2.290 , 3.600 ,Sim
-27,Magalhães Pinto ,Mineirão,Belo Horizonte,E, 61.846 , 75.783 ,Sim
-28,Mario Ferreira Guimarães,Baleião,Belo Horizonte,M, 1.800 , 1.800 ,Não
-29,Mário Helênio,,Juiz de Fora,M, 14.185 , 30.000 ,Sim
-30,Nassari Mattar,,Teófilo Otoni,P, 5.000 , 5.000 ,Não
-31,Oswaldo Nascimento,,Pirapora,P, 1.500 , 1.500 ,Não
-32,Parque do Azulão,,Andradas,M, 7.500 , 7.500 ,Sim
-33,Pedro Anício Maia,,Minas Novas,M, 2.000 , 2.000 ,Não
-34,Raimundo Sampaio,Independência,Belo Horizonte,P, 23.018 , 23.018 ,Sim
-35,Ribeiro Junqueira,,Leopoldina,P, 1.600 , 1.600 ,Não
-36,Ronaldo Junqueira,Ronaldão,Poços de Caldas,M, 7.600 , 7.600 ,Sim
-37,Rubro Negro,,Varginha,M, 2.000 , 2.000 ,Sim
-38,Sebastião Cesar da Silva,,Araguari,P, 2.200 , 2.600 ,Sim
-39,Senador Zezé Perrela,Arena dos Calçados,Nova Serrana,M, 10.000 , 10.000 ,Sim
-40,Soares de Azevedo,Campo do Nacional,Muriaé,P, 10.000 , 13.971 ,Sim
-41,Starling Soares,,Passos,M, 5.400 , 5.400 ,Sim
-42,Victor Andrade Brito,Frimisa,Santa Luzia,M, 3.200 , 3.200 ,Sim
-43,Vila Olimpica,,Belo Horizonte,P,, 1.000 ,Não
-44,Waldemar Teixeira de Farias,Farião,Divinópolis,P , 4.080 , 4.080 ,Sim
-45,Waldir Melo,,Borda da Mata,M, 5.000 , 5.000 ,Não
-46,Zama Maciel,,Patos de Minas,P, 4.858 , 4.858 ,Sim
-1,Abelardo Conduru,,Belém,P, 500.000 ,,Não
-2,Antônio Dias,Navegantão,Tucuruí,M, 8.000 , 8.000 ,Sim
-3,Arena do Município Verde,Arena Verde,Paragominas,M, 9.878 , 9.878 ,Sim
-4,Edilson Abreu,Abreuzão,Santa Izabel,M, 600.000 , 2.000 ,Não
-5,Estadual de Santarém (Jader Barbalho),Colosso do Tapajós,Santarém,E, 8.000 , 12.000 ,Sim
-6,Evandro Almeida,Baenão,Belém,P, 12.000 , 12.000 ,Sim
-7,Francisco Vasques,Souza,Belém,P, 4.900 , 1.900 ,Não
-8,Humberto Parente,,Abaetetuba,P, 3.100 ,,Sim
-9,João Jaó,Jaozão,Mãe do Rio,M, 8.000 ,,Não
-10,Leônidas Sobré de Castro,Curuzu,Belém,P, 16.200 , 16.200 ,Sim
-11,Mario Couto Neto,Coutão,Santa Cruz,P, 1.500 , 1.500 ,Não
-12,Maximino Porpino Filho,Modelão,Castanhal,M, 5.000 , 5.000 ,Sim
-13,Olímpico do Pará,Mangueirão,Belém,E, 45.007 , 45.007 ,Sim
-14,Orfelino Martins Valente,Parque do Bacurau,Cametá,M, 8.200 , 10.230 ,Sim
-15,Raimundo Roseno de Araújo,Rosenão ,Paraupébas,M, 5.000 , 5.000 ,Sim
-16,São Benedito,Diogão,Bragança,P, 9.090 , 10.000 ,Não
-17,Zinho Oliveira,Zinho Oliveira,Marabá,M, 5.000 , 5.000 ,Sim
-1,Antônio Mariz,Marizão,Sousa,M, 5.400 , 5.400 ,Sim
-2,Ernani Sátyro,Amigão,Campina Grande,E, 19.000 , 19.000 ,Sim
-3,Evandro Lelis,Mangabeirão,João Pessoa,P, 2.000 , 2.000 ,Não
-4,Frederico Lundregen,Lundregão,Caaporã,M, 3.000 , 3.000 ,Não
-5,José Américo de Almeida Filho ,Almeidão,João Pessoa,E, 19.000 , 19.000 ,Sim
-6,José Barros Sobrinho,Zezão,Itaporanga,M, 3.000 , 3.000 ,Sim
-7,José Cavalcanti,Zé Cavalcanti,Patos,M, 5.170 , 5.170 ,Sim
-8,Juraci Pedro Gomes,Juracizão,João Pessoa,M, 3.000 , 3.000 ,Não
-9,Leonardo da Silveira,Estádio da Graça,João Pessoa,M, 6.400 , 6.400 ,Sim
-10,Perpétuo Correia de Lima,Perpetão,Cajazeiras,E, 1.600 , 1.600 ,Sim
-11,Presidente Vargas,PV,Campina Grande,P, 5.000 , 5.000 ,Sim
-12,Sílvio Porto,Sílvio Porto,Guarabira,M, 1.540 , 1.540 ,Sim
-13,Tadeu Matias,Tadeuzão,Sapé,M, 1.000 , 1.000 ,Não
-14,Virgínio Veloso Borges,Teixeirão,Santa Rita,M, 4.500 , 4.500 ,Sim
-1,ABC,Estádio do ABC,Foz do Iguaçu,P, 5.000 , 6.968 ,Sim
-2,14 De Dezembro,,Toledo,M, 12.500 , 15.000 ,Sim
-3,Albino Turbay,Olímpico,Cianorte,M, 2.254 , 4.000 ,Sim
-4,Anilado,Anilado,Francisco Beltrão,M, 2.000 , 5.460 ,Sim
-5,Antiocho Pereira,Antiocho,União da Vitória,M, 1.100 , 4.087 ,Sim
-6,Arena Vermelha,,Curitiba,M, 2.000 , 2.000 ,Sim
-7,Arnaldo Bussato,Olímpico Regional,Cascavel,M, 9.999 , 25.000 ,Sim
-8,Atílio Gionedes,Estádio do Internacional,Campo Largo,P, 4.198 , 4.198 ,Sim
-9,Bom Jesus da Lapa,Mun. Olímpio Barreto,Apucarana,M, 9.950 , 10.682 ,Sim
-10,C. E. Roberto Brzezinski,,Campo Mourão,M, 2.500 , 3.500 ,Sim
-11,C.E. Fernando Charbud Farah,Caranguejão,Paranaguá,M, 7.781 , 9.070 ,Sim
-12,C.E. Umuarama,Complexo Esportivo,Umuarama,M, 10.000 , 11.000 ,Não
-13,Cambará,Regional,Cambará,P, 5.000 , 8.000 ,Não
-14,Centro Poliesportivo Pinheirão,Pinheirão,Curitiba,P, 35.000 , 35.000 ,Sim
-15,Comendador Luiz Meneghel,Alto da Vila Maria,Bandeirantes,P, 5.000 , 6.000 ,Sim
-16,Coronel Emílio Gomes,,Irati,P, 4.322 , 4.579 ,Não
-17,Dr. Durval José da Silva,Municipal de Assaí,Assaí,M, 2.000 , 2.000 ,Não
-18,Durival Britto e Silva,Vila Capanema,Curitiba,P, 17.140 , 20.083 ,Sim
-19,Edvar Sávio,,Santa Terezinha de Itaipú,M, 800.000 , 800.000 ,Sim
-20,Erich Georg,Estádio do Nacional,Rolândia,M, 1.818 , 2.050 ,Não
-21,Érton Coelho Queiroz,Vila Olímpica,Curitiba,P, 500.000 , 10.000 ,Não
-22,Éxaro Menk,,Sertanópolis,M, 1.000 , 1.000 ,Não
-23,Francisco Borges de Campos,,Colorado,M, 1.000 , 1.400 ,Sim
-24,Francisco Muraro,,Curitiba,P, 800.000 , 800.000 ,Sim
-25,Francisco Zellerhoff Filho,,Nova Esperança,M, 500.000 , 540.000 ,Sim
-26,Germano Krugrer,Vilas Oficinas,Ponta Grossa,P, 8.000 , 8.832 ,Sim
-27,Jacy Scaff,Do Café,Londrina,M, 30.000 , 31.000 ,Sim
-28,Janguito Malucelli,Eco-Estádio,Curitiba,P, 3.150 , 4.200 ,Sim
-29,João Cavalcanti de Menezes,,Engenheiro Beltrão,M, 795.000 , 894.000 ,Não
-30,Joaquim Américo Guimarães,Arena da Baixada,Curitiba,P, 40.305 , 42.372 ,Sim
-31,José Chiappin,Dos Pássaros,Arapongas,M, 9.500 , 10.000 ,Sim
-32,José Eleotério da Silva,,Sto. Antônio da Platina,M, 2.843 , 3.000 ,Sim
-33,José Ferreira de Almeida,,Palmas,M, 900.000 , 912.000 ,Não
-34,José Garbelini,Da Curva,Cambé,M, 2.200 , 2.200 ,Não
-35,Lucio Pepino,Gigante da Baixada,Umuarama,M, 3.000 , 6.584 ,Não
-36,Major Antônio Couto Pereira,Couto Pereira,Curitiba,P, 40.502 , 40.502 ,Sim
-37,Nelson Medrado Dias,Leão da Estradinha,Paranaguá,P, 3.000 , 4.000 ,Sim
-38,Newton Agibert,Estádio Municipal,Prudentópolis,M, 2.984 , 3.090 ,Não
-39,Orlando Rinaldin,,Curitiba,P, 2.000 , 2.000 ,Sim
-40,Os Pioneiros,Os Pioneiros,Pato Branco,M, 2.100 , 2.100 ,Sim
-41,Pedro Basso,Estádio de ABC,Foz do Iguaçú,P, 5.000 , 6.968 ,Não
-42,Pedro Vilela,,Jacarezinho,M, 3.000 , 3.220 ,Não
-43,Pinhão,Do Xingú,São José dos Pinhais,M, 3.840 , 5.200 ,Não
-44,Sérgio Vitor Mega,,Centenário do Sul,M, 1.300 , 1.348 ,Não
-45,Ubirajara Medeiros,Campo da Vila,Cornélio Procópio,M, 2.580 , 4.080 ,Sim
-46,Vergínio Bortoli,,Ipiporã,M, 800.000 , 816.000 ,Sim
-47,Vitorino Gonçalves Dias,VGD,Londrina,P, 7.000 , 10.000 ,Sim
-48,Waldemiro Wagner,Felipão,Paranavaí,M, 4.000 , 9.999 ,Sim
-49,Waldomiro Gelinski,Campo do Batel,Guarapuava,P, 3.516 , 3.516 ,Não
-50,Willie Davids,Regional,Maringá,M, 16.226 , 20.000 ,Sim
-51,Theodoro Colombelli,Ninho da Cobra,Cascavel,M, 900.000 , 2.400 ,Não
-1,Ademir Cunha,,Paulista,M, 12.000 , 12.000 ,Sim
-2,Agamenón Magalhães,,Goiana,M, 1.300 , 1.300 ,Sim
-3,Aldemar da Costa Carvalho,Ilha do Retiro,Recife,P, 32.983 , 32.983 ,Sim
-4,Anteógenes Chaves,,Catende,M, 3.000 , 3.000 ,Sim
-5,Antônio Dourado,,Ipojuca,M, 3.000 , 3.000 ,Sim
-6,Antônio Galdêncio Freire,Galdenção,Itacuruba,M, 5.000 , 5.000 ,Sim
-7,Antônio Inácio de Souza,Vera Cruz,Caruaru,P, 6.000 , 6.000 ,Sim
-8,Arena Pernambuco,,São Lourenço da Mata,E, 44.300 , 44.300 ,Sim
-9,Arthur Tavares de Melo,,Bonito,M, 4.000 , 4.000 ,Sim
-10,Aureo Bradley,,Arcoverde,M, 3.000 , 3.000 ,Sim
-11,Carlos Alberto Gomes de Oliveira,,Surubim,M, 3.500 , 3.500 ,Sim
-12,Cornélio de Barros Muniz,,Salgueiro,M, 12.070 , 12.070 ,Sim
-13,Edvanes Nascimento,,Santa Maria da Boa Vista,M, 5.000 , 5.000 ,Sim
-14,Eládio de Barros Carvalho,Aflitos,Recife,P, 22.856 , 22.856 ,Sim
-15,Eugênio de Araújo,Olindão,Olinda,M, 4.000 , 4.000 ,Sim
-16,Ewerson Simões,Barbosão,Chã Grande,M, 3.400 , 3.400 ,Sim
-17,Ferreira Lima,,Timbaúba,M, 3.750 , 3.750 ,Sim
-18,Gileno de Carli,,Cabo de Santo Agostinho,M, 5.459 , 5.459 ,Sim
-19,Gilson Tirburtino de Souza,Chapadão do Araripe,Araripina,M, 5.341 , 5.341 ,Sim
-20,Jefferson de Freitas,,Jaboatão dos Guararapes,M, 2.000 , 2.000 ,Sim
-21,Joaquim de Brito,,Pesqueira,M, 1.800 , 1.800 ,Sim
-22,José do Rego Maciel,Arruda,Recife,P, 60.044 , 60.044 ,Sim
-23,José Mendonça Bezerra,Mendonção/SESC,Belo Jardim,P, 7.050 , 7.050 ,Sim
-24,José Joaquim de Albertin,,Vicência,M, 5.500 , 5.500 ,Sim
-25,José Vareda,,Limoeiro ,M, 5.000 , 5.000 ,Sim
-26,Luíz José de Lacerda,Lacerdão,Caruaru,P, 19.478 , 19.478 ,Sim
-27,Manoel Anizio Mota,,Petrolândia,M, 5.000 , 5.000 ,Sim
-28,Marco Antônio Maciel,Gigante do Agreste,Garanhuns,M, 6.356 , 6.356 ,Sim
-29,Moacir Soares,,Cupira,M, 1.500 , 1.500 ,Não
-30,Municipal de Carpina,,Carpina,M, 3.500 , 3.500 ,Sim
-31,Nildo Pereira de Menezes,Pereirão,Serra Talhada,M, 5.000 , 5.000 ,Sim
-32,Nossa Senhora do Ó,Municipal,Ipojuca,M, 5.000 , 5.000 ,Sim
-33,Olívio Lemos ,Altinense,Altinho,P, 3.012 , 3.012 ,Sim
-34,Otávio Limeira Alves,Limeirão,Santa Cruz do Capibaribe ,P, 5.039 , 5.039 ,Sim
-35,Paulo de Souza Coelho,,Petrolina,M, 5.000 , 5.000 ,Sim
-36,Professor Luiz Alexandrino,,Camaragibe,M, 2.000 , 2.000 ,Sim
-37,Severino Cândido Carneiro,Carneirão,Vitória de Santo Antão,M, 10.911 , 10.911 ,Sim
-38,Valdemar Viana de Araújo,,Afogados da Ingazeira,M, 1.735 , 1.735 ,Não
-39,Walter Dantas Caldeira,,Lagoa de Itaenga,M, 3.000 , 3.000 ,Não
-1,Centro Esportivo Dirceu Arcoverde,Verdinho,Parnaíba,P, 4.328 , 4.328 ,Sim
-2,Deusdeth de Melo,,Campo Maior,M, 4.000 , 4.000 ,Sim
-3,Gerson Campos,,Oeiras,M, 4.000 , 4.000 ,Sim
-4,Governador Alberto Silva,Albertão,Teresina,E, 52.296 , 52.296 ,Sim
-5,Helvídio Nunes,,Picos,M, 5.000 , 5.400 ,Sim
-6,Juca Fortes,,Barras,M, 4.870 , 4.870 ,Sim
-7,Lindolfo Monteiro,Lindolfinho,Teresina,M, 5.144 , 5.144 ,Sim
-8,Manoel Freitas Soares,Duduzão,Luiz Correia,M, 3.000 , 3.000 ,Não
-9,Mão Santa,Piscinão,Parnaíba,M, 4.146 , 4.146 ,Sim
-10,Tibério Nunes,Tiberão,Floriano,M, 5.398 , 5.398 ,Sim
-11,Ytacoatiara,Arena Colorada,Piripiri,M, 5.830 , 5.830 ,Sim
-1,Alair Corrêa,Correão,Cabo Frio,M, 522.000 , 2.611 ,Sim
-2,Aloísio Rodrigues de Lima,Catarinão,São Gonçalo,P,, 2.000 ,Não
-3,Alziro de Almeida,Alzirão,Itaboraí,M, 900.000 , 900.000 ,Não
-4,Aniceto Moscoso,Conselheiro Galvão,Rio de Janeiro,P, 1.709 , 2.136 ,Não
-5,Antônio Carneiro,Carneirão,Quissamã,M, 370.000 , 370.000 ,Não
-6,Antônio Ferreira de Medeiros,Ferreirão,Cardoso Moreira,P, 900.000 , 3.000 ,Não
-7,Antônio Gomes Viana,,Carapebus,P, 10.000 ,,Não
-8,Antônio Mourão Vieira Filho,Bariri,Rio de Janeiro,P, 4.980 , 8.300 ,Sim
-9,Antônio Salvatore,,Teresópolis,P, 8.000 ,,Não
-10,Arthur Antunes Coimbra,Antunes,Rio de Janeiro,P, 774.000 , 774.000 ,Sim
-11,Arthur Sendas,Sendolândia,São João de Meriti,P, 560.000 , 560.000 ,Não
-12,Ary de Oliveira e Souza,Arizão,Campos,P, 5.800 , 5.800 ,Sim
-13,Atílio Marotti,,Petrópolis,P, 8.500 ,,Não
-14,Cabuçu,,Rio de Janeiro,P, 400.000 ,,Não
-15,Campo dos Cordeiros,,São Gonçalo,P, 15.000 ,,Não
-16,Carmo Arenari Filho,,Rio de Janeiro,P, 500.000 ,,Não
-17,Cláudio Moacyr Azevedo,Moacyrzão,Macaé,P, 15.000 , 15.000 ,Sim
-18,Carlos Gonçalves,Motorista,Rio Bonito,P, 300.000 , 300.000 ,Não
-19,De Los Larios,Los Larios,Duque de Caxias,P, 5.088 , 6.300 ,Sim
-20,Eduardo Guinle,,Nova Friburgo,M, 4.750 , 5.500 ,Sim
-21,Eduardo Viana,Toca Capirava,Japeri,P, 1.000 ,,Não
-22,Elcyr Resende de Mendonça,Bacaxá,Saquarema,P, 4.315 , 2.058 ,Sim
-23,Eustáquio Marques,Estádio do Divino,Rio de Janeiro,P, 1.000 ,,Não
-24,Expedicionário,,Macaé,P, 7.500 ,,Não
-25,Figueira de Melo,Figueirinha,Rio de Janeiro,P , 800.000 , 800.000 ,Não
-26,Giulite Coutinho,Edson Passos,Edson Passos,P, 13.544 , 13.544 ,Sim
-27,Guilherme da Silveira Filho,Moça Bonita,Rio de Janeiro,P, 6.989 , 9.024 ,Sim
-28,Helio Rodrigues da Siqueira,Municipal Itacuruça,Itacuruça,M, 400.000 ,,Não
-29,Hermano Victor Meguelle,,Itaguaí,M, 500.000 ,,Não
-30,Hermenegildo Barcelos,Barcelão,Arraial do Cabo,M, 4.500 ,,Sim
-31,Ítalo Del Cima,,Rio de Janeiro,P, 18.000 ,,Não
-32,Jair Carneiro Toscano de Brito,,Angra dos Reis,M, 500.000 , 1.500 ,Não
-33,Jair Pereira da Silva,,São Gonçalo,P, 2.000 ,,Não
-34,Jair Siqueira Bittencourt,,Itaperuna,P, 10.000 ,,Não
-35,Janio de Moraes,Laranjão,Nova Iguaçu,P, 1.810 , 1.810 ,Não
-36,João Francisco,Estádio do Ceres,Rio de janeiro,P, 3.000 ,,Não
-37,Joaquim de Almeida Flores,,Nilópolis,P, 5.000 ,,Não
-38,Joel Pereira,Pereirão,Nova Iguaçu,P, 1.000 ,,Não
-39,Jornalista Mário Filho,Maracanã,Rio de Janeiro,E, 78.838 , 78.838 ,Sim
-40,José Bastos Padilha,Da Gávea,Rio de Janeiro,P, 4.000 ,,Não
-41,José de Alvarenga,Alvarengão,Belford Roxo,P, 4.000 ,,Não
-42,José Gonçalves Brandão Filho,,Aperibé,P, 1.000 ,,Não
-43,José Maria de Brito Barros,,Mangaratiba,M, 600.000 , 600.000 ,Não
-44,Leonidas da Silva,Teixeira de Castro,Rio de Janeiro,P, 836.000 , 2.390 ,Não
-45,Lourival Gomes de Almeida,Lourivalzão,Sampaio Correa,P, 1.800 , 1.800 ,Não
-46,Luso Brasileiro,,Rio de Janeiro,P, 2.000 , 4.697 ,Sim
-47,Manoel José Vianna de Sá,,São João da Barra,M, 900.000 , 1.824 ,Não
-48,Manoel Schwartz,Laranjeiras,Rio de Janeiro,P, 2.000 ,,Não
-49,Marcelo de Moura e Souza,Marcelão,Três Rios,P, 2.200 ,,Não
-50,Mario Castanho,Arena Guanabara,Araruama,P, 10.000 ,,Não
-51,Mestre Telê Santana,Maracanazinho,Duque de Caxias,M, 2.000 ,,Sim
-52,Mestre Ziza,Caio Martins,Niterói,P, 12.000 ,,Sim
-53,Municipal de Búzios,SE Buzios,Búzios,M, 1.000 ,,Não
-54,Municipal de Resende,Do Trabalhador,Resende,M, 950.000 , 4.600 ,Não
-55,Nielsen Louzada,Louzadão,Mesquita,P, 6.000 ,,Não
-56,Nilton Santos,Engenhão,Rio de Janeiro,M, 34.171 , 45.000 ,Sim
-57,Nivaldo Pereira,Nivaldão,Queimados,P, 160.000 , 2.184 ,Não
-58,Odair Gama,,Três Rios,P, 10.000 ,,Não
-59,Oswaldo Delegado de Moraes,,Paracambi,P, 1.000 ,,Não
-60,Ozório Junior,,Petropolis,P, 5.000 ,,Não
-61,Paulo Fernandes,Royal Barra do Parai,Barra do Piraí,P, 6.000 ,,Não
-62,Plínio Bastos Barros,,Miracema,M, 400.000 ,,Não
-63,Pref. Ismael de Souza Leão do Sul,Leão do Sul,Barra Mansa,M, 1.000 , 2.000 ,Não
-64,Romário de Souza Faria,Marrentão,Xerém,P, 3.334 , 3.334 ,Sim
-65,São Januário,São Januário,Rio de Janeiro,P, 21.880 , 24.584 ,Sim
-66,Sylvio Raulino de Oliveira,Da Cidadania,Volta Redonda,M, 18.230 , 20.255 ,Sim
-67,Waldemar Tardio,,São Pedro da Aldeia,M, 500.000 ,,Não
-68,Waldo Carneiro Xavier,,Santo Antônio de Pádua,M, 850.000 , 3.350 ,Não
-1,9 de Janeiro,,Pau dos Ferros,M,, 4.746 ,Sim
-2,Arena das Dunas, ,Natal,P, 32.050 , 32.050 ,Sim
-3,Dinarte de Medeiros Mariz,Marizão,Caicó,E, 3.000 , 12.000 ,Sim
-4,Edgar Borges Montenegro,Edgarzão,Assu,P, 4.200 , 4.200 ,Sim
-5,Iberê Ferreira de Souza,Iberezão,Santa Cruz ,M, 4.403 , 5.013 ,Sim
-6,João Pedro Filho,Pajesão,Guamaré,M,, 4.050 ,Sim
-7,José Bezerra,Bezerrão,Currais Novos,M,, 1.600 ,Sim
-8,José Nazareno do Nascimento,Nazarenão,Goianinha,M, 4.100 , 4.100 ,Sim
-9,Juvenal Lamartine,JL,Natal,P,, 3.000 ,Não
-10,Laurentino Bezerra,,Parelhas,M,, 600.000 ,Não
-11,Luís Rios Bacurau,Ninho do Periquito,São Gonçalo,P, 2.067 , 2.167 ,Sim
-12,Manoel Dantas Barretto,Barrettão,Ceará Mirim,M, 9.994 , 10.068 ,Sim
-13,Manoel Leonardo Nogueira,Nogueirão,Mossoró,P, 4.000 , 10.000 ,Sim
-14,Maria Lamas Farache,Frasqueirão,Natal,P, 14.740 , 15.082 ,Sim
-15,Walter Bichão,Walter Bichão,Macau,M,, 3.000 ,Sim
-1,19 de Outubro,,Ijuí,P , 5.217 , 5.217 ,Sim
-2,Alberto Carlos Schwingler,,Igrejinha,P, 2.500 , 2.500 ,Sim
-3,Alcides Santa Rosa,,Garibldi,P, 2.000 , 5.000 ,Sim
-4,Aldo Dapuzzo,,Rio Grande,P, 3.500 , 3.500 ,Sim
-5,Alfredo Jaconi,,Caxias do Sul,P, 19.924 , 19.924 ,Sim
-6,Aloysio Valentin Schwertner,,Estrela,M, 2.800 , 2.800 ,Não
-7,Altos da Glória,,Vacaria,P, 2.410 , 3.000 ,Sim
-8,Amaro Cassep,,Rio Pardo,P, 1.133 , 1.133 ,Não
-9,Antônio David Farina,,Veranópolis,M, 4.720 , 5.000 ,Sim
-10,Antônio Magalhães Russel,Estrela D'Alva,Bagé,P, 3.000 , 10.000 ,Sim
-11,Antônio Vieira Ramos,Vieirão,Gravataí,P, 4.700 , 4.700 ,Sim
-12,Arena Alviazul,,Lajeado,P, 4.266 , 4.266 ,Sim
-13,Arena do Grêmio,Arena Portoalegrense,Porto Alegre,P, 55.662 , 55.662 ,Sim
-14,Aristides Bertuol,,Bento Gonçalves,P, 3.500 ,,Não
-15,Arthur Lawson,,Rio Grande,P, 3.000 , 3.000 ,Sim
-16,Arthur Mesquita Dias,,Sapucaia do Sul,M, 2.500 ,,Não
-17,Azalobão,,Nova Petrópolis,P, 2.500 ,,Não
-18,Bento da Silva Freitas,Bento Freitas,Pelotas,P , 5.000 , 5.000 ,Sim
-19,Breno Guimarães,,Guaíba,P, 1.000 ,,Não
-20,Boca do Lobo,,Pelotas,P, 15.478 , 15.478 ,Sim
-21,Carlos Bebber,,Marau,M, 2.000 , 2.000 ,Sim
-22,Carlos Denardin,,Santa Rosa,M, 3.500 ,,Sim
-23,Carlos Jacob Simon,,Ibirubá,P, 3.000 ,,Não
-24,Castanheiras,,Farroupilha,P, 4.500 ,,Sim
-25,Colosso da Lagoa,,Erechim,P, 22.000 , 22.000 ,Sim
-26,Complexo Esportivo da PUC,,Porto Alegre,P, 2.200 ,,Sim
-27,Complexo Esportivo Ulbra,Complexo Esportivo,Canoas,P, 10.000 ,,Sim
-28,Coronel Sílvio Luiz,,Camaquã,P, 3.000 ,,Não
-29,Das Cabriúvas,Cabriúvas,Encantado,P, 3.000 , 3.000 ,Não
-30,Das Rosas,,Sapiranga,P, 5.000 ,,Não
-31,Dos Pinheirais,,Gramado,P, 1.500 ,,Não
-32,Dr. Mário Cini,Mário Cini,Nova Prata,M, 3.000 , 3.000 ,Não
-33,Dr. Pedro Sander,,Canela,P, 3.000 ,,Não
-34,Edgar Leitão Teixeira,Tamoio,Viamão,P, 400.000 ,,Não
-35,Edmundo Feix,,Venâncio Alves,P , 3.000 , 3.000 ,Sim
-36,Estádio Beira-Mar,Municipal de Tramadaí,Tramandaí,M, 2.000 , 2.000 ,Não
-37,Estádio do Vale,,Novo Hamburgo,P, 5.196 , 5.196 ,Sim
-38,Eucaliptos,,Santa Cruz do Sul,P, 3.000 , 3.000 ,Sim
-39,Eucaliptos,,Santa Maria,P, 4.000 ,,Não
-40,Florestal,,Lajeado,P, 3.200 , 3.200 ,Sim
-41,Fonte Sarandi,,Sarandi,P, 2.500 , 2.500 ,Não
-42,Francisco Emilio Trein,,Ibirubá,P, 3.000 ,,Não
-43,Francisco Stédile,Centenário,Caxias do Sul,P, 22.132 , 22.132 ,Sim
-44,Homero Soldatelli,,Flôres da Cunha,M, 1.500 ,,Não
-45,João Corrêa da Silveira,Cristo Rei,São Leopoldo,P, 7.800 , 10.000 ,Sim
-46,João da Silva Moreira,Parque Lami,Porto Alegre,P, 1.500 ,,Não
-47,João Marimon Junior,,Panambi,M, 2.873 , 2.873 ,Sim
-48,João Martins,,Santana do Livramento,P, 5.000 ,,Não
-49,João Renato Feltes,,Novo Hamburgo,P, 1.500 ,,Não
-50,Joaquim Vidal,,Cachoeira do Sul,M, 5.000 , 5.000 ,Sim
-51,José Pinheiro Borda,Beira Rio,Porto Alegre,P , 50.128 , 50.128 ,Sim
-52,Luciano Ferreira Martins,,Palmeira das Missões,P, 2.000 ,,Não
-53,Luiz de Medeiros,,Três Passos,M, 3.000 ,,Não
-54,Miguel Wairich Filho,,Júlio de Castilhos,M, 1.000 ,,Não
-55,Morada dos Quero-Queros,,Alvorada,P, 1.000 , 1.487 ,Não
-56,Nicolau Fico,Fragata,Pelotas,P, 3.120 , 3.120 ,Não
-57,Odorico Mosmann,,Parobé,P, 2.500 ,,Não
-58,Omar de Carli,,Fagundes Varela,P, 3.000 ,,Não
-59,Pq. Esp. Montanha dos Vinhedos ,Montanha dos Vinhedos,Bento Gonçalves,P, 12.859 , 15.000 ,Sim
-60,Passo D'Areia,,Porto Alegre,P, 10.646 , 14.000 ,Sim
-61,Paulo Coutinho,,Carazinho,P, 4.000 ,,Não
-62,Pedra Moura,,Bagé,P, 3.000 , 3.000 ,Sim
-63,Plátanos,,Santa Cruz do Sul,P, 3.000 , 3.000 ,Sim
-64,Presidente Vargas,Baixada Melancólica,Santa Maria,P, 6.523 , 6.523 ,Sim
-65,Raul Oliveira,Zona Sul,Santo Ângelo,P, 6.000 ,,Sim
-66,Rubro Negro,,Crissiumal,M, 3.500 ,,Não
-67,Sadi Arnildo Schmidt,,Campo Bom,P , 2.000 ,,Sim
-68,Silvio de Faria Correa,,São Gabriel,M, 5.000 , 6.000 ,Sim
-69,Vermelhão da Colina,,Frederico Westphalen,P, 4.000 ,,Sim
-70,Vermelhão da Serra,,Passo Fundo,P, 15.000 , 15.000 ,Sim
-71,Vicente Goulart,,São Borja,P, 8.000 ,,Sim
-1,Aglair Tonelli Nogueira,,Cacoal,M, 4.000 ,,Sim
-2,Aluizio Pinheiro Ferreira,Aluizão,Porto Velho,E, 700.000 , 5.000 ,Sim
-3,Arnaldo Lopes Martins,Portal da Amazônia,Vilhena,M, 2.500 ,,Sim
-4,Gentil Valério,Valerião,Ariquemes,M, 2.500 ,,Sim
-5,José Ângelo Cassol,Cassolão,Rolim de Moura,M, 4.000 ,,Sim
-6,José de Abreu Bianco,Biancão,Ji-Paraná,E, 5.000 ,,Sim
-7,Leal Chapelão,,Jaru,M, 3.000 ,,Sim
-8,Luiz Alves de Ataíde,Ataíde,Pimenta Bueno,M, 2.000 ,,Sim
-9,Luizinho Turatti,,Espigão D'Oeste,M, 2.000 ,,Sim
-1,Flamarion Vasconcelos,Canarinho (em obras),Boa Vista,E, 6.000 , 6.000 ,Sim
-2,Municipal de Mucajaí,Sabinão,Mucajaí,M, 1.000 , 1.100 ,Sim
-3,Raimundo Ribeiro de Souza,Ribeirão,Boa Vista,E, 1.107 , 1.500 ,Sim
-1,Aderbal Ramos da Silva,Ressacada,Florianópolis,P, 17.826 , 17.826 ,Sim
-2,Aníbal Torres Costa,,Tubarão,M, 3.570 , 3.570 ,Sim
-3,Arena Joinville,Arena,Joinville,M, 20.160 , 22.000 ,Sim
-4,Augusto Bauer,,Brusque,P, 5.000 , 5.000 ,Sim
-5,Benedito Therezio de Carvalho Jr.,Ditão,Canoinhas,M, 3.170 , 3.170 ,Não
-6,Botafogo Futebol Clube,Estrela Solitária,Jaraguá do Sul,P, 1.000 , 1.000 ,Não
-7,Carlos Alberto Costa Neves,,Caçador,M, 6.500 , 6.500 ,Sim
-8,Complexo Esportivo do SESI,SESI,Blumenau,P, 3.624 , 3.624 ,Sim
-9,Domingos Machado de Lima,,Concórdia,M, 3.161 , 3.161 ,Sim
-10,Domingos Silveira Gonzales,,Tubarão,P, 1.706 , 1.706 ,Sim
-11,Edir Prestes Valin,Macieirão,Fraiburgo,M, 4.250 , 4.250 ,Não
-12,Ernesto Schlemm Sobrinho,Ernestão,Joinville,P, 5.000 , 5.000 ,Sim
-13,Hercílio Luz,Gigantão,Itajaí,P, 6.010 , 6.010 ,Sim
-14,Heriberto Hulse,Majestoso,Cricíuma,P, 19.900 , 19.900 ,Sim
-15,Hermann Aichinger,Da Baixada,Ibirama,P, 3.000 , 3.000 ,Sim
-16,Índio Condá,Arena Condá,Chapecó,M, 15.765 , 15.765 ,Sim
-17,João Marcatto,,Jaraguá do Sul,M, 5.270 , 5.270 ,Sim
-18,Orlando Scarpelli,Scarpelli,Florianópolis,P, 19.584 , 19.584 ,Sim
-19,Renato Silveira,,Palhoça,P, 2.081 , 2.081 ,Sim
-20,Roberto Santos Garcia,Robertão,Camboriú,M, 3.300 , 3.300 ,Sim
-21,Vidal Ramos Júnior,,Lages,M, 4.681 , 6.000 ,Sim
-22,Victório Pierozan,,Seára,M, 1.500 , 1.500 ,Não
-1,1º de Maio,,São Bernardo do Campo,M, 13.440 , 15.759 ,Sim
-2,Acrísio Paes Cruz,,Botucatu,M, 3.000 , 3.000 ,Sim
-3,Adail Nunes da Silva,,Taquaritinga,M, 16.805 , 18.805 ,Sim
-4,Ademar de Barros,Ademarzão,Araçatuba,M, 11.274 , 11.274 ,Sim
-5,Ademar Pereira de Barros,Fonte Luminosa/Arena da Fonte,Araraquara,M, 20.000 , 21.441 ,Sim
-6,Adhemar de Barros,,São Manuel,M, 1.500 , 1.500 ,Não
-7,AD Parahyba,,São José dos Campos,P, 5.016 , 5.016 ,Não
-8,Alberto Victolo,Albertão,Tanabi,M, 8.400 , 8.400 ,Não
-9,Aldevio Barbosa de Lemos,,Campo Limpo Paulista,M, 1.533 , 1.533 ,Não
-10,Alexandre Augusto Camacho,,Mogi Guaçu,M, 4.000 , 5.594 ,Sim
-11,Alfredo Chiavegato,,Jaguariúna,M, 15.000 , 15.000 ,Não
-12,Alfredo de Castilho,Alfredão,Bauru,P, 16.300 , 18.866 ,Sim
-13,Alfredo Schürig,Parque São Jorge,São Paulo,P, 12.000 , 18.500 ,Não
-14,Allianz Parque,Allianz Parque,São Paulo,P, 43.713 , 43.713 ,Sim
-15,Alonso de Carvalho Braga,,Tupã,M, 5.515 , 5.515 ,Sim
-16,Amadeu Mosca,,Salto,M, 2.000 , 2.000 ,Não
-17,Anacleto Campanella,,São Caetano do Sul ,M, 16.744 , 16.744 ,Sim
-18,André Nunes Junior,,Itapevi,M, 3.452 , 5.000 ,Não
-19,Anísio Haddad,,São José do Rio Preto,P , 14.014 , 14.126 ,Sim
-20,Antônio Fernandes,,Guarujá,M, 6.840 , 6.840 ,Não
-21,Antônio Gomes Martins,Fortaleza,Barretos,M, 13.007 , 13.007 ,Sim
-22,Antônio Lins Ribeiro Guimarães,,Santa Bárbara D ?Oeste ,P, 14.913 , 14.913 ,Sim
-23,Antônio Pereira Braga,,José Bonifácio,M, 4.660 , 4.800 ,Não
-24,Antônio Soares de Oliveira,,Guarulhos,M, 6.000 , 6.235 ,Não
-25,Antônio Viana Silva,Tonicão,Assis,M, 8.525 , 8.525 ,Não
-26,Arena Capivari,,Capivari,M, 7.314 , 7.314 ,Não
-27,Arena Corinthians,,São Paulo,P, 45.000 , 47.605 ,Sim
-28,Arena Plínio Marin,,Votuporanga,M, 7.464 , 8.087 ,Não
-29,Archangelo Breda,,Lençóis Paulista,M, 5.242 , 5.242 ,Não
-30,Dr. Orlando Batista Novelli,Arena Barueri,Barueri,M, 31.452 , 31.452 ,Sim
-31,Augusto Schmidt Filho,Schmiltão,Rio Claro,M, 6.284 , 6.284 ,Sim
-32,Barão de Serra Negra,,Piracicaba,M, 18.000 , 18.000 ,Sim
-33,Belarmino Del Nero,BDN,Pirassununga,P, 4.935 , 4.935 ,Não
-34,Benito Agnelo Castellano,Benitão,Rio Claro,M, 8.136 , 8.136 ,Sim
-35,Benedito Teixeira,Teixeirão,São José do Rio Preto ,P , 32.168 , 32.936 ,Sim
-36,Bento de Abreu Souza Vidal,Bento de Abreu,Marília,M, 15.010 , 15.010 ,Sim
-37,Breno Ribeiro do Val,,Oswaldo Cruz,M, 11.784 , 11.784 ,Sim
-38,Brinco de Ouro da Princesa,Brinco de Ouro,Campinas,P, 29.130 , 29.130 ,Sim
-39,Bruno José Daniel,,Santo André,M, 8.000 , 14.185 ,Sim
-40,Bruno Lazzarini,,Leme,M, 6.701 , 6.701 ,Sim
-41,Cândido de Barros,,Araraquara,M, 4.156 , 4.156 ,Sim
-42,Carlos Affini,,Paraguaçu Paulista,M, 15.000 , 15.000 ,Sim
-43,Carlos Ferracine,,Caieiras,M, 5.560 , 5.560 ,Não
-44,Cerecamp,,Campinas,M, 4.033 , 4.033 ,Não
-45,Cícero Pompeu de Toledo,Morumbi,São Paulo,P, 72.039 , 77.011 ,Sim
-46,Cláudio Rodante,,Fernandópolis,M, 5.000 , 6.950 ,Sim
-47,Comendador Agostinho Prada,Pradão,Limeira,M, 9.483 , 9.483 ,Sim
-48,Conde Rodolfo Crespi,Rua Javari,São Paulo,P, 3.800 , 4.004 ,Não
-49,Coronel Francisco Vieira,,Itapira,M, 4.444 , 4.800 ,Sim
-50,CP João do Pulo,,São José dos Campos,M, 600.000 , 600.000 ,Sim
-51,Dario Rodrigues Leite,,Guaratinguetá,M, 16.095 , 16.095 ,Sim
-52,Décio Vitta,Rio Brancão,Americana,M, 16.300 , 16.300 ,Sim
-53,Distrital Vila Guarani,,São Paulo,M, 1.500 , 1.500 ,Não
-54,Domenico Paolo Mettidieri,,Votorantim,M, 980.000 , 980.000 ,Não
-55,Domingos Baldan,,Guariba,M, 2.737 , 2.737 ,Não
-56,Dos Amaros,,Itápolis,M, 946.000 , 14.074 ,Sim
-57,Dr. Francisco Palmas Travassos,,Ribeirão Preto,P, 14.500 , 18.277 ,Sim
-58,Dr. Jorge Ismael de Biasi,,Novo Horizonte,P, 12.872 , 14.096 ,Sim
-59,Dr. Oswaldo Scatena,,Batatais,P, 13.000 , 13.000 ,Sim
-60,Ernesto Rocco,,Porto Feliz,M, 3.646 , 4.246 ,Não
-61,Espanha,,Santos,P, 7.228 , 7.228 ,Não
-62,Euclides da Almeida,,Cotia,M, 5.230 , 5.230 ,Não
-63,Farid Jorge Resegue,,Bariri,M, 3.000 , 4.892 ,Não
-64,Francisco Franco,,Rancharia,P, 3.213 , 3.213 ,Não
-65,Francisco Marques Figueira,,Suzano,M, 3.445 , 3.445 ,Sim
-66,Francisco Ribeiro Nogueira Filho,,Mogi das Cruzes,M, 14.384 , 14.384 ,Sim
-67,Frederico Dalmaso,Fredericão,Sertãozinho,M, 2.277 , 7.860 ,Sim
-68,Frei Arnaldo Castilho,,Ilha Solteira,M, 5.500 , 5.500 ,Sim
-69,Giglio Portugal Pichinin,Baetão,São Bernardo do Campo,M, 6.315 , 6.315 ,Sim
-70,Gilberto Siqueira Lopes,Gilbertão,Lins,M, 15.064 , 15.770 ,Sim
-71,Hermínio Espósito,,Embu das Artes,M, 2.986 , 2.986 ,Não
-72,Hermínio Ometto,Herminião,Araras,P, 16.096 , 16.096 ,Sim
-73,Hudson Buck Ferreira,,Matão,P, 8.758 , 14.500 ,Sim
-74,Ítalo Mário Limongi,Gigante da Vila Industrial,Indaiatuba,P, 7.820 , 7.820 ,Não
-75,Jayme Pinheiro Ulhoa Cintra,Jayme Cintra,Jundiaí,P, 13.905 , 15.155 ,Sim
-76,Joaquim de Moraes Filho,Joaquinzão,Taubaté,P, 9.600 , 12.896 ,Sim
-77,Joaquim Justo,,Américo Brasiliense,M, 5.000 , 5.000 ,Não
-78,Joe Sanchez,ADC GM,São José dos Campo,P, 1.000 , 1.000 ,Não
-79,José Araújo Cintra,,Amparo,P, 4.675 , 4.675 ,Não
-80,José Lancha Filho,Lanchão,Franca,M, 14.686 , 14.686 ,Sim
-81,José Liberatti,Rochedale,Osasco,M, 11.780 , 12.430 ,Não
-82,José Maria Campos Maia,,Mirassol,M, 15.000 , 15.000 ,Sim
-83,José Sidney Cunha,,Capão Bonito,M, 10.022 , 10.022 ,Não
-84,Laudo Natel,,Cotia,P, 2.000 , 2.000 ,Sim
-85,Legionário Esporte Clube,Dedé Muniz,Bragança Paulista,P, 900.000 , 900.000 ,Não
-86,Leonardo Barbieri,,Águas de Lindóia,M, 7.200 , 7.200 ,Não
-87,Leônidas Camarinha,,Santa Cruz do Rio Pardo,M, 6.000 , 7.500 ,Sim
-88,Luiz Perissinotto,,Paulínia,M, 5.386 , 5.386 ,Não
-89,Major José Levy Sobrinho,Limeirão,Limeira,M, 18.000 , 23.475 ,Sim
-90,Mansueto Pierotti,,São Vicente,P, 4.912 , 4.912 ,Não
-91,Marcos Eduardo C. Truvilho,,Ibiúna,M, 3.720 , 3.720 ,Não
-92,Maria Tereza Breda,,Olímpia,M, 15.000 , 15.000 ,Sim
-93,Martins Pereira,,São José dos Campos ,M, 16.500 , 16.500 ,Sim
-94,Moisés Lucarelli,,Campinas,P, 17.728 , 19.728 ,Sim
-95,Nabi Abi Chedid,,Bragança Paulista,P, 17.022 , 17.128 ,Sim
-96,Nicolau Alayon,,São Paulo,P, 5.000 , 10.117 ,Não
-97,Novelli Junior,Majestoso da Vila Nova,Itu,M, 18.560 , 18.560 ,Sim
-98,Oswaldo Teixeira Duarte,Canindé,São Paulo,P, 21.004 , 22.375 ,Sim
-99,Otacília Patrício Arroyo,,Monte Azul,P, 13.100 , 13.100 ,Não
-100,Paulo Constantino,Prudentão,Presidente Prudente,M, 45.954 , 45.954 ,Sim
-101,Paulo Machado de Carvalho,Pacaembu,São Paulo,M, 37.730 , 40.199 ,Sim
-102,Pedro Benedetti,EM de Mauá,Mauá,M, 8.567 , 8.567 ,Não
-103,Pedro Marin Barbel,Pedrão,Biriguí,M, 2.500 , 8.240 ,Sim
-104,Prof. Luiz Augusto Oliveira,,São Carlos,M, 8.000 , 10.000 ,Sim
-105,Robert Todd Locke,,Jaboticabal,P, 7.512 , 7.512 ,Sim
-106,Roberto do Vale Rollemberg,,Jales,M, 7.680 , 7.680 ,Sim
-107,Romildo Vitor Gomes Ferreira,,Mogi Mirim,P, 19.900 , 19.900 ,Sim 
-108,Salvador Russani,,Atibaia,M, 2.563 , 2.563 ,Não
-109,Santa Cruz,,Ribeirão Preto,P, 25.000 , 29.292 ,Sim
-110,São Sebastião,,Mococa,M, 7.800 , 7.800 ,Sim
-111,Sílvio Salles,,Catanduva,M, 16.444 , 16.444 ,Sim
-112,Sociedade Esportiva Palmeirinha,Vila Famosa,Porto Ferreira,M, 3.402 , 3.402 ,Não
-113,Sócrates Stamato,,Bebedouro,M, 10.200 , 10.200 ,Sim
-114,Stavos Papadopoulos,,Jacareí,P, 4.090 , 4.090 ,Não
-115,Tenente Carriço,Tenentão,Penápolis,M, 2.000 , 4.679 ,Não
-116,Ulrico Mursa,,Santos,P, 5.737 , 8.392 ,Sim
-117,Urbano Caldeira,Vila Belmiro,Santos,P, 16.068 , 21.732 ,Sim
-118,Vereador José Feres,,Taboão da Serra,M, 4.000 , 4.410 ,Não
-119,Vereador José Pereira,,Sumaré,M, 2.500 , 2.626 ,Não
-120,Virgílio Holtz,,Itararé,P, 5.570 , 5.570 ,Sim
-121,Walter Ribeiro,,Sorocaba,M, 13.772 , 13.772 ,Sim
-122,Wanderley J. Vicentini,,Pedreira,M, 3.262 , 3.262 ,Não
-123,Zezinho Magalhães,,Jaú,P, 12.978 , 12.978 ,Sim
-1,André Avelino,Andrezão,Canindé do São Francisco,M, 2.000 , 2.000 ,Sim
-2,André Moura,,Pirambu,M, 2.000 , 2.000 ,Sim
-3,Antônio Carlos Fontes Souza,Tozão,Japaratuba,M, 2.000 , 2.000 ,Não
-4,Ariston Azevedo,,Nossa Senhora das Dores,P, 2.000 , 2.000 ,Não
-5,Arnaldo Pereira,,São Domingos,M, 2.000 , 2.000 ,Não
-6,Augusto Franco,Francão,Estância,E, 8.000 , 8.000 ,Sim
-7,Caio Feitosa,,Porto da Folha,P, 3.000 , 3.000 ,Não
-8,C. D. Augusto Franco,Augusto Franco,Laranjeiras,F, 1.500 , 1.500 ,Não
-9,Denisson Fontes Souza,Souzão,Itabaianinha,P, 2.000 , 2.000 ,Não
-10,Durval Feitosa,,Propriá,P, 2.000 , 2.000 ,Não
-11,Editon Oliveira,,Nossa Senhora da Glória,M, 2.000 , 2.000 ,Não
-12,Francisco Leite,Chico Leite,Riachuelo,P, 1.300 , 1.300 ,Não
-13,Fernando França,Franção,Carmópolis,P, 2.000 , 2.000 ,Sim
-14,Geraldo Oliveira,Geraldão,Cristinápolis,M, 2.000 , 2.000 ,Sim
-15,Gov. Antônio Carlos Valadares,Vavazão,Maruim,E, 10.235 , 10.235 ,Sim
-16,Idalito Oliveira,,Carmópolis,F, 2.500 , 2.500 ,Não
-17,Isaías Gileno Barreto,Campo do Limão,São Cristóvão,M, 2.000 , 2.000 ,Não
-18,João Alves Filho,,Propriá,E, 4.500 , 4.500 ,Não
-19,João Hora de Oliveira,João Hora,Aracaju,P, 6.000 , 6.000 ,Sim
-20,Joaquim Sabino Ribeiro,Sabino Ribeiro,Aracaju,P, 4.000 , 4.000 ,Sim
-21,José Francisco de Oliveira,Severão,Macambira,M, 1.500 , 1.500 ,Não
-22,Lourival Baptista,Batistão,Aracaju,E, 15.586 , 15.586 ,Sim
-23,Manoel Joaquim Porto,Manoel Joaquim,Aquidabã,M, 2.000 , 2.000 ,Não
-24,Módulo Esportivo Tobias Barreto,Brejeirão,Tobias Barreto,M, 3.000 , 3.000 ,Sim
-25,Paulo Barreto de Menezes,Barretão,Lagarto,E, 6.000 , 6.000 ,Sim
-26,Presidente Médici,Médici,Itabaiana,E, 10.000 , 10.000 ,Sim
-27,Roberto Góis,,Riachão,M, 2.000 , 2.000 ,Não
-28,Wellington Elias,Lelesão,Nsa. Senhora do Socorro,F, 3.000 , 3.000 ,Sim
-29,Velho Chico,Velho Chico,Neópolis,M, 1.500 , 1.500 ,Não
-30,Vila Operária,Passagem,Neópolis,P, 2.000 , 2.000 ,Não
-1,Alexandre Cândido Gomes,Alexandre Gomes,Araguaçu,M, 1.000 , 1.000 ,Não
-2,Antônio Neto,Bigodão,Colinas,M, 1.200 , 1.200 ,Sim
-3,Castanheirão,Castanheirão,Miracema,E, 2.000 , 2.000 ,Sim
-4,Delfino Pereira Lopes,Delfinão,Guaraí,M, 1.500 , 1.500 ,Sim
-5,Dr. Magalhães,Dr. Magalhães,Dianópolis,M, 1.000 , 1.000 ,Não
-6,Elias Natan,Elias Natan,Alvorada,M, 1.500 , 1.500 ,Não
-7,General Sampaio,General Sampaio,Porto Nacional,M, 2.000 , 2.000 ,Sim
-8,Gilberto Resende Rocha,Rezendão,Gurupi,E, 3.000 , 3.000 ,Sim
-9,João Ribeiro,Ribeirão,Tocantinópolis,P , 10.000 , 10.000 ,Sim
-10,José Pereira Rêgo,Pereirão,Paraíso ,M, 2.300 , 2.300 ,Sim
-11,Leôncio Miranda,Mirandão,Araguaína,E, 9.000 , 9.000 ,Sim
-12,Municipal de Rio Sono,Rio Sono,Rio Sono,M, 500.000 , 500.000 ,Não
-13,Nilton Santos,Nilton Santos,Palmas,E, 10.000 , 10.000 ,Sim
-14,Vanderlei Afonso da Silva,Ipirangão,Aliança,M, 500.000 , 500.000 ,Não
-,,,,,,,
+id,nome,apelido,cidade,estado,proprietario, capacidade , oficial ,iluminacao
+1,Antonio Aquino Lopes,Florestão,Rio Branco,Acre,P,8,10,Sim
+2,Arena da Floresta,,Rio Branco,Acre,E,13.7,20,Sim
+3,Arena do Juruá,,Cruzeiro do Sul,Acre,E,4,4,Sim
+4,Complexo Esportivo Totão,Totão,Mâncio Lima,Acre,M,9,,Sim
+5,José de Melo,,Rio Branco,Acre,P ,2,,Sim
+6,Nabor Júnior,,Senador Guiomard,Acre,M,2,,Sim
+1,Adalberto Cavalcante,,Porto Real do Colégio,Alagoas,M,3,3.27,Não
+2,Alfredo Lehay,,Penedo,Alagoas,M,3,3.27,Não
+3,Arnon de Mello,,Santana de Ipanema,Alagoas,M,2.703,2.8,Não
+4,Cleto Marques,,Maceió,Alagoas,M,3,,Não
+5,Coaracy da Mata Fonseca,Fumerão,Arapiraca,Alagoas,M,15,15.332,Sim
+6,Edivanil Cavalcante Navarro,,Matriz Camaragibe,Alagoas,M,3,,Não
+7,Edson Matias,,Olho D'Água das Flores,Alagoas,P,2,2.48,Não
+8,Eduardo de Melo Gonçalves,,São Luiz do Quitunde,Alagoas,P,2,2.48,Não
+9,Gerson Amaral,,Coruripe,Alagoas,M,5,5.56,Sim
+10,Gustavo Paiva,Mutange,Maceió,Alagoas,P,3,,Não
+11,João Batista,,Maceió,Alagoas,M,3,,Não
+12,José Gomes da Costa,,Murici,Alagoas,M,3.5,3.829,Sim
+13,Juca Sampaio,,Palmeira dos Índios,Alagoas,M,4.5,4.995,Sim
+14,Luiz Pontes, ,Atalaia,Alagoas,M,2,2.182,Não
+15,Manoel Ferreira de Amorim,Ferreirão,São Miguel dos Campos,Alagoas,M,3,,Não
+16,Manoel Moreira,,Capela,Alagoas,M,3,,Sim
+17,Nelson Peixoto Feijó,Nelsão,Maceió,Alagoas,P,4,4.93,Não
+18,Olival Elias de Moraes,,Boca da Mata,Alagoas,P,2.5,3,Não
+19,Orlando Gomes,Praxedão,União dos Palmares,Alagoas,M,1.115,4,Sim
+20,Rei Pelé,Trapichão,Maceió,Alagoas,E,17.126,17.126,Sim
+21,Rubens Canuto,Municipal do Pilar,Pilar,Alagoas,M,1.2,2,Não
+22,Severiano Gomes Filho,Pajuçara,Maceió,Alagoas,P,6,,Não
+23,Teotônio Vilela,,Viçosa,Alagoas,M,4,4.5,Não
+1,Augusto Antunes,Augusto Antunes,Santana,Amapá,E,8,8,Não
+2,Glicério de Souza Marques,Glicerão,Macapá,Amapá,M,5.63,5.63,Sim
+3,Milton de Souza Correia,Zerão,Macapá,Amapá,E,13.68,13.68,Sim
+1,Arena da Amazônia,,Manaus,Amazonas,E,44,44,Sim
+2,Carlos Zamith,Zamith,Manaus,Amazonas,E,5,5,Sim
+3,Floro de Mendonça,Floro,Itacoatiara,Amazonas,M,5,5,Não
+4,Francisco Garcia,Chicão,Rio Preto da Eva,Amazonas,M,3,3,Não 
+5,Ismael Benigno,Estádio da Colina,Manaus,Amazonas,E,10.451,10.451,Sim
+6,Olímpico Gilberto Mestrinho,Gilbertão,Manacapuru,Amazonas,M,5,5,Sim
+7,Roberto Simonsen ,SESI,Manaus,Amazonas,P,4,4,Sim
+8,Tenente Álvaro Maranhão,Álvaro Maranhão,Iranduba,Amazonas,M,1.5,1.5,Não
+1,02 de Julho,02 de Julho,Guanambi,Bahia,M,2.602,3,Sim
+2,Adauto Moraes,Adautão,Juazeiro,Bahia,M,5.018,8,Sim
+3,Agnaldo Bento dos Santos,Arena Porto,Porto Seguro,Bahia,M,1.503,1.503,Sim
+4,Alberto Oliveira,Jóia da Princesa,Feira de Santana,Bahia,M,16.274,16.274,Sim
+5,Antônio Carlos Magalhães,ACM,Conceição do Coité,Bahia,M,4,,Não
+6,Antônio Carlos Magalhães,Primavera,Itapetinga,Bahia,M,7,,Sim
+7,Antônio Carneiro,Carneirão,Alagoinhas,Bahia,M,8,9,Sim
+8,Antônio Elias Ribeiro,Ribeirão,Camacan,Bahia,M,4,,Não
+9,Antônio Pena,Penão,Catu,Bahia,M,8,,Não
+10,Antônio Pena ,,São Sebastião do Passé,Bahia,M,3,,Não
+11,Antônio Rodrigues Santana,Tomatão,Teixeira de Freitas,Bahia,M,2.493,,Não
+12,Antônio Sereia,,Valença,Bahia,M,3,,Sim
+13,Armando Oliveira,,Camaçari,Bahia,M,7,,Sim
+14,Carmelito Barbosa Alves,Barbosão,Cruz das Almas,Bahia,M,4.3,,Não
+15,José Cândido dos Santos,,Dias D'Ávila,Bahia,M,3,,Sim
+16,Da Primavera,,Itaberaba,Bahia,M,4,,Não
+17,David Caldeiras,,Candeias,Bahia,M,4,,Não
+18,Edgar Santos,,Simões Filho,Bahia,M,4,,Sim
+19,Edvaldo Flores,,Vitória da Conquista,Bahia,M,1.277,2.077,Sim
+20,Eliel Martins,Valfredão,Riachão do Jacuípe ,Bahia,M,4.091,,Não
+21,Ferreira Brito,Ferreirão,Ribeirão do Pombal,Bahia,M,4,,Sim
+22,Geraldo Pereira,Geraldão,Barreiras,Bahia,M,7,,Sim
+23,Gerino de Souza Filho,,Lauro de Freitas,Bahia,M,1.2,,Sim
+24,Heraldo Curvelo,Heraldão,Poções,Bahia,M,7,,Sim
+25,Jonatas Eneas do Carmo,,Santo Amaro,Bahia,M,3,,Sim
+26,José Araújo,Araújão,Eunápolis,Bahia,M,5,,Não
+27,José Fontoura,,Itagibá,Bahia,M,3,,Não
+28,José Rocha,,Jacobina,Bahia,M,3.5,5,Sim
+29,José Trindade Lobo,,Santo Antônio de Jesus,Bahia,M,3,,Sim
+30,Joviniano Otaviano Dourado,,Irecê,Bahia,M,6,,Não
+31,Juarez Barbosa,Barbosão,Itamaraju,Bahia,M,8,,Sim
+32,Junqueira Ayres,,São Francisco do Conde,Bahia,M,1.622,3,Sim
+33,Lauro de Freitas,Itinga,Lauro de Freitas,Bahia,M,3,,Sim
+34,Lomanto Júnior,Lomantão,Vitória da Conquista,Bahia,M,11.538,12.934,Sim
+35,Luiz Eduardo Magalhães,,Terra Nova,Bahia,M,1.3,5,Sim
+36,Luiz Viana Filho,,Itabuna,Bahia,M,9.2,,Sim
+37,Luiz Viana Filho,,Pojuca,Bahia,M,3.5,,Sim
+38,Luiz Viana Neto,Bandarrão,Santo Estévão,Bahia,M,5,,Sim
+39,Madre de Deus,,Madre de Deus,Bahia,M,5,,Sim
+40,Manoel Barradas,Barradão,Salvador,Bahia,P,34.535,35,Sim
+41,Mariano Santana,,Serrinha,Bahia,M,2.034,6.066,Sim
+42,Mário Pessoa,,Ilhéus,Bahia,M,4.297,5.3,Sim
+43,Ocival Rodrigues de Souza,Ocivalzão,São Desidério,Bahia,M,3.5,,Sim
+44,Octávio Mangabeira,Arena Fonte Nova,Salvador,Bahia,E,47.907,50.025,Sim
+45,Ozório Ferraz de Oliveira,Ozorão,Itambé,Bahia,M,3,,Não
+46,Parque Santiago Compostela,Parque Santiago,Salvador,Bahia,P,2,,Não
+47,Pedro Amorim Duarte,,Senhor do Bonfim,Bahia,M,4.193,,Sim
+48,Pedro Caetano,,Ipiaú,Bahia,M,3,,Não
+49,Roberto Santos ,Pituaçu,Salvador,Bahia,E,32.157,32.157,Sim
+50,Ruberiano Oliveira,,Paulo Afonso,Bahia,M,4,,Sim
+51,Waldomiro Borges,,Jequié,Bahia,M,3.227,5,Sim
+1,Agenor Gomes de Araújo,Agenorzão,Iguatu,Ceará,M,3.475,9.715,Sim
+2,Aguinaldo Alves,Rorizão,Jardim,Ceará,M,2,2,Não
+3,Alberto Oliveira Sobrinho ,Betão,Pacatuba,Ceará,M,2,2.4,Não
+4,Alberto Wagner,Albertão,Baturité,Ceará,M,3,3,Sim
+5,Alcides Santos ,Alcides Santos,Fortaleza,Ceará,P,5.5,7.1,Sim
+6,Antônio Cruz ,Uniclinic,Fortaleza,Ceará,P,1.42,3,Sim
+7,Antônio de Paula Sales,,Uruburetama,Ceará,M,2,2,Não
+8,Antônio Lírio Callou,Inaldão,Barbalha,Ceará,M,3.4,5,Sim
+9,Antony Costa,,Fortaleza,Ceará,M,500,700,Não
+10,Arena Mateus Aquino,Coliseu,Alto Santo,Ceará,M,3.85,3.85,Não
+11,Capitão Tarcisio Araújo,Tarcisão,São Benedito,Ceará,M,1.5,4,não
+12,Carlos de Alencar Pinto,Vovozão,Fortaleza,Ceará,P,1.5,3,Sim
+13,Coronel Virgilio Távora,Virgilio Távora,Aracati,Ceará,M,2.5,3,Sim
+14,Estádio M. de Quiterianopoles,Vieirão,Quiterianopoles,Ceará,M,8,12,Sim
+15,Francisco Cardoso de Moraes,Moraisão,Maranguape,Ceará,M,1.7,3.7,Sim
+16,Francisco Clenilson dos Santos,Clenilsão,Horizonte,Ceará,M,2.5,5,Não
+17,Franzé Moraes,Cidade Vozão,Itaitinga,Ceará,P,1.5,2.5,Não
+18,Gerardo Feitosa de Sousa,Gerardão,Tauá,Ceará,M,8,11.168,Sim
+19,Gov. Plácido Aderaldo Castelo,Castelão/Arena Castelão,Fortaleza,Ceará,E,63.903,63.903,Sim
+20,Governador Virgilio Távora,Mirandão,Crato,Ceará,M,8.08,11.732,Sim
+21,Horácio Domingos de Sousa,Domingão,Horizonte,Ceará,M,10.4,10.5,Sim
+22,José Antonio Abilio de Lima,Abilhão,Quixadá,Ceará,M,2.5,3,Sim
+23,José de Oliveira Bandeira,Bandeirão,Limoeiro do Norte,Ceará,M,1.8,5,Sim
+24,José Santos Neto,Mourãozão,Nova Russas,Ceará,M,1.281,6.968,Sim
+25,Juvenal Melo,Jumelão,Crateús,Ceará,M,1.688,7.108,Sim
+26,João Firmino de Sousa,,Viçosa do Ceará,Ceará,M,2.4,2.4,Não
+27,Manuel Barroso Neto,Barrosão,Trairi,Ceará,M,2.108,5,Sim
+28,Mauro Castelo Branco Sampaio,Romeirão,Juazeiro do Norte,Ceará,M,10,15,Sim
+29,Pedro Eymard,Pedro Eymard,Morada Nova,Ceará,M,7.5,16,Sim
+30,Perilo Teixeira,Perilão,Itapipoca,Ceará,M,3.9,6,Sim
+31,Plácido Aderaldo Castelo,Junco,Sobral,Ceará,M,8.585,10.5,Sim
+32,Prefeito Assis Benicio,Assisão,Pacajus,Ceará,M,3.5,3.5,Sim
+33,Presidente Vargas,PV,Fortaleza,Ceará,M,20.262,20.262,Sim
+34,Raimundo da Cunha Rola,,Eusébio,Ceará,M,2,2,Não
+35,Raimundo de Oliveira,Raimundão,Caucaia,Ceará,M,5,5,Não
+36,Raimundo Vieira Filho,Vieirão,Itapajé,Ceará,M,3,3,Não
+37,Senador Carlos Jereissate,Carlos Jereissate,Maracanau,Ceará,M,3.5,3.5,Sim
+38,Sergismundo Rodrigues Neto,Serjão,Boa Viagem,Ceará,M,2,8.124,Sim
+39,Tancredo Neves,Tancredão,Tianguá,Ceará,M,2,2,Não
+40,Ubiratan Diniz Aguiar,Unbirão,Caridade,Ceará,M,1.5,1.5,Sim
+41,Valter Lacerda,Murilão,Fortaleza,Ceará,M,3,3,Sim
+42,Vila Olimpica Elzir Cabral,Elzir Cabral,Fortaleza,Ceará,P,2.5,4.2,Sim
+1,Adonir José Guimarães,Adonir Guimarães,Planaltina,Distrito Federal,M,6,,Sim
+2,Antônio Otoni Filho,CAVE,Guará,Distrito Federal,M,8,,Sim
+3,Augustinho Pires de Lima,Augustinho Lima,Sobradinho,Distrito Federal,M,10,,Sim
+4,Chapadinha,Chapadinha,Brazlândia,Distrito Federal,M,3,,Sim
+5,Do Cruzeiro,Cruzeiro,Cruzeiro Velho,Distrito Federal,M,2,,Sim
+6,Elmo Serejo Farias,Boca do Jacaré / Serejão,Taguatinga,Distrito Federal,M,27,28.8,Sim
+7,Estádio Nacional Mané Garrincha,Mané Garrincha,Brasília,Distrito Federal,E,72.788,72.788,Sim
+8,JK Paranoá,JK,Paranoá,Distrito Federal,M,8,,Não
+9,Joaquim Domingos Roriz,Rorizão,Samambaia,Distrito Federal,M,8,,Sim
+10,Maria de Lourdes Abadia ,Abadião,Ceilândia,Distrito Federal,M,3,3,Sim
+11,Vasco Viana de Andrade,Metropolitana,Núcleo Bandeirante,Distrito Federal,M,3,,Sim
+12,Valmir Campelo Bezerra,Bezerrão,Gama,Distrito Federal,M,20.31,20.31,Sim
+1,Alencar de Araripe,Engenheiro Araripe,Cariacica,Espírito Santo,P,7.7,7.7,Sim
+2,Centro Esportivo Conilon,Conilon,Jaguaré,Espírito Santo,M,2.664,2.664,Sim
+3,Dr. Arthur Gerhardt,Arthur Gerhardt,Domingos Martins,Espírito Santo,P,500,500,Sim
+4,Emilio Nemer,,Castelo,Espírito Santo,P,2,2,Sim
+5,Ernesto Campos da Fonseca,Estádio do Motorista,São José do Calçado,Espírito Santo,P,1.25,1.25,Não
+6,Estádio da Estiva,Estiva,Serra,Espírito Santo,P,2.1,2.1,Não
+7,Eugenio Bitti,Bambu,Aracruz,Espírito Santo,P,5.058,5.058,Sim
+8,Gil Bernardes,Toca Índio,Vila Velha,Espírito Santo,P,1,1,Não
+9,Joaquim Calmon,,Linhares,Espírito Santo,P,2,2,Não
+10,José Olimpio da Rocha,,Aguia Branca,Espírito Santo,P,3.2,3.2,Sim
+11,José Olivio Soares,,Itapemirim,Espírito Santo,P,1,1,Sim
+12,Justiniano de Mello e Silva,,Colatina,Espírito Santo,M,2.6,2.6,Sim
+13,Kleber José de Andrade,Kleber Andrade,Cariacica,Espírito Santo,E,18,21,Sim
+14,Manoel Moreira Sobrinho,Sernamby,São Mateus,Espírito Santo,P,3.854,3.854,Sim
+15,Mário Monteiro,Sumaré,Cachoeiro de Itapemirim,Espírito Santo,P,6,6,Sim
+16,Moreira Rebello,Moreira Rebello,Cachoeiro de Itapemirim,Espírito Santo,P,1,1,Não
+17,Municipal Cleber Roque Bertolde,,Marilândia,Espírito Santo,M,1.1,1.1,Sim
+18,Municipal de Itaguaçú,,Itaguaçú,Espírito Santo,M,1,1,Não
+19,Municipal Almiro Ofranti,,Vargem Alta,Espírito Santo,M,2,2,Sim
+20,Roberto Costa,Robertão,Serra,Espírito Santo,P,1.04,1.04,Sim
+21,Salvador Venâncio da Costa,Ninho da Águia,Vitória,Espírito Santo,P,3,3,Sim
+22,Virgilio Grassi,,Rio Bananal,Espírito Santo,P,2.2,2.2,Não
+1,Abrão Manoel Costa,,Trindade,Goiás,P,4.3,4.3,Sim
+2,Anibal Batista de Toledo,,Aparecida de Goiânia,Goiás,M,4.8,4.8,Sim
+3,Antônio Accioly,,Goiânia,Goiás,P,5,5,Sim
+4,Bichinho Vieira,,Quirinópolis,Goiás,M,7,7,Sim
+5,Centro Esportivo João Vilela,João Vilela,Morrinhos,Goiás,E,5.04,5.04,Sim
+6,Centro Olímpico,,Ceres,Goiás,E,5,5,Não
+7,Cruzeiro do Sul,,Itauçú,Goiás,P,2.6,2.6,Não
+8,Diogo Francisco Gomes,Diogão,Formosa,Goiás,M,6,6,Sim
+9,Divino Garcia Rosa,,Goiatuba,Goiás,M,6,6,Sim
+10,Durval Ferreira Franco,,Ipameri,Goiás,P,1.904,1.904,Não
+11,Francisco José Ferreira,Ferreirão,Iporá,Goiás,M,3.5,3.5,Não
+12,Genervino Evangelista da Fonseca ,Genervino da Fonseca,Catalão,Goiás,P,7.5,7.5,Sim
+13,Gilmar Alves,,Bom Jesus de Goiás,Goiás,M,3,3,Sim
+14,Hailé Pinheiro,Serrinha,Goiânia,Goiás,P,6.3,6.3,Sim
+15,José Roriz Aguiar (Zequinha Roriz),Serra do Lago,Luziânia,Goiás,M,12.3,12.3,Sim
+16,Jaime Guerra,,Nerópolis,Goiás,M,3,3,Sim
+17,Jonas Ferreira Duarte,Jonas Duarte,Anápolis,Goiás,M,10.707,10.707,Sim
+18,José Pereira de Souza,,Paraúna,Goiás,M,2,2,Sim
+19,Juscelino Kubitschek de Oliveira,JK,Itumbiara,Goiás,M,15,15,Sim
+20,Mozart Veloso do Carmo,,Rio Verde,Goiás,E,7,7,Sim
+21,Nelson Antônio da Silva,Arapucão,Jataí,Goiás,M,15,15,Sim
+22,Odilon Flores,,Mineiros,Goiás,P,7,7,Sim
+23,Onésio Brasileiro Alvarenga,OBA,Goiânia,Goiás,P,6.5,6.5,Sim
+24,Pedro Romualdo Cabral,,Santa Helena,Goiás,E,6.07,6.07,Sim
+25,Plínio José de Souza,,Senador Canedo,Goiás,M,3.816,3.816,Sim
+26,Rio das Pedras,,Itaberaí,Goiás,P,5,5,Sim
+27,Serra de Caldas,,Caldas Novas,Goiás,M,4,4,Sim
+28,Serra Dourada,,Goiânia,Goiás,E,42,42,Sim
+29,Waldeir José de Oliveira,,Goianésia,Goiás,E,4,4,Sim
+30,Zico Brandão,,Inhumas,Goiás,E,2.8,2.8,Sim
+1,Artemas Santos,Binezão,Santa Inês,Maranhão,M,9.146,,Sim
+2,Cazuza Ribeiro,Cazuzão,Balsas,Maranhão,M,826,,Sim
+3,Daniel Rodrigues Leal,Rodrigão,Santa Quitéria,Maranhão,M,3.5,,Não
+4,Djalma Santos Campos Filho ,Djlama Campos,Viana,Maranhão,M,3.725,,Não
+5,Duque de Caxias,,Caxias,Maranhão,M,1.5,,Sim
+6,Francisco Camilo,Mirandão,Miranda do Norte,Maranhão,M,700,,Não
+7,Frei Epifânio D'Abadia,Frei Epifânio,Imperatriz,Maranhão,M,10,10.1,Sim
+8,Governador João Castelo,Castelão,São Luís,Maranhão,E,40.149,40.149,Sim
+9,Ildemar Gonçalves dos Santos,Demazão,Itinga do Maranhão,Maranhão,M,1.72,,Não
+10,José Cardoso do Nascimento ,Cardosão,Araioses,Maranhão,M,800,,Não
+11,José Luis Neriz Correa,Correão,Bacabal,Maranhão,M,7.816,,Sim
+12,Leandro Silva,Leandrão,Barra do Corda,Maranhão,M,600,,Não
+13,Lucídio Frazão,Lucidão,Chapadinha,Maranhão,M,2.3,,Não
+14,Miguel Lins,Miquelzão,Timon,Maranhão,M,1.5,,Não
+15,Nhozinho Santos,,São Luís,Maranhão,M,11.429,11.429,Sim
+16,Renê Bayma,,Codó,Maranhão,M,8,,Sim
+1,Antônio Afonso de Melo,Bilinão,Alto Araguaia,Mato Grosso,M,3.5,,Sim
+2,Antônio Santo Renosto,Cerradão,Primavera do Leste,Mato Grosso,M,4,,Sim
+3,Apolônio Bouret Mello,,Chapada dos Guimarães,Mato Grosso,M,4,,Não
+4,Arena Pantanal,,Cuiabá,Mato Grosso,E,44,44,Sim
+5,Egídio José Preima,,Sorriso,Mato Grosso,M,4,,Sim
+6,Danilo Pagot,,Juara,Mato Grosso,M,4,,Sim
+7,Félix Belém de Castro,,Campo Verde,Mato Grosso,M,3,,Sim
+8,José Valeriano Costa,Zeca Costa,Barra do Garças,Mato Grosso,M,3,,Sim
+9,Luiz Geraldo da Silva,Geraldão,Cáceres,Mato Grosso,M,6.5,,Sim
+10,Luthero Lopes,,Rondonópolis,Mato Grosso,M,18,,Sim
+11,Mané Garrincha,,Tangará da Serra,Mato Grosso,M,4,,Sim
+12,Márcio Cassiano da Silva,,Jaciara,Mato Grosso,M,4,,Sim
+13,Massami Uriu,Gigante do Norte,Sinop,Mato Grosso,M,13,,Sim
+14,Neco Falcão,,Poconé,Mato Grosso,M,2,,Não
+15,Passo das Emas,,Lucas do Rio Verde,Mato Grosso,M,10,10,Sim
+16,Presidente Dutra,Dutrinha,Cuiabá,Mato Grosso,M,4.5,,Sim
+17,Virgílio do Nascimento,,Nova Xavantina,Mato Grosso,M,2,,Não
+1,André Borges,Caldeirão do Borjão,Coxim,Mato Grosso do Sul,M,3.5,,Não
+2,Arena da Paz,Olho do Furacão,Campo Grande,Mato Grosso do Sul,P,1.2,,Não
+3,Arthur Marinho,,Corumbá,Mato Grosso do Sul,M,5,,Sim
+4,Benedito Soares da Mota,Madrugadão,Três Lagoas,Mato Grosso do Sul,M,3.5,,Sim
+5,Cacildo Pereira,Toca do Urso,Mundo Novo,Mato Grosso do Sul,M,4,,Não
+6,Cezário de Freitas,,Rio Verde,Mato Grosso do Sul,M,3,,Não
+7,Estádio Municipal Aral Moreira ,Aral Moreira,Ponta Porã,Mato Grosso do Sul,M,4,,Não
+8,Estádio Municipal de Caarapó,Carecão,Caarapó,Mato Grosso do Sul,M,1.8,,Não
+9,Estádio Municipal Sotero Zarate,,Sidrolândia,Mato Grosso do Sul,M,4,,Sim
+10,Estádio Pedro Pedrossian,Morenão,Campo Grande,Mato Grosso do Sul,F,24,29.67,Sim
+11,Francisco Chaves Filho,Chavinha,Itaporã,Mato Grosso do Sul,M,1.25,,Sim
+12,Frédis Saldivar,Douradão,Dourados,Mato Grosso do Sul,E,30,,Sim
+13,Ijair Tomquelsqui,SERC,Chapadão do Sul,Mato Grosso do Sul,P,7,,Não
+14,Iliê Vidal,Ninho D'Águia,Rio Brilhante,Mato Grosso do Sul,M,5,,Sim
+15,Jacques da Luz,Toca do Leão,Campo Grande,Mato Grosso do Sul,M,4.5,,Não
+16,Joaquim Faustino Rosa,Carecão,Camapuã,Mato Grosso do Sul,M,3,,Não
+17,José Cândido dos Santos Viroti,Virotão,Naviraí,Mato Grosso do Sul,M,3.5,,Sim
+18,Laerte Paes Coelho,Laertão,Costa Rica,Mato Grosso do Sul,M,5,,Sim
+19,Luiz Gonzaga Prata Braga,Loucão,Maracaju,Mato Grosso do Sul,M,6,,Sim
+20,Luiz Saraiva Vieira,Saraivão,Ivinhema,Mato Grosso do Sul,M,5,,Sim
+21,Municipal de Aquidauana,Noroeste,Aquidauana,Mato Grosso do Sul,M,2.6,,Sim
+22,Municipal de Nova Andradina,Andradão,Nova Andradina,Mato Grosso do Sul,M,6.98,8,Sim
+23,Municipal de Paranaíba,,Paranaíba,Mato Grosso do Sul,M,5,,Não
+24,Municipal de Terenos,,Terenos,Mato Grosso do Sul,M,500,,Não
+25,Municipal de Ribas do Rio Pardo,,Ribas do Rio Pardo,Mato Grosso do Sul,M,500,,Não
+26,Vicente Fortunato,Vicentão,Ladário,Mato Grosso do Sul,M,3,,Não
+1,Antônio Guimarães de Almeida,,Tombos,Minas Gerais,P,3.05,3.05,Sim
+2,Astrogildo Duarte,,Nova Serrana,Minas Gerais,P,1.2,1.2,Sim
+3,Bernardo Rubinger de Queiroz,,Patos de Minas,Minas Gerais,P,8.372,10,Sim
+4,Campo do América,,Nepomuceno,Minas Gerais,P,3.5,3.5,Sim
+5,Carlos Costa Monteiro,,Guaxupé,Minas Gerais,M,2.471,2.471,Sim
+6,Castor Cifuentes,Penidão,Nova Lima,Minas Gerais,M,5.16,5.16,Sim
+7,Cícero Paiva,,Sto Antônio do Amparo,Minas Gerais,M,4.165,,Não
+8,Coleto de Paula,,Ituiutaba,Minas Gerais,P,1.1,1.1,Não
+9,Coronel Erasmo Cabral,,Santa Rita do Sapucaí,Minas Gerais,M,2,3.044,Não
+10,Dilzon Luís de Melo,Melão,Varginha,Minas Gerais,M,15.471,15.471,Sim
+11,Elias Arbex,,Três Corações,Minas Gerais,M,2.5,3,Sim
+12,Fausto Alvim,,Araxá,Minas Gerais,M,5.5,7,Sim
+13,Fazendinha,,Ituiutaba,Minas Gerais,P,1.8,3,Sim
+14,Irmão Gino Maria Rossi,,Pouso Alegre,Minas Gerais,M,26,26,Sim
+15,Israel Pinheiro,,Itabira,Minas Gerais,M,5,5,Sim
+16,João Guido,Uberabão,Uberaba,Minas Gerais,M,10,16.384,Sim
+17,João Havelange,Parque do Sabiá,Uberlândia,Minas Gerais,M,53.35,56.45,Sim
+18,João Lamego Neto,Lamegão,Ipatinga,Minas Gerais,M,16,16,Sim
+19,Joaquim Henrique Nogueira,Arena do Jacaré,Sete Lagoas,Minas Gerais,P,20.02,22,Sim
+20,José Flávio de Carvalho,,Itaúna,Minas Gerais,M,1.9,3.8,Sim
+21,José Mammud Abbas,Marmudão,Governador Valadares,Minas Gerais,P,8.678,8.678,Sim
+22,José Maria Melo,Campo do Casimiro,Montes Claros,Minas Gerais,P,5,5,Sim
+23,Juca Pedro,,Formiga,Minas Gerais,P,2.38,3.581,Sim
+24,Juca Ribeiro,,Uberlândia,Minas Gerais,P,7,,Sim
+25,Júlio Aguiar,,Patrocínio,Minas Gerais,M,1.5,3,Sim
+26,Louis Ensch,Campo do Social,Coronel Feliciano,Minas Gerais,P,2.29,3.6,Sim
+27,Magalhães Pinto ,Mineirão,Belo Horizonte,Minas Gerais,E,61.846,75.783,Sim
+28,Mario Ferreira Guimarães,Baleião,Belo Horizonte,Minas Gerais,M,1.8,1.8,Não
+29,Mário Helênio,,Juiz de Fora,Minas Gerais,M,14.185,30,Sim
+30,Nassari Mattar,,Teófilo Otoni,Minas Gerais,P,5,5,Não
+31,Oswaldo Nascimento,,Pirapora,Minas Gerais,P,1.5,1.5,Não
+32,Parque do Azulão,,Andradas,Minas Gerais,M,7.5,7.5,Sim
+33,Pedro Anício Maia,,Minas Novas,Minas Gerais,M,2,2,Não
+34,Raimundo Sampaio,Independência,Belo Horizonte,Minas Gerais,P,23.018,23.018,Sim
+35,Ribeiro Junqueira,,Leopoldina,Minas Gerais,P,1.6,1.6,Não
+36,Ronaldo Junqueira,Ronaldão,Poços de Caldas,Minas Gerais,M,7.6,7.6,Sim
+37,Rubro Negro,,Varginha,Minas Gerais,M,2,2,Sim
+38,Sebastião Cesar da Silva,,Araguari,Minas Gerais,P,2.2,2.6,Sim
+39,Senador Zezé Perrela,Arena dos Calçados,Nova Serrana,Minas Gerais,M,10,10,Sim
+40,Soares de Azevedo,Campo do Nacional,Muriaé,Minas Gerais,P,10,13.971,Sim
+41,Starling Soares,,Passos,Minas Gerais,M,5.4,5.4,Sim
+42,Victor Andrade Brito,Frimisa,Santa Luzia,Minas Gerais,M,3.2,3.2,Sim
+43,Vila Olimpica,,Belo Horizonte,Minas Gerais,P,,1,Não
+44,Waldemar Teixeira de Farias,Farião,Divinópolis,Minas Gerais,P ,4.08,4.08,Sim
+45,Waldir Melo,,Borda da Mata,Minas Gerais,M,5,5,Não
+46,Zama Maciel,,Patos de Minas,Minas Gerais,P,4.858,4.858,Sim
+1,Abelardo Conduru,,Belém,Pará,P,500,,Não
+2,Antônio Dias,Navegantão,Tucuruí,Pará,M,8,8,Sim
+3,Arena do Município Verde,Arena Verde,Paragominas,Pará,M,9.878,9.878,Sim
+4,Edilson Abreu,Abreuzão,Santa Izabel,Pará,M,600,2,Não
+5,Estadual de Santarém (Jader Barbalho),Colosso do Tapajós,Santarém,Pará,E,8,12,Sim
+6,Evandro Almeida,Baenão,Belém,Pará,P,12,12,Sim
+7,Francisco Vasques,Souza,Belém,Pará,P,4.9,1.9,Não
+8,Humberto Parente,,Abaetetuba,Pará,P,3.1,,Sim
+9,João Jaó,Jaozão,Mãe do Rio,Pará,M,8,,Não
+10,Leônidas Sobré de Castro,Curuzu,Belém,Pará,P,16.2,16.2,Sim
+11,Mario Couto Neto,Coutão,Santa Cruz,Pará,P,1.5,1.5,Não
+12,Maximino Porpino Filho,Modelão,Castanhal,Pará,M,5,5,Sim
+13,Olímpico do Pará,Mangueirão,Belém,Pará,E,45.007,45.007,Sim
+14,Orfelino Martins Valente,Parque do Bacurau,Cametá,Pará,M,8.2,10.23,Sim
+15,Raimundo Roseno de Araújo,Rosenão ,Paraupébas,Pará,M,5,5,Sim
+16,São Benedito,Diogão,Bragança,Pará,P,9.09,10,Não
+17,Zinho Oliveira,Zinho Oliveira,Marabá,Pará,M,5,5,Sim
+1,Antônio Mariz,Marizão,Sousa,Paraíba,M,5.4,5.4,Sim
+2,Ernani Sátyro,Amigão,Campina Grande,Paraíba,E,19,19,Sim
+3,Evandro Lelis,Mangabeirão,João Pessoa,Paraíba,P,2,2,Não
+4,Frederico Lundregen,Lundregão,Caaporã,Paraíba,M,3,3,Não
+5,José Américo de Almeida Filho ,Almeidão,João Pessoa,Paraíba,E,19,19,Sim
+6,José Barros Sobrinho,Zezão,Itaporanga,Paraíba,M,3,3,Sim
+7,José Cavalcanti,Zé Cavalcanti,Patos,Paraíba,M,5.17,5.17,Sim
+8,Juraci Pedro Gomes,Juracizão,João Pessoa,Paraíba,M,3,3,Não
+9,Leonardo da Silveira,Estádio da Graça,João Pessoa,Paraíba,M,6.4,6.4,Sim
+10,Perpétuo Correia de Lima,Perpetão,Cajazeiras,Paraíba,E,1.6,1.6,Sim
+11,Presidente Vargas,PV,Campina Grande,Paraíba,P,5,5,Sim
+12,Sílvio Porto,Sílvio Porto,Guarabira,Paraíba,M,1.54,1.54,Sim
+13,Tadeu Matias,Tadeuzão,Sapé,Paraíba,M,1,1,Não
+14,Virgínio Veloso Borges,Teixeirão,Santa Rita,Paraíba,M,4.5,4.5,Sim
+1,ABC,Estádio do ABC,Foz do Iguaçu,Paraná,P,5,6.968,Sim
+2,14 De Dezembro,,Toledo,Paraná,M,12.5,15,Sim
+3,Albino Turbay,Olímpico,Cianorte,Paraná,M,2.254,4,Sim
+4,Anilado,Anilado,Francisco Beltrão,Paraná,M,2,5.46,Sim
+5,Antiocho Pereira,Antiocho,União da Vitória,Paraná,M,1.1,4.087,Sim
+6,Arena Vermelha,,Curitiba,Paraná,M,2,2,Sim
+7,Arnaldo Bussato,Olímpico Regional,Cascavel,Paraná,M,9.999,25,Sim
+8,Atílio Gionedes,Estádio do Internacional,Campo Largo,Paraná,P,4.198,4.198,Sim
+9,Bom Jesus da Lapa,Mun. Olímpio Barreto,Apucarana,Paraná,M,9.95,10.682,Sim
+10,C. E. Roberto Brzezinski,,Campo Mourão,Paraná,M,2.5,3.5,Sim
+11,C.E. Fernando Charbud Farah,Caranguejão,Paranaguá,Paraná,M,7.781,9.07,Sim
+12,C.E. Umuarama,Complexo Esportivo,Umuarama,Paraná,M,10,11,Não
+13,Cambará,Regional,Cambará,Paraná,P,5,8,Não
+14,Centro Poliesportivo Pinheirão,Pinheirão,Curitiba,Paraná,P,35,35,Sim
+15,Comendador Luiz Meneghel,Alto da Vila Maria,Bandeirantes,Paraná,P,5,6,Sim
+16,Coronel Emílio Gomes,,Irati,Paraná,P,4.322,4.579,Não
+17,Dr. Durval José da Silva,Municipal de Assaí,Assaí,Paraná,M,2,2,Não
+18,Durival Britto e Silva,Vila Capanema,Curitiba,Paraná,P,17.14,20.083,Sim
+19,Edvar Sávio,,Santa Terezinha de Itaipú,Paraná,M,800,800,Sim
+20,Erich Georg,Estádio do Nacional,Rolândia,Paraná,M,1.818,2.05,Não
+21,Érton Coelho Queiroz,Vila Olímpica,Curitiba,Paraná,P,500,10,Não
+22,Éxaro Menk,,Sertanópolis,Paraná,M,1,1,Não
+23,Francisco Borges de Campos,,Colorado,Paraná,M,1,1.4,Sim
+24,Francisco Muraro,,Curitiba,Paraná,P,800,800,Sim
+25,Francisco Zellerhoff Filho,,Nova Esperança,Paraná,M,500,540,Sim
+26,Germano Krugrer,Vilas Oficinas,Ponta Grossa,Paraná,P,8,8.832,Sim
+27,Jacy Scaff,Do Café,Londrina,Paraná,M,30,31,Sim
+28,Janguito Malucelli,Eco-Estádio,Curitiba,Paraná,P,3.15,4.2,Sim
+29,João Cavalcanti de Menezes,,Engenheiro Beltrão,Paraná,M,795,894,Não
+30,Joaquim Américo Guimarães,Arena da Baixada,Curitiba,Paraná,P,40.305,42.372,Sim
+31,José Chiappin,Dos Pássaros,Arapongas,Paraná,M,9.5,10,Sim
+32,José Eleotério da Silva,,Sto. Antônio da Platina,Paraná,M,2.843,3,Sim
+33,José Ferreira de Almeida,,Palmas,Paraná,M,900,912,Não
+34,José Garbelini,Da Curva,Cambé,Paraná,M,2.2,2.2,Não
+35,Lucio Pepino,Gigante da Baixada,Umuarama,Paraná,M,3,6.584,Não
+36,Major Antônio Couto Pereira,Couto Pereira,Curitiba,Paraná,P,40.502,40.502,Sim
+37,Nelson Medrado Dias,Leão da Estradinha,Paranaguá,Paraná,P,3,4,Sim
+38,Newton Agibert,Estádio Municipal,Prudentópolis,Paraná,M,2.984,3.09,Não
+39,Orlando Rinaldin,,Curitiba,Paraná,P,2,2,Sim
+40,Os Pioneiros,Os Pioneiros,Pato Branco,Paraná,M,2.1,2.1,Sim
+41,Pedro Basso,Estádio de ABC,Foz do Iguaçú,Paraná,P,5,6.968,Não
+42,Pedro Vilela,,Jacarezinho,Paraná,M,3,3.22,Não
+43,Pinhão,Do Xingú,São José dos Pinhais,Paraná,M,3.84,5.2,Não
+44,Sérgio Vitor Mega,,Centenário do Sul,Paraná,M,1.3,1.348,Não
+45,Ubirajara Medeiros,Campo da Vila,Cornélio Procópio,Paraná,M,2.58,4.08,Sim
+46,Vergínio Bortoli,,Ipiporã,Paraná,M,800,816,Sim
+47,Vitorino Gonçalves Dias,VGD,Londrina,Paraná,P,7,10,Sim
+48,Waldemiro Wagner,Felipão,Paranavaí,Paraná,M,4,9.999,Sim
+49,Waldomiro Gelinski,Campo do Batel,Guarapuava,Paraná,P,3.516,3.516,Não
+50,Willie Davids,Regional,Maringá,Paraná,M,16.226,20,Sim
+51,Theodoro Colombelli,Ninho da Cobra,Cascavel,Paraná,M,900,2.4,Não
+1,Ademir Cunha,,Paulista,Pernambuco,M,12,12,Sim
+2,Agamenón Magalhães,,Goiana,Pernambuco,M,1.3,1.3,Sim
+3,Aldemar da Costa Carvalho,Ilha do Retiro,Recife,Pernambuco,P,32.983,32.983,Sim
+4,Anteógenes Chaves,,Catende,Pernambuco,M,3,3,Sim
+5,Antônio Dourado,,Ipojuca,Pernambuco,M,3,3,Sim
+6,Antônio Galdêncio Freire,Galdenção,Itacuruba,Pernambuco,M,5,5,Sim
+7,Antônio Inácio de Souza,Vera Cruz,Caruaru,Pernambuco,P,6,6,Sim
+8,Arena Pernambuco,,São Lourenço da Mata,Pernambuco,E,44.3,44.3,Sim
+9,Arthur Tavares de Melo,,Bonito,Pernambuco,M,4,4,Sim
+10,Aureo Bradley,,Arcoverde,Pernambuco,M,3,3,Sim
+11,Carlos Alberto Gomes de Oliveira,,Surubim,Pernambuco,M,3.5,3.5,Sim
+12,Cornélio de Barros Muniz,,Salgueiro,Pernambuco,M,12.07,12.07,Sim
+13,Edvanes Nascimento,,Santa Maria da Boa Vista,Pernambuco,M,5,5,Sim
+14,Eládio de Barros Carvalho,Aflitos,Recife,Pernambuco,P,22.856,22.856,Sim
+15,Eugênio de Araújo,Olindão,Olinda,Pernambuco,M,4,4,Sim
+16,Ewerson Simões,Barbosão,Chã Grande,Pernambuco,M,3.4,3.4,Sim
+17,Ferreira Lima,,Timbaúba,Pernambuco,M,3.75,3.75,Sim
+18,Gileno de Carli,,Cabo de Santo Agostinho,Pernambuco,M,5.459,5.459,Sim
+19,Gilson Tirburtino de Souza,Chapadão do Araripe,Araripina,Pernambuco,M,5.341,5.341,Sim
+20,Jefferson de Freitas,,Jaboatão dos Guararapes,Pernambuco,M,2,2,Sim
+21,Joaquim de Brito,,Pesqueira,Pernambuco,M,1.8,1.8,Sim
+22,José do Rego Maciel,Arruda,Recife,Pernambuco,P,60.044,60.044,Sim
+23,José Mendonça Bezerra,Mendonção/SESC,Belo Jardim,Pernambuco,P,7.05,7.05,Sim
+24,José Joaquim de Albertin,,Vicência,Pernambuco,M,5.5,5.5,Sim
+25,José Vareda,,Limoeiro ,Pernambuco,M,5,5,Sim
+26,Luíz José de Lacerda,Lacerdão,Caruaru,Pernambuco,P,19.478,19.478,Sim
+27,Manoel Anizio Mota,,Petrolândia,Pernambuco,M,5,5,Sim
+28,Marco Antônio Maciel,Gigante do Agreste,Garanhuns,Pernambuco,M,6.356,6.356,Sim
+29,Moacir Soares,,Cupira,Pernambuco,M,1.5,1.5,Não
+30,Municipal de Carpina,,Carpina,Pernambuco,M,3.5,3.5,Sim
+31,Nildo Pereira de Menezes,Pereirão,Serra Talhada,Pernambuco,M,5,5,Sim
+32,Nossa Senhora do Ó,Municipal,Ipojuca,Pernambuco,M,5,5,Sim
+33,Olívio Lemos ,Altinense,Altinho,Pernambuco,P,3.012,3.012,Sim
+34,Otávio Limeira Alves,Limeirão,Santa Cruz do Capibaribe ,Pernambuco,P,5.039,5.039,Sim
+35,Paulo de Souza Coelho,,Petrolina,Pernambuco,M,5,5,Sim
+36,Professor Luiz Alexandrino,,Camaragibe,Pernambuco,M,2,2,Sim
+37,Severino Cândido Carneiro,Carneirão,Vitória de Santo Antão,Pernambuco,M,10.911,10.911,Sim
+38,Valdemar Viana de Araújo,,Afogados da Ingazeira,Pernambuco,M,1.735,1.735,Não
+39,Walter Dantas Caldeira,,Lagoa de Itaenga,Pernambuco,M,3,3,Não
+1,Centro Esportivo Dirceu Arcoverde,Verdinho,Parnaíba,Piauí,P,4.328,4.328,Sim
+2,Deusdeth de Melo,,Campo Maior,Piauí,M,4,4,Sim
+3,Gerson Campos,,Oeiras,Piauí,M,4,4,Sim
+4,Governador Alberto Silva,Albertão,Teresina,Piauí,E,52.296,52.296,Sim
+5,Helvídio Nunes,,Picos,Piauí,M,5,5.4,Sim
+6,Juca Fortes,,Barras,Piauí,M,4.87,4.87,Sim
+7,Lindolfo Monteiro,Lindolfinho,Teresina,Piauí,M,5.144,5.144,Sim
+8,Manoel Freitas Soares,Duduzão,Luiz Correia,Piauí,M,3,3,Não
+9,Mão Santa,Piscinão,Parnaíba,Piauí,M,4.146,4.146,Sim
+10,Tibério Nunes,Tiberão,Floriano,Piauí,M,5.398,5.398,Sim
+11,Ytacoatiara,Arena Colorada,Piripiri,Piauí,M,5.83,5.83,Sim
+1,Alair Corrêa,Correão,Cabo Frio,Rio de Janeiro,M,522,2.611,Sim
+2,Aloísio Rodrigues de Lima,Catarinão,São Gonçalo,Rio de Janeiro,P,,2,Não
+3,Alziro de Almeida,Alzirão,Itaboraí,Rio de Janeiro,M,900,900,Não
+4,Aniceto Moscoso,Conselheiro Galvão,Rio de Janeiro,Rio de Janeiro,P,1.709,2.136,Não
+5,Antônio Carneiro,Carneirão,Quissamã,Rio de Janeiro,M,370,370,Não
+6,Antônio Ferreira de Medeiros,Ferreirão,Cardoso Moreira,Rio de Janeiro,P,900,3,Não
+7,Antônio Gomes Viana,,Carapebus,Rio de Janeiro,P,10,,Não
+8,Antônio Mourão Vieira Filho,Bariri,Rio de Janeiro,Rio de Janeiro,P,4.98,8.3,Sim
+9,Antônio Salvatore,,Teresópolis,Rio de Janeiro,P,8,,Não
+10,Arthur Antunes Coimbra,Antunes,Rio de Janeiro,Rio de Janeiro,P,774,774,Sim
+11,Arthur Sendas,Sendolândia,São João de Meriti,Rio de Janeiro,P,560,560,Não
+12,Ary de Oliveira e Souza,Arizão,Campos,Rio de Janeiro,P,5.8,5.8,Sim
+13,Atílio Marotti,,Petrópolis,Rio de Janeiro,P,8.5,,Não
+14,Cabuçu,,Rio de Janeiro,Rio de Janeiro,P,400,,Não
+15,Campo dos Cordeiros,,São Gonçalo,Rio de Janeiro,P,15,,Não
+16,Carmo Arenari Filho,,Rio de Janeiro,Rio de Janeiro,P,500,,Não
+17,Cláudio Moacyr Azevedo,Moacyrzão,Macaé,Rio de Janeiro,P,15,15,Sim
+18,Carlos Gonçalves,Motorista,Rio Bonito,Rio de Janeiro,P,300,300,Não
+19,De Los Larios,Los Larios,Duque de Caxias,Rio de Janeiro,P,5.088,6.3,Sim
+20,Eduardo Guinle,,Nova Friburgo,Rio de Janeiro,M,4.75,5.5,Sim
+21,Eduardo Viana,Toca Capirava,Japeri,Rio de Janeiro,P,1,,Não
+22,Elcyr Resende de Mendonça,Bacaxá,Saquarema,Rio de Janeiro,P,4.315,2.058,Sim
+23,Eustáquio Marques,Estádio do Divino,Rio de Janeiro,Rio de Janeiro,P,1,,Não
+24,Expedicionário,,Macaé,Rio de Janeiro,P,7.5,,Não
+25,Figueira de Melo,Figueirinha,Rio de Janeiro,Rio de Janeiro,P ,800,800,Não
+26,Giulite Coutinho,Edson Passos,Edson Passos,Rio de Janeiro,P,13.544,13.544,Sim
+27,Guilherme da Silveira Filho,Moça Bonita,Rio de Janeiro,Rio de Janeiro,P,6.989,9.024,Sim
+28,Helio Rodrigues da Siqueira,Municipal Itacuruça,Itacuruça,Rio de Janeiro,M,400,,Não
+29,Hermano Victor Meguelle,,Itaguaí,Rio de Janeiro,M,500,,Não
+30,Hermenegildo Barcelos,Barcelão,Arraial do Cabo,Rio de Janeiro,M,4.5,,Sim
+31,Ítalo Del Cima,,Rio de Janeiro,Rio de Janeiro,P,18,,Não
+32,Jair Carneiro Toscano de Brito,,Angra dos Reis,Rio de Janeiro,M,500,1.5,Não
+33,Jair Pereira da Silva,,São Gonçalo,Rio de Janeiro,P,2,,Não
+34,Jair Siqueira Bittencourt,,Itaperuna,Rio de Janeiro,P,10,,Não
+35,Janio de Moraes,Laranjão,Nova Iguaçu,Rio de Janeiro,P,1.81,1.81,Não
+36,João Francisco,Estádio do Ceres,Rio de janeiro,Rio de Janeiro,P,3,,Não
+37,Joaquim de Almeida Flores,,Nilópolis,Rio de Janeiro,P,5,,Não
+38,Joel Pereira,Pereirão,Nova Iguaçu,Rio de Janeiro,P,1,,Não
+39,Jornalista Mário Filho,Maracanã,Rio de Janeiro,Rio de Janeiro,E,78.838,78.838,Sim
+40,José Bastos Padilha,Da Gávea,Rio de Janeiro,Rio de Janeiro,P,4,,Não
+41,José de Alvarenga,Alvarengão,Belford Roxo,Rio de Janeiro,P,4,,Não
+42,José Gonçalves Brandão Filho,,Aperibé,Rio de Janeiro,P,1,,Não
+43,José Maria de Brito Barros,,Mangaratiba,Rio de Janeiro,M,600,600,Não
+44,Leonidas da Silva,Teixeira de Castro,Rio de Janeiro,Rio de Janeiro,P,836,2.39,Não
+45,Lourival Gomes de Almeida,Lourivalzão,Sampaio Correa,Rio de Janeiro,P,1.8,1.8,Não
+46,Luso Brasileiro,,Rio de Janeiro,Rio de Janeiro,P,2,4.697,Sim
+47,Manoel José Vianna de Sá,,São João da Barra,Rio de Janeiro,M,900,1.824,Não
+48,Manoel Schwartz,Laranjeiras,Rio de Janeiro,Rio de Janeiro,P,2,,Não
+49,Marcelo de Moura e Souza,Marcelão,Três Rios,Rio de Janeiro,P,2.2,,Não
+50,Mario Castanho,Arena Guanabara,Araruama,Rio de Janeiro,P,10,,Não
+51,Mestre Telê Santana,Maracanazinho,Duque de Caxias,Rio de Janeiro,M,2,,Sim
+52,Mestre Ziza,Caio Martins,Niterói,Rio de Janeiro,P,12,,Sim
+53,Municipal de Búzios,SE Buzios,Búzios,Rio de Janeiro,M,1,,Não
+54,Municipal de Resende,Do Trabalhador,Resende,Rio de Janeiro,M,950,4.6,Não
+55,Nielsen Louzada,Louzadão,Mesquita,Rio de Janeiro,P,6,,Não
+56,Nilton Santos,Engenhão,Rio de Janeiro,Rio de Janeiro,M,34.171,45,Sim
+57,Nivaldo Pereira,Nivaldão,Queimados,Rio de Janeiro,P,160,2.184,Não
+58,Odair Gama,,Três Rios,Rio de Janeiro,P,10,,Não
+59,Oswaldo Delegado de Moraes,,Paracambi,Rio de Janeiro,P,1,,Não
+60,Ozório Junior,,Petropolis,Rio de Janeiro,P,5,,Não
+61,Paulo Fernandes,Royal Barra do Parai,Barra do Piraí,Rio de Janeiro,P,6,,Não
+62,Plínio Bastos Barros,,Miracema,Rio de Janeiro,M,400,,Não
+63,Pref. Ismael de Souza Leão do Sul,Leão do Sul,Barra Mansa,Rio de Janeiro,M,1,2,Não
+64,Romário de Souza Faria,Marrentão,Xerém,Rio de Janeiro,P,3.334,3.334,Sim
+65,São Januário,São Januário,Rio de Janeiro,Rio de Janeiro,P,21.88,24.584,Sim
+66,Sylvio Raulino de Oliveira,Da Cidadania,Volta Redonda,Rio de Janeiro,M,18.23,20.255,Sim
+67,Waldemar Tardio,,São Pedro da Aldeia,Rio de Janeiro,M,500,,Não
+68,Waldo Carneiro Xavier,,Santo Antônio de Pádua,Rio de Janeiro,M,850,3.35,Não
+1,9 de Janeiro,,Pau dos Ferros,Rio Grande do Norte,M,,4.746,Sim
+2,Arena das Dunas, ,Natal,Rio Grande do Norte,P,32.05,32.05,Sim
+3,Dinarte de Medeiros Mariz,Marizão,Caicó,Rio Grande do Norte,E,3,12,Sim
+4,Edgar Borges Montenegro,Edgarzão,Assu,Rio Grande do Norte,P,4.2,4.2,Sim
+5,Iberê Ferreira de Souza,Iberezão,Santa Cruz ,Rio Grande do Norte,M,4.403,5.013,Sim
+6,João Pedro Filho,Pajesão,Guamaré,Rio Grande do Norte,M,,4.05,Sim
+7,José Bezerra,Bezerrão,Currais Novos,Rio Grande do Norte,M,,1.6,Sim
+8,José Nazareno do Nascimento,Nazarenão,Goianinha,Rio Grande do Norte,M,4.1,4.1,Sim
+9,Juvenal Lamartine,JL,Natal,Rio Grande do Norte,P,,3,Não
+10,Laurentino Bezerra,,Parelhas,Rio Grande do Norte,M,,600,Não
+11,Luís Rios Bacurau,Ninho do Periquito,São Gonçalo,Rio Grande do Norte,P,2.067,2.167,Sim
+12,Manoel Dantas Barretto,Barrettão,Ceará Mirim,Rio Grande do Norte,M,9.994,10.068,Sim
+13,Manoel Leonardo Nogueira,Nogueirão,Mossoró,Rio Grande do Norte,P,4,10,Sim
+14,Maria Lamas Farache,Frasqueirão,Natal,Rio Grande do Norte,P,14.74,15.082,Sim
+15,Walter Bichão,Walter Bichão,Macau,Rio Grande do Norte,M,,3,Sim
+1,19 de Outubro,,Ijuí,Rio Grande do Sul,P ,5.217,5.217,Sim
+2,Alberto Carlos Schwingler,,Igrejinha,Rio Grande do Sul,P,2.5,2.5,Sim
+3,Alcides Santa Rosa,,Garibldi,Rio Grande do Sul,P,2,5,Sim
+4,Aldo Dapuzzo,,Rio Grande,Rio Grande do Sul,P,3.5,3.5,Sim
+5,Alfredo Jaconi,,Caxias do Sul,Rio Grande do Sul,P,19.924,19.924,Sim
+6,Aloysio Valentin Schwertner,,Estrela,Rio Grande do Sul,M,2.8,2.8,Não
+7,Altos da Glória,,Vacaria,Rio Grande do Sul,P,2.41,3,Sim
+8,Amaro Cassep,,Rio Pardo,Rio Grande do Sul,P,1.133,1.133,Não
+9,Antônio David Farina,,Veranópolis,Rio Grande do Sul,M,4.72,5,Sim
+10,Antônio Magalhães Russel,Estrela D'Alva,Bagé,Rio Grande do Sul,P,3,10,Sim
+11,Antônio Vieira Ramos,Vieirão,Gravataí,Rio Grande do Sul,P,4.7,4.7,Sim
+12,Arena Alviazul,,Lajeado,Rio Grande do Sul,P,4.266,4.266,Sim
+13,Arena do Grêmio,Arena Portoalegrense,Porto Alegre,Rio Grande do Sul,P,55.662,55.662,Sim
+14,Aristides Bertuol,,Bento Gonçalves,Rio Grande do Sul,P,3.5,,Não
+15,Arthur Lawson,,Rio Grande,Rio Grande do Sul,P,3,3,Sim
+16,Arthur Mesquita Dias,,Sapucaia do Sul,Rio Grande do Sul,M,2.5,,Não
+17,Azalobão,,Nova Petrópolis,Rio Grande do Sul,P,2.5,,Não
+18,Bento da Silva Freitas,Bento Freitas,Pelotas,Rio Grande do Sul,P ,5,5,Sim
+19,Breno Guimarães,,Guaíba,Rio Grande do Sul,P,1,,Não
+20,Boca do Lobo,,Pelotas,Rio Grande do Sul,P,15.478,15.478,Sim
+21,Carlos Bebber,,Marau,Rio Grande do Sul,M,2,2,Sim
+22,Carlos Denardin,,Santa Rosa,Rio Grande do Sul,M,3.5,,Sim
+23,Carlos Jacob Simon,,Ibirubá,Rio Grande do Sul,P,3,,Não
+24,Castanheiras,,Farroupilha,Rio Grande do Sul,P,4.5,,Sim
+25,Colosso da Lagoa,,Erechim,Rio Grande do Sul,P,22,22,Sim
+26,Complexo Esportivo da PUC,,Porto Alegre,Rio Grande do Sul,P,2.2,,Sim
+27,Complexo Esportivo Ulbra,Complexo Esportivo,Canoas,Rio Grande do Sul,P,10,,Sim
+28,Coronel Sílvio Luiz,,Camaquã,Rio Grande do Sul,P,3,,Não
+29,Das Cabriúvas,Cabriúvas,Encantado,Rio Grande do Sul,P,3,3,Não
+30,Das Rosas,,Sapiranga,Rio Grande do Sul,P,5,,Não
+31,Dos Pinheirais,,Gramado,Rio Grande do Sul,P,1.5,,Não
+32,Dr. Mário Cini,Mário Cini,Nova Prata,Rio Grande do Sul,M,3,3,Não
+33,Dr. Pedro Sander,,Canela,Rio Grande do Sul,P,3,,Não
+34,Edgar Leitão Teixeira,Tamoio,Viamão,Rio Grande do Sul,P,400,,Não
+35,Edmundo Feix,,Venâncio Alves,Rio Grande do Sul,P ,3,3,Sim
+36,Estádio Beira-Mar,Municipal de Tramadaí,Tramandaí,Rio Grande do Sul,M,2,2,Não
+37,Estádio do Vale,,Novo Hamburgo,Rio Grande do Sul,P,5.196,5.196,Sim
+38,Eucaliptos,,Santa Cruz do Sul,Rio Grande do Sul,P,3,3,Sim
+39,Eucaliptos,,Santa Maria,Rio Grande do Sul,P,4,,Não
+40,Florestal,,Lajeado,Rio Grande do Sul,P,3.2,3.2,Sim
+41,Fonte Sarandi,,Sarandi,Rio Grande do Sul,P,2.5,2.5,Não
+42,Francisco Emilio Trein,,Ibirubá,Rio Grande do Sul,P,3,,Não
+43,Francisco Stédile,Centenário,Caxias do Sul,Rio Grande do Sul,P,22.132,22.132,Sim
+44,Homero Soldatelli,,Flôres da Cunha,Rio Grande do Sul,M,1.5,,Não
+45,João Corrêa da Silveira,Cristo Rei,São Leopoldo,Rio Grande do Sul,P,7.8,10,Sim
+46,João da Silva Moreira,Parque Lami,Porto Alegre,Rio Grande do Sul,P,1.5,,Não
+47,João Marimon Junior,,Panambi,Rio Grande do Sul,M,2.873,2.873,Sim
+48,João Martins,,Santana do Livramento,Rio Grande do Sul,P,5,,Não
+49,João Renato Feltes,,Novo Hamburgo,Rio Grande do Sul,P,1.5,,Não
+50,Joaquim Vidal,,Cachoeira do Sul,Rio Grande do Sul,M,5,5,Sim
+51,José Pinheiro Borda,Beira Rio,Porto Alegre,Rio Grande do Sul,P ,50.128,50.128,Sim
+52,Luciano Ferreira Martins,,Palmeira das Missões,Rio Grande do Sul,P,2,,Não
+53,Luiz de Medeiros,,Três Passos,Rio Grande do Sul,M,3,,Não
+54,Miguel Wairich Filho,,Júlio de Castilhos,Rio Grande do Sul,M,1,,Não
+55,Morada dos Quero-Queros,,Alvorada,Rio Grande do Sul,P,1,1.487,Não
+56,Nicolau Fico,Fragata,Pelotas,Rio Grande do Sul,P,3.12,3.12,Não
+57,Odorico Mosmann,,Parobé,Rio Grande do Sul,P,2.5,,Não
+58,Omar de Carli,,Fagundes Varela,Rio Grande do Sul,P,3,,Não
+59,Pq. Esp. Montanha dos Vinhedos ,Montanha dos Vinhedos,Bento Gonçalves,Rio Grande do Sul,P,12.859,15,Sim
+60,Passo D'Areia,,Porto Alegre,Rio Grande do Sul,P,10.646,14,Sim
+61,Paulo Coutinho,,Carazinho,Rio Grande do Sul,P,4,,Não
+62,Pedra Moura,,Bagé,Rio Grande do Sul,P,3,3,Sim
+63,Plátanos,,Santa Cruz do Sul,Rio Grande do Sul,P,3,3,Sim
+64,Presidente Vargas,Baixada Melancólica,Santa Maria,Rio Grande do Sul,P,6.523,6.523,Sim
+65,Raul Oliveira,Zona Sul,Santo Ângelo,Rio Grande do Sul,P,6,,Sim
+66,Rubro Negro,,Crissiumal,Rio Grande do Sul,M,3.5,,Não
+67,Sadi Arnildo Schmidt,,Campo Bom,Rio Grande do Sul,P ,2,,Sim
+68,Silvio de Faria Correa,,São Gabriel,Rio Grande do Sul,M,5,6,Sim
+69,Vermelhão da Colina,,Frederico Westphalen,Rio Grande do Sul,P,4,,Sim
+70,Vermelhão da Serra,,Passo Fundo,Rio Grande do Sul,P,15,15,Sim
+71,Vicente Goulart,,São Borja,Rio Grande do Sul,P,8,,Sim
+1,Aglair Tonelli Nogueira,,Cacoal,Rondônia,M,4,,Sim
+2,Aluizio Pinheiro Ferreira,Aluizão,Porto Velho,Rondônia,E,700,5,Sim
+3,Arnaldo Lopes Martins,Portal da Amazônia,Vilhena,Rondônia,M,2.5,,Sim
+4,Gentil Valério,Valerião,Ariquemes,Rondônia,M,2.5,,Sim
+5,José Ângelo Cassol,Cassolão,Rolim de Moura,Rondônia,M,4,,Sim
+6,José de Abreu Bianco,Biancão,Ji-Paraná,Rondônia,E,5,,Sim
+7,Leal Chapelão,,Jaru,Rondônia,M,3,,Sim
+8,Luiz Alves de Ataíde,Ataíde,Pimenta Bueno,Rondônia,M,2,,Sim
+9,Luizinho Turatti,,Espigão D'Oeste,Rondônia,M,2,,Sim
+1,Flamarion Vasconcelos,Canarinho (em obras),Boa Vista,Roraima,E,6,6,Sim
+2,Municipal de Mucajaí,Sabinão,Mucajaí,Roraima,M,1,1.1,Sim
+3,Raimundo Ribeiro de Souza,Ribeirão,Boa Vista,Roraima,E,1.107,1.5,Sim
+1,Aderbal Ramos da Silva,Ressacada,Florianópolis,Santa Catarina,P,17.826,17.826,Sim
+2,Aníbal Torres Costa,,Tubarão,Santa Catarina,M,3.57,3.57,Sim
+3,Arena Joinville,Arena,Joinville,Santa Catarina,M,20.16,22,Sim
+4,Augusto Bauer,,Brusque,Santa Catarina,P,5,5,Sim
+5,Benedito Therezio de Carvalho Jr.,Ditão,Canoinhas,Santa Catarina,M,3.17,3.17,Não
+6,Botafogo Futebol Clube,Estrela Solitária,Jaraguá do Sul,Santa Catarina,P,1,1,Não
+7,Carlos Alberto Costa Neves,,Caçador,Santa Catarina,M,6.5,6.5,Sim
+8,Complexo Esportivo do SESI,SESI,Blumenau,Santa Catarina,P,3.624,3.624,Sim
+9,Domingos Machado de Lima,,Concórdia,Santa Catarina,M,3.161,3.161,Sim
+10,Domingos Silveira Gonzales,,Tubarão,Santa Catarina,P,1.706,1.706,Sim
+11,Edir Prestes Valin,Macieirão,Fraiburgo,Santa Catarina,M,4.25,4.25,Não
+12,Ernesto Schlemm Sobrinho,Ernestão,Joinville,Santa Catarina,P,5,5,Sim
+13,Hercílio Luz,Gigantão,Itajaí,Santa Catarina,P,6.01,6.01,Sim
+14,Heriberto Hulse,Majestoso,Cricíuma,Santa Catarina,P,19.9,19.9,Sim
+15,Hermann Aichinger,Da Baixada,Ibirama,Santa Catarina,P,3,3,Sim
+16,Índio Condá,Arena Condá,Chapecó,Santa Catarina,M,15.765,15.765,Sim
+17,João Marcatto,,Jaraguá do Sul,Santa Catarina,M,5.27,5.27,Sim
+18,Orlando Scarpelli,Scarpelli,Florianópolis,Santa Catarina,P,19.584,19.584,Sim
+19,Renato Silveira,,Palhoça,Santa Catarina,P,2.081,2.081,Sim
+20,Roberto Santos Garcia,Robertão,Camboriú,Santa Catarina,M,3.3,3.3,Sim
+21,Vidal Ramos Júnior,,Lages,Santa Catarina,M,4.681,6,Sim
+22,Victório Pierozan,,Seára,Santa Catarina,M,1.5,1.5,Não
+1,1º de Maio,,São Bernardo do Campo,São Paulo,M,13.44,15.759,Sim
+2,Acrísio Paes Cruz,,Botucatu,São Paulo,M,3,3,Sim
+3,Adail Nunes da Silva,,Taquaritinga,São Paulo,M,16.805,18.805,Sim
+4,Ademar de Barros,Ademarzão,Araçatuba,São Paulo,M,11.274,11.274,Sim
+5,Ademar Pereira de Barros,Fonte Luminosa/Arena da Fonte,Araraquara,São Paulo,M,20,21.441,Sim
+6,Adhemar de Barros,,São Manuel,São Paulo,M,1.5,1.5,Não
+7,AD Parahyba,,São José dos Campos,São Paulo,P,5.016,5.016,Não
+8,Alberto Victolo,Albertão,Tanabi,São Paulo,M,8.4,8.4,Não
+9,Aldevio Barbosa de Lemos,,Campo Limpo Paulista,São Paulo,M,1.533,1.533,Não
+10,Alexandre Augusto Camacho,,Mogi Guaçu,São Paulo,M,4,5.594,Sim
+11,Alfredo Chiavegato,,Jaguariúna,São Paulo,M,15,15,Não
+12,Alfredo de Castilho,Alfredão,Bauru,São Paulo,P,16.3,18.866,Sim
+13,Alfredo Schürig,Parque São Jorge,São Paulo,São Paulo,P,12,18.5,Não
+14,Allianz Parque,Allianz Parque,São Paulo,São Paulo,P,43.713,43.713,Sim
+15,Alonso de Carvalho Braga,,Tupã,São Paulo,M,5.515,5.515,Sim
+16,Amadeu Mosca,,Salto,São Paulo,M,2,2,Não
+17,Anacleto Campanella,,São Caetano do Sul ,São Paulo,M,16.744,16.744,Sim
+18,André Nunes Junior,,Itapevi,São Paulo,M,3.452,5,Não
+19,Anísio Haddad,,São José do Rio Preto,São Paulo,P ,14.014,14.126,Sim
+20,Antônio Fernandes,,Guarujá,São Paulo,M,6.84,6.84,Não
+21,Antônio Gomes Martins,Fortaleza,Barretos,São Paulo,M,13.007,13.007,Sim
+22,Antônio Lins Ribeiro Guimarães,,Santa Bárbara D ?Oeste ,São Paulo,P,14.913,14.913,Sim
+23,Antônio Pereira Braga,,José Bonifácio,São Paulo,M,4.66,4.8,Não
+24,Antônio Soares de Oliveira,,Guarulhos,São Paulo,M,6,6.235,Não
+25,Antônio Viana Silva,Tonicão,Assis,São Paulo,M,8.525,8.525,Não
+26,Arena Capivari,,Capivari,São Paulo,M,7.314,7.314,Não
+27,Arena Corinthians,,São Paulo,São Paulo,P,45,47.605,Sim
+28,Arena Plínio Marin,,Votuporanga,São Paulo,M,7.464,8.087,Não
+29,Archangelo Breda,,Lençóis Paulista,São Paulo,M,5.242,5.242,Não
+30,Dr. Orlando Batista Novelli,Arena Barueri,Barueri,São Paulo,M,31.452,31.452,Sim
+31,Augusto Schmidt Filho,Schmiltão,Rio Claro,São Paulo,M,6.284,6.284,Sim
+32,Barão de Serra Negra,,Piracicaba,São Paulo,M,18,18,Sim
+33,Belarmino Del Nero,BDN,Pirassununga,São Paulo,P,4.935,4.935,Não
+34,Benito Agnelo Castellano,Benitão,Rio Claro,São Paulo,M,8.136,8.136,Sim
+35,Benedito Teixeira,Teixeirão,São José do Rio Preto ,São Paulo,P ,32.168,32.936,Sim
+36,Bento de Abreu Souza Vidal,Bento de Abreu,Marília,São Paulo,M,15.01,15.01,Sim
+37,Breno Ribeiro do Val,,Oswaldo Cruz,São Paulo,M,11.784,11.784,Sim
+38,Brinco de Ouro da Princesa,Brinco de Ouro,Campinas,São Paulo,P,29.13,29.13,Sim
+39,Bruno José Daniel,,Santo André,São Paulo,M,8,14.185,Sim
+40,Bruno Lazzarini,,Leme,São Paulo,M,6.701,6.701,Sim
+41,Cândido de Barros,,Araraquara,São Paulo,M,4.156,4.156,Sim
+42,Carlos Affini,,Paraguaçu Paulista,São Paulo,M,15,15,Sim
+43,Carlos Ferracine,,Caieiras,São Paulo,M,5.56,5.56,Não
+44,Cerecamp,,Campinas,São Paulo,M,4.033,4.033,Não
+45,Cícero Pompeu de Toledo,Morumbi,São Paulo,São Paulo,P,72.039,77.011,Sim
+46,Cláudio Rodante,,Fernandópolis,São Paulo,M,5,6.95,Sim
+47,Comendador Agostinho Prada,Pradão,Limeira,São Paulo,M,9.483,9.483,Sim
+48,Conde Rodolfo Crespi,Rua Javari,São Paulo,São Paulo,P,3.8,4.004,Não
+49,Coronel Francisco Vieira,,Itapira,São Paulo,M,4.444,4.8,Sim
+50,CP João do Pulo,,São José dos Campos,São Paulo,M,600,600,Sim
+51,Dario Rodrigues Leite,,Guaratinguetá,São Paulo,M,16.095,16.095,Sim
+52,Décio Vitta,Rio Brancão,Americana,São Paulo,M,16.3,16.3,Sim
+53,Distrital Vila Guarani,,São Paulo,São Paulo,M,1.5,1.5,Não
+54,Domenico Paolo Mettidieri,,Votorantim,São Paulo,M,980,980,Não
+55,Domingos Baldan,,Guariba,São Paulo,M,2.737,2.737,Não
+56,Dos Amaros,,Itápolis,São Paulo,M,946,14.074,Sim
+57,Dr. Francisco Palmas Travassos,,Ribeirão Preto,São Paulo,P,14.5,18.277,Sim
+58,Dr. Jorge Ismael de Biasi,,Novo Horizonte,São Paulo,P,12.872,14.096,Sim
+59,Dr. Oswaldo Scatena,,Batatais,São Paulo,P,13,13,Sim
+60,Ernesto Rocco,,Porto Feliz,São Paulo,M,3.646,4.246,Não
+61,Espanha,,Santos,São Paulo,P,7.228,7.228,Não
+62,Euclides da Almeida,,Cotia,São Paulo,M,5.23,5.23,Não
+63,Farid Jorge Resegue,,Bariri,São Paulo,M,3,4.892,Não
+64,Francisco Franco,,Rancharia,São Paulo,P,3.213,3.213,Não
+65,Francisco Marques Figueira,,Suzano,São Paulo,M,3.445,3.445,Sim
+66,Francisco Ribeiro Nogueira Filho,,Mogi das Cruzes,São Paulo,M,14.384,14.384,Sim
+67,Frederico Dalmaso,Fredericão,Sertãozinho,São Paulo,M,2.277,7.86,Sim
+68,Frei Arnaldo Castilho,,Ilha Solteira,São Paulo,M,5.5,5.5,Sim
+69,Giglio Portugal Pichinin,Baetão,São Bernardo do Campo,São Paulo,M,6.315,6.315,Sim
+70,Gilberto Siqueira Lopes,Gilbertão,Lins,São Paulo,M,15.064,15.77,Sim
+71,Hermínio Espósito,,Embu das Artes,São Paulo,M,2.986,2.986,Não
+72,Hermínio Ometto,Herminião,Araras,São Paulo,P,16.096,16.096,Sim
+73,Hudson Buck Ferreira,,Matão,São Paulo,P,8.758,14.5,Sim
+74,Ítalo Mário Limongi,Gigante da Vila Industrial,Indaiatuba,São Paulo,P,7.82,7.82,Não
+75,Jayme Pinheiro Ulhoa Cintra,Jayme Cintra,Jundiaí,São Paulo,P,13.905,15.155,Sim
+76,Joaquim de Moraes Filho,Joaquinzão,Taubaté,São Paulo,P,9.6,12.896,Sim
+77,Joaquim Justo,,Américo Brasiliense,São Paulo,M,5,5,Não
+78,Joe Sanchez,ADC GM,São José dos Campo,São Paulo,P,1,1,Não
+79,José Araújo Cintra,,Amparo,São Paulo,P,4.675,4.675,Não
+80,José Lancha Filho,Lanchão,Franca,São Paulo,M,14.686,14.686,Sim
+81,José Liberatti,Rochedale,Osasco,São Paulo,M,11.78,12.43,Não
+82,José Maria Campos Maia,,Mirassol,São Paulo,M,15,15,Sim
+83,José Sidney Cunha,,Capão Bonito,São Paulo,M,10.022,10.022,Não
+84,Laudo Natel,,Cotia,São Paulo,P,2,2,Sim
+85,Legionário Esporte Clube,Dedé Muniz,Bragança Paulista,São Paulo,P,900,900,Não
+86,Leonardo Barbieri,,Águas de Lindóia,São Paulo,M,7.2,7.2,Não
+87,Leônidas Camarinha,,Santa Cruz do Rio Pardo,São Paulo,M,6,7.5,Sim
+88,Luiz Perissinotto,,Paulínia,São Paulo,M,5.386,5.386,Não
+89,Major José Levy Sobrinho,Limeirão,Limeira,São Paulo,M,18,23.475,Sim
+90,Mansueto Pierotti,,São Vicente,São Paulo,P,4.912,4.912,Não
+91,Marcos Eduardo C. Truvilho,,Ibiúna,São Paulo,M,3.72,3.72,Não
+92,Maria Tereza Breda,,Olímpia,São Paulo,M,15,15,Sim
+93,Martins Pereira,,São José dos Campos ,São Paulo,M,16.5,16.5,Sim
+94,Moisés Lucarelli,,Campinas,São Paulo,P,17.728,19.728,Sim
+95,Nabi Abi Chedid,,Bragança Paulista,São Paulo,P,17.022,17.128,Sim
+96,Nicolau Alayon,,São Paulo,São Paulo,P,5,10.117,Não
+97,Novelli Junior,Majestoso da Vila Nova,Itu,São Paulo,M,18.56,18.56,Sim
+98,Oswaldo Teixeira Duarte,Canindé,São Paulo,São Paulo,P,21.004,22.375,Sim
+99,Otacília Patrício Arroyo,,Monte Azul,São Paulo,P,13.1,13.1,Não
+100,Paulo Constantino,Prudentão,Presidente Prudente,São Paulo,M,45.954,45.954,Sim
+101,Paulo Machado de Carvalho,Pacaembu,São Paulo,São Paulo,M,37.73,40.199,Sim
+102,Pedro Benedetti,EM de Mauá,Mauá,São Paulo,M,8.567,8.567,Não
+103,Pedro Marin Barbel,Pedrão,Biriguí,São Paulo,M,2.5,8.24,Sim
+104,Prof. Luiz Augusto Oliveira,,São Carlos,São Paulo,M,8,10,Sim
+105,Robert Todd Locke,,Jaboticabal,São Paulo,P,7.512,7.512,Sim
+106,Roberto do Vale Rollemberg,,Jales,São Paulo,M,7.68,7.68,Sim
+107,Romildo Vitor Gomes Ferreira,,Mogi Mirim,São Paulo,P,19.9,19.9,Sim 
+108,Salvador Russani,,Atibaia,São Paulo,M,2.563,2.563,Não
+109,Santa Cruz,,Ribeirão Preto,São Paulo,P,25,29.292,Sim
+110,São Sebastião,,Mococa,São Paulo,M,7.8,7.8,Sim
+111,Sílvio Salles,,Catanduva,São Paulo,M,16.444,16.444,Sim
+112,Sociedade Esportiva Palmeirinha,Vila Famosa,Porto Ferreira,São Paulo,M,3.402,3.402,Não
+113,Sócrates Stamato,,Bebedouro,São Paulo,M,10.2,10.2,Sim
+114,Stavos Papadopoulos,,Jacareí,São Paulo,P,4.09,4.09,Não
+115,Tenente Carriço,Tenentão,Penápolis,São Paulo,M,2,4.679,Não
+116,Ulrico Mursa,,Santos,São Paulo,P,5.737,8.392,Sim
+117,Urbano Caldeira,Vila Belmiro,Santos,São Paulo,P,16.068,21.732,Sim
+118,Vereador José Feres,,Taboão da Serra,São Paulo,M,4,4.41,Não
+119,Vereador José Pereira,,Sumaré,São Paulo,M,2.5,2.626,Não
+120,Virgílio Holtz,,Itararé,São Paulo,P,5.57,5.57,Sim
+121,Walter Ribeiro,,Sorocaba,São Paulo,M,13.772,13.772,Sim
+122,Wanderley J. Vicentini,,Pedreira,São Paulo,M,3.262,3.262,Não
+123,Zezinho Magalhães,,Jaú,São Paulo,P,12.978,12.978,Sim
+1,André Avelino,Andrezão,Canindé do São Francisco,Sergipe,M,2,2,Sim
+2,André Moura,,Pirambu,Sergipe,M,2,2,Sim
+3,Antônio Carlos Fontes Souza,Tozão,Japaratuba,Sergipe,M,2,2,Não
+4,Ariston Azevedo,,Nossa Senhora das Dores,Sergipe,P,2,2,Não
+5,Arnaldo Pereira,,São Domingos,Sergipe,M,2,2,Não
+6,Augusto Franco,Francão,Estância,Sergipe,E,8,8,Sim
+7,Caio Feitosa,,Porto da Folha,Sergipe,P,3,3,Não
+8,C. D. Augusto Franco,Augusto Franco,Laranjeiras,Sergipe,F,1.5,1.5,Não
+9,Denisson Fontes Souza,Souzão,Itabaianinha,Sergipe,P,2,2,Não
+10,Durval Feitosa,,Propriá,Sergipe,P,2,2,Não
+11,Editon Oliveira,,Nossa Senhora da Glória,Sergipe,M,2,2,Não
+12,Francisco Leite,Chico Leite,Riachuelo,Sergipe,P,1.3,1.3,Não
+13,Fernando França,Franção,Carmópolis,Sergipe,P,2,2,Sim
+14,Geraldo Oliveira,Geraldão,Cristinápolis,Sergipe,M,2,2,Sim
+15,Gov. Antônio Carlos Valadares,Vavazão,Maruim,Sergipe,E,10.235,10.235,Sim
+16,Idalito Oliveira,,Carmópolis,Sergipe,F,2.5,2.5,Não
+17,Isaías Gileno Barreto,Campo do Limão,São Cristóvão,Sergipe,M,2,2,Não
+18,João Alves Filho,,Propriá,Sergipe,E,4.5,4.5,Não
+19,João Hora de Oliveira,João Hora,Aracaju,Sergipe,P,6,6,Sim
+20,Joaquim Sabino Ribeiro,Sabino Ribeiro,Aracaju,Sergipe,P,4,4,Sim
+21,José Francisco de Oliveira,Severão,Macambira,Sergipe,M,1.5,1.5,Não
+22,Lourival Baptista,Batistão,Aracaju,Sergipe,E,15.586,15.586,Sim
+23,Manoel Joaquim Porto,Manoel Joaquim,Aquidabã,Sergipe,M,2,2,Não
+24,Módulo Esportivo Tobias Barreto,Brejeirão,Tobias Barreto,Sergipe,M,3,3,Sim
+25,Paulo Barreto de Menezes,Barretão,Lagarto,Sergipe,E,6,6,Sim
+26,Presidente Médici,Médici,Itabaiana,Sergipe,E,10,10,Sim
+27,Roberto Góis,,Riachão,Sergipe,M,2,2,Não
+28,Wellington Elias,Lelesão,Nsa. Senhora do Socorro,Sergipe,F,3,3,Sim
+29,Velho Chico,Velho Chico,Neópolis,Sergipe,M,1.5,1.5,Não
+30,Vila Operária,Passagem,Neópolis,Sergipe,P,2,2,Não
+1,Alexandre Cândido Gomes,Alexandre Gomes,Araguaçu,Tocantins,M,1,1,Não
+2,Antônio Neto,Bigodão,Colinas,Tocantins,M,1.2,1.2,Sim
+3,Castanheirão,Castanheirão,Miracema,Tocantins,E,2,2,Sim
+4,Delfino Pereira Lopes,Delfinão,Guaraí,Tocantins,M,1.5,1.5,Sim
+5,Dr. Magalhães,Dr. Magalhães,Dianópolis,Tocantins,M,1,1,Não
+6,Elias Natan,Elias Natan,Alvorada,Tocantins,M,1.5,1.5,Não
+7,General Sampaio,General Sampaio,Porto Nacional,Tocantins,M,2,2,Sim
+8,Gilberto Resende Rocha,Rezendão,Gurupi,Tocantins,E,3,3,Sim
+9,João Ribeiro,Ribeirão,Tocantinópolis,Tocantins,P ,10,10,Sim
+10,José Pereira Rêgo,Pereirão,Paraíso ,Tocantins,M,2.3,2.3,Sim
+11,Leôncio Miranda,Mirandão,Araguaína,Tocantins,E,9,9,Sim
+12,Municipal de Rio Sono,Rio Sono,Rio Sono,Tocantins,M,500,500,Não
+13,Nilton Santos,Nilton Santos,Palmas,Tocantins,E,10,10,Sim
+14,Vanderlei Afonso da Silva,Ipirangão,Aliança,Tocantins,M,500,500,Não
