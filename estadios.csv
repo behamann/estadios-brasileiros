@@ -1,790 +1,790 @@
 id,nome,apelido,cidade,estado,regiao,proprietario, capacidade , oficial ,iluminacao
-1,Antonio Aquino Lopes,Florestão,Rio Branco,Acre,Norte,P,8,10,Sim
-2,Arena da Floresta,,Rio Branco,Acre,Norte,E,13.7,20,Sim
-3,Arena do Juruá,,Cruzeiro do Sul,Acre,Norte,E,4,4,Sim
-4,Complexo Esportivo Totão,Totão,Mâncio Lima,Acre,Norte,M,9,,Sim
-5,José de Melo,,Rio Branco,Acre,Norte,P ,2,,Sim
-6,Nabor Júnior,,Senador Guiomard,Acre,Norte,M,2,,Sim
-7,Adalberto Cavalcante,,Porto Real do Colégio,Alagoas,Nordeste,M,3,3.27,Não
-8,Alfredo Lehay,,Penedo,Alagoas,Nordeste,M,3,3.27,Não
-9,Arnon de Mello,,Santana de Ipanema,Alagoas,Nordeste,M,2703,2.8,Não
-10,Cleto Marques,,Maceió,Alagoas,Nordeste,M,3,,Não
-11,Coaracy da Mata Fonseca,Fumerão,Arapiraca,Alagoas,Nordeste,M,15,15332,Sim
-12,Edivanil Cavalcante Navarro,,Matriz Camaragibe,Alagoas,Nordeste,M,3,,Não
-13,Edson Matias,,Olho D'Água das Flores,Alagoas,Nordeste,P,2,2.48,Não
-14,Eduardo de Melo Gonçalves,,São Luiz do Quitunde,Alagoas,Nordeste,P,2,2.48,Não
-15,Gerson Amaral,,Coruripe,Alagoas,Nordeste,M,5,5.56,Sim
-16,Gustavo Paiva,Mutange,Maceió,Alagoas,Nordeste,P,3,,Não
-17,João Batista,,Maceió,Alagoas,Nordeste,M,3,,Não
-18,José Gomes da Costa,,Murici,Alagoas,Nordeste,M,3.5,3829,Sim
-19,Juca Sampaio,,Palmeira dos Índios,Alagoas,Nordeste,M,4.5,4995,Sim
-20,Luiz Pontes, ,Atalaia,Alagoas,Nordeste,M,2,2182,Não
-21,Manoel Ferreira de Amorim,Ferreirão,São Miguel dos Campos,Alagoas,Nordeste,M,3,,Não
-22,Manoel Moreira,,Capela,Alagoas,Nordeste,M,3,,Sim
-23,Nelson Peixoto Feijó,Nelsão,Maceió,Alagoas,Nordeste,P,4,4.93,Não
-24,Olival Elias de Moraes,,Boca da Mata,Alagoas,Nordeste,P,2.5,3,Não
-25,Orlando Gomes,Praxedão,União dos Palmares,Alagoas,Nordeste,M,1115,4,Sim
+1,Antonio Aquino Lopes,Florestão,Rio Branco,Acre,Norte,P,8000,10000,Sim
+2,Arena da Floresta,,Rio Branco,Acre,Norte,E,13700,20000,Sim
+3,Arena do Juruá,,Cruzeiro do Sul,Acre,Norte,E,4000,4000,Sim
+4,Complexo Esportivo Totão,Totão,Mâncio Lima,Acre,Norte,M,9000,9000,Sim
+5,José de Melo,,Rio Branco,Acre,Norte,P ,2000,2000,Sim
+6,Nabor Júnior,,Senador Guiomard,Acre,Norte,M,2000,2000,Sim
+7,Adalberto Cavalcante,,Porto Real do Colégio,Alagoas,Nordeste,M,3000,3270,Não
+8,Alfredo Lehay,,Penedo,Alagoas,Nordeste,M,3000,3270,Não
+9,Arnon de Mello,,Santana de Ipanema,Alagoas,Nordeste,M,2703,2800,Não
+10,Cleto Marques,,Maceió,Alagoas,Nordeste,M,3000,3000,Não
+11,Coaracy da Mata Fonseca,Fumerão,Arapiraca,Alagoas,Nordeste,M,15000,15332,Sim
+12,Edivanil Cavalcante Navarro,,Matriz Camaragibe,Alagoas,Nordeste,M,3000,3000,Não
+13,Edson Matias,,Olho D'Água das Flores,Alagoas,Nordeste,P,2000,2480,Não
+14,Eduardo de Melo Gonçalves,,São Luiz do Quitunde,Alagoas,Nordeste,P,2000,2480,Não
+15,Gerson Amaral,,Coruripe,Alagoas,Nordeste,M,5000,5560,Sim
+16,Gustavo Paiva,Mutange,Maceió,Alagoas,Nordeste,P,3000,3000,Não
+17,João Batista,,Maceió,Alagoas,Nordeste,M,3000,3000,Não
+18,José Gomes da Costa,,Murici,Alagoas,Nordeste,M,3500,3829,Sim
+19,Juca Sampaio,,Palmeira dos Índios,Alagoas,Nordeste,M,4500,4995,Sim
+20,Luiz Pontes, ,Atalaia,Alagoas,Nordeste,M,2000,2182,Não
+21,Manoel Ferreira de Amorim,Ferreirão,São Miguel dos Campos,Alagoas,Nordeste,M,3000,3000,Não
+22,Manoel Moreira,,Capela,Alagoas,Nordeste,M,3000,3000,Sim
+23,Nelson Peixoto Feijó,Nelsão,Maceió,Alagoas,Nordeste,P,4000,4930,Não
+24,Olival Elias de Moraes,,Boca da Mata,Alagoas,Nordeste,P,2500,3000,Não
+25,Orlando Gomes,Praxedão,União dos Palmares,Alagoas,Nordeste,M,1115,4000,Sim
 26,Rei Pelé,Trapichão,Maceió,Alagoas,Nordeste,E,17126,17126,Sim
-27,Rubens Canuto,Municipal do Pilar,Pilar,Alagoas,Nordeste,M,1.2,2,Não
-28,Severiano Gomes Filho,Pajuçara,Maceió,Alagoas,Nordeste,P,6,,Não
-29,Teotônio Vilela,,Viçosa,Alagoas,Nordeste,M,4,4.5,Não
-30,Augusto Antunes,Augusto Antunes,Santana,Amapá,Norte,E,8,8,Não
-31,Glicério de Souza Marques,Glicerão,Macapá,Amapá,Norte,M,5.63,5.63,Sim
-32,Milton de Souza Correia,Zerão,Macapá,Amapá,Norte,E,13.68,13.68,Sim
-33,Arena da Amazônia,,Manaus,Amazonas,Norte,E,44,44,Sim
-34,Carlos Zamith,Zamith,Manaus,Amazonas,Norte,E,5,5,Sim
-35,Floro de Mendonça,Floro,Itacoatiara,Amazonas,Norte,M,5,5,Não
-36,Francisco Garcia,Chicão,Rio Preto da Eva,Amazonas,Norte,M,3,3,Não 
+27,Rubens Canuto,Municipal do Pilar,Pilar,Alagoas,Nordeste,M,1200,2000,Não
+28,Severiano Gomes Filho,Pajuçara,Maceió,Alagoas,Nordeste,P,6000,6000,Não
+29,Teotônio Vilela,,Viçosa,Alagoas,Nordeste,M,4000,4500,Não
+30,Augusto Antunes,Augusto Antunes,Santana,Amapá,Norte,E,8000,8000,Não
+31,Glicério de Souza Marques,Glicerão,Macapá,Amapá,Norte,M,5630,5630,Sim
+32,Milton de Souza Correia,Zerão,Macapá,Amapá,Norte,E,13680,13680,Sim
+33,Arena da Amazônia,,Manaus,Amazonas,Norte,E,44000,44000,Sim
+34,Carlos Zamith,Zamith,Manaus,Amazonas,Norte,E,5000,5000,Sim
+35,Floro de Mendonça,Floro,Itacoatiara,Amazonas,Norte,M,5000,5000,Não
+36,Francisco Garcia,Chicão,Rio Preto da Eva,Amazonas,Norte,M,3000,3000,Não 
 37,Ismael Benigno,Estádio da Colina,Manaus,Amazonas,Norte,E,10451,10451,Sim
-38,Olímpico Gilberto Mestrinho,Gilbertão,Manacapuru,Amazonas,Norte,M,5,5,Sim
-39,Roberto Simonsen ,SESI,Manaus,Amazonas,Norte,P,4,4,Sim
-40,Tenente Álvaro Maranhão,Álvaro Maranhão,Iranduba,Amazonas,Norte,M,1.5,1.5,Não
-41,02 de Julho,02 de Julho,Guanambi,Bahia,Nordeste,M,2602,3,Sim
-42,Adauto Moraes,Adautão,Juazeiro,Bahia,Nordeste,M,5018,8,Sim
+38,Olímpico Gilberto Mestrinho,Gilbertão,Manacapuru,Amazonas,Norte,M,5000,5000,Sim
+39,Roberto Simonsen ,SESI,Manaus,Amazonas,Norte,P,4000,4000,Sim
+40,Tenente Álvaro Maranhão,Álvaro Maranhão,Iranduba,Amazonas,Norte,M,1500,1500,Não
+41,02 de Julho,02 de Julho,Guanambi,Bahia,Nordeste,M,2602,3000,Sim
+42,Adauto Moraes,Adautão,Juazeiro,Bahia,Nordeste,M,5018,8000,Sim
 43,Agnaldo Bento dos Santos,Arena Porto,Porto Seguro,Bahia,Nordeste,M,1503,1503,Sim
 44,Alberto Oliveira,Jóia da Princesa,Feira de Santana,Bahia,Nordeste,M,16274,16274,Sim
-45,Antônio Carlos Magalhães,ACM,Conceição do Coité,Bahia,Nordeste,M,4,,Não
-46,Antônio Carlos Magalhães,Primavera,Itapetinga,Bahia,Nordeste,M,7,,Sim
-47,Antônio Carneiro,Carneirão,Alagoinhas,Bahia,Nordeste,M,8,9,Sim
-48,Antônio Elias Ribeiro,Ribeirão,Camacan,Bahia,Nordeste,M,4,,Não
-49,Antônio Pena,Penão,Catu,Bahia,Nordeste,M,8,,Não
-50,Antônio Pena ,,São Sebastião do Passé,Bahia,Nordeste,M,3,,Não
-51,Antônio Rodrigues Santana,Tomatão,Teixeira de Freitas,Bahia,Nordeste,M,2493,,Não
-52,Antônio Sereia,,Valença,Bahia,Nordeste,M,3,,Sim
-53,Armando Oliveira,,Camaçari,Bahia,Nordeste,M,7,,Sim
-54,Carmelito Barbosa Alves,Barbosão,Cruz das Almas,Bahia,Nordeste,M,4.3,,Não
-55,José Cândido dos Santos,,Dias D'Ávila,Bahia,Nordeste,M,3,,Sim
-56,Da Primavera,,Itaberaba,Bahia,Nordeste,M,4,,Não
-57,David Caldeiras,,Candeias,Bahia,Nordeste,M,4,,Não
-58,Edgar Santos,,Simões Filho,Bahia,Nordeste,M,4,,Sim
+45,Antônio Carlos Magalhães,ACM,Conceição do Coité,Bahia,Nordeste,M,4000,4000,Não
+46,Antônio Carlos Magalhães,Primavera,Itapetinga,Bahia,Nordeste,M,7000,7000,Sim
+47,Antônio Carneiro,Carneirão,Alagoinhas,Bahia,Nordeste,M,8000,9000,Sim
+48,Antônio Elias Ribeiro,Ribeirão,Camacan,Bahia,Nordeste,M,4000,4000,Não
+49,Antônio Pena,Penão,Catu,Bahia,Nordeste,M,8000,8000,Não
+50,Antônio Pena ,,São Sebastião do Passé,Bahia,Nordeste,M,3000,3000,Não
+51,Antônio Rodrigues Santana,Tomatão,Teixeira de Freitas,Bahia,Nordeste,M,2493,2493,Não
+52,Antônio Sereia,,Valença,Bahia,Nordeste,M,3000,3000,Sim
+53,Armando Oliveira,,Camaçari,Bahia,Nordeste,M,7000,7000,Sim
+54,Carmelito Barbosa Alves,Barbosão,Cruz das Almas,Bahia,Nordeste,M,4300,4300,Não
+55,José Cândido dos Santos,,Dias D'Ávila,Bahia,Nordeste,M,3000,3000,Sim
+56,Da Primavera,,Itaberaba,Bahia,Nordeste,M,4000,4000,Não
+57,David Caldeiras,,Candeias,Bahia,Nordeste,M,4000,4000,Não
+58,Edgar Santos,,Simões Filho,Bahia,Nordeste,M,4000,4000,Sim
 59,Edvaldo Flores,,Vitória da Conquista,Bahia,Nordeste,M,1277,2077,Sim
-60,Eliel Martins,Valfredão,Riachão do Jacuípe ,Bahia,Nordeste,M,4091,,Não
-61,Ferreira Brito,Ferreirão,Ribeirão do Pombal,Bahia,Nordeste,M,4,,Sim
-62,Geraldo Pereira,Geraldão,Barreiras,Bahia,Nordeste,M,7,,Sim
-63,Gerino de Souza Filho,,Lauro de Freitas,Bahia,Nordeste,M,1.2,,Sim
-64,Heraldo Curvelo,Heraldão,Poções,Bahia,Nordeste,M,7,,Sim
-65,Jonatas Eneas do Carmo,,Santo Amaro,Bahia,Nordeste,M,3,,Sim
-66,José Araújo,Araújão,Eunápolis,Bahia,Nordeste,M,5,,Não
-67,José Fontoura,,Itagibá,Bahia,Nordeste,M,3,,Não
-68,José Rocha,,Jacobina,Bahia,Nordeste,M,3.5,5,Sim
-69,José Trindade Lobo,,Santo Antônio de Jesus,Bahia,Nordeste,M,3,,Sim
-70,Joviniano Otaviano Dourado,,Irecê,Bahia,Nordeste,M,6,,Não
-71,Juarez Barbosa,Barbosão,Itamaraju,Bahia,Nordeste,M,8,,Sim
-72,Junqueira Ayres,,São Francisco do Conde,Bahia,Nordeste,M,1622,3,Sim
-73,Lauro de Freitas,Itinga,Lauro de Freitas,Bahia,Nordeste,M,3,,Sim
+60,Eliel Martins,Valfredão,Riachão do Jacuípe ,Bahia,Nordeste,M,4091,4091,Não
+61,Ferreira Brito,Ferreirão,Ribeirão do Pombal,Bahia,Nordeste,M,4000,4000,Sim
+62,Geraldo Pereira,Geraldão,Barreiras,Bahia,Nordeste,M,7000,7000,Sim
+63,Gerino de Souza Filho,,Lauro de Freitas,Bahia,Nordeste,M,1200,1200,Sim
+64,Heraldo Curvelo,Heraldão,Poções,Bahia,Nordeste,M,7000,7000,Sim
+65,Jonatas Eneas do Carmo,,Santo Amaro,Bahia,Nordeste,M,3000,3000,Sim
+66,José Araújo,Araújão,Eunápolis,Bahia,Nordeste,M,5000,5000,Não
+67,José Fontoura,,Itagibá,Bahia,Nordeste,M,3000,3000,Não
+68,José Rocha,,Jacobina,Bahia,Nordeste,M,3500,5000,Sim
+69,José Trindade Lobo,,Santo Antônio de Jesus,Bahia,Nordeste,M,3000,3000,Sim
+70,Joviniano Otaviano Dourado,,Irecê,Bahia,Nordeste,M,6000,6000,Não
+71,Juarez Barbosa,Barbosão,Itamaraju,Bahia,Nordeste,M,8000,8000,Sim
+72,Junqueira Ayres,,São Francisco do Conde,Bahia,Nordeste,M,1622,3000,Sim
+73,Lauro de Freitas,Itinga,Lauro de Freitas,Bahia,Nordeste,M,3000,3000,Sim
 74,Lomanto Júnior,Lomantão,Vitória da Conquista,Bahia,Nordeste,M,11538,12934,Sim
-75,Luiz Eduardo Magalhães,,Terra Nova,Bahia,Nordeste,M,1.3,5,Sim
-76,Luiz Viana Filho,,Itabuna,Bahia,Nordeste,M,9.2,,Sim
-77,Luiz Viana Filho,,Pojuca,Bahia,Nordeste,M,3.5,,Sim
-78,Luiz Viana Neto,Bandarrão,Santo Estévão,Bahia,Nordeste,M,5,,Sim
-79,Madre de Deus,,Madre de Deus,Bahia,Nordeste,M,5,,Sim
-80,Manoel Barradas,Barradão,Salvador,Bahia,Nordeste,P,34535,35,Sim
+75,Luiz Eduardo Magalhães,,Terra Nova,Bahia,Nordeste,M,1300,5000,Sim
+76,Luiz Viana Filho,,Itabuna,Bahia,Nordeste,M,9200,9200,Sim
+77,Luiz Viana Filho,,Pojuca,Bahia,Nordeste,M,3500,3500,Sim
+78,Luiz Viana Neto,Bandarrão,Santo Estévão,Bahia,Nordeste,M,5000,5000,Sim
+79,Madre de Deus,,Madre de Deus,Bahia,Nordeste,M,5000,5000,Sim
+80,Manoel Barradas,Barradão,Salvador,Bahia,Nordeste,P,34535,35000,Sim
 81,Mariano Santana,,Serrinha,Bahia,Nordeste,M,2034,6066,Sim
-82,Mário Pessoa,,Ilhéus,Bahia,Nordeste,M,4297,5.3,Sim
-83,Ocival Rodrigues de Souza,Ocivalzão,São Desidério,Bahia,Nordeste,M,3.5,,Sim
+82,Mário Pessoa,,Ilhéus,Bahia,Nordeste,M,4297,5300,Sim
+83,Ocival Rodrigues de Souza,Ocivalzão,São Desidério,Bahia,Nordeste,M,3500,3500,Sim
 84,Octávio Mangabeira,Arena Fonte Nova,Salvador,Bahia,Nordeste,E,47907,50025,Sim
-85,Ozório Ferraz de Oliveira,Ozorão,Itambé,Bahia,Nordeste,M,3,,Não
-86,Parque Santiago Compostela,Parque Santiago,Salvador,Bahia,Nordeste,P,2,,Não
-87,Pedro Amorim Duarte,,Senhor do Bonfim,Bahia,Nordeste,M,4193,,Sim
-88,Pedro Caetano,,Ipiaú,Bahia,Nordeste,M,3,,Não
+85,Ozório Ferraz de Oliveira,Ozorão,Itambé,Bahia,Nordeste,M,3000,3000,Não
+86,Parque Santiago Compostela,Parque Santiago,Salvador,Bahia,Nordeste,P,2000,2000,Não
+87,Pedro Amorim Duarte,,Senhor do Bonfim,Bahia,Nordeste,M,4193,4193,Sim
+88,Pedro Caetano,,Ipiaú,Bahia,Nordeste,M,3000,3000,Não
 89,Roberto Santos ,Pituaçu,Salvador,Bahia,Nordeste,E,32157,32157,Sim
-90,Ruberiano Oliveira,,Paulo Afonso,Bahia,Nordeste,M,4,,Sim
-91,Waldomiro Borges,,Jequié,Bahia,Nordeste,M,3227,5,Sim
+90,Ruberiano Oliveira,,Paulo Afonso,Bahia,Nordeste,M,4000,4000,Sim
+91,Waldomiro Borges,,Jequié,Bahia,Nordeste,M,3227,5000,Sim
 92,Agenor Gomes de Araújo,Agenorzão,Iguatu,Ceará,Nordeste,M,3475,9715,Sim
-93,Aguinaldo Alves,Rorizão,Jardim,Ceará,Nordeste,M,2,2,Não
-94,Alberto Oliveira Sobrinho ,Betão,Pacatuba,Ceará,Nordeste,M,2,2.4,Não
-95,Alberto Wagner,Albertão,Baturité,Ceará,Nordeste,M,3,3,Sim
-96,Alcides Santos ,Alcides Santos,Fortaleza,Ceará,Nordeste,P,5.5,7.1,Sim
-97,Antônio Cruz ,Uniclinic,Fortaleza,Ceará,Nordeste,P,1.42,3,Sim
-98,Antônio de Paula Sales,,Uruburetama,Ceará,Nordeste,M,2,2,Não
-99,Antônio Lírio Callou,Inaldão,Barbalha,Ceará,Nordeste,M,3.4,5,Sim
+93,Aguinaldo Alves,Rorizão,Jardim,Ceará,Nordeste,M,2000,2000,Não
+94,Alberto Oliveira Sobrinho ,Betão,Pacatuba,Ceará,Nordeste,M,2000,2400,Não
+95,Alberto Wagner,Albertão,Baturité,Ceará,Nordeste,M,3000,3000,Sim
+96,Alcides Santos ,Alcides Santos,Fortaleza,Ceará,Nordeste,P,5500,7100,Sim
+97,Antônio Cruz ,Uniclinic,Fortaleza,Ceará,Nordeste,P,1420,3000,Sim
+98,Antônio de Paula Sales,,Uruburetama,Ceará,Nordeste,M,2000,2000,Não
+99,Antônio Lírio Callou,Inaldão,Barbalha,Ceará,Nordeste,M,3400,5000,Sim
 100,Antony Costa,,Fortaleza,Ceará,Nordeste,M,500,700,Não
-101,Arena Mateus Aquino,Coliseu,Alto Santo,Ceará,Nordeste,M,3.85,3.85,Não
-102,Capitão Tarcisio Araújo,Tarcisão,São Benedito,Ceará,Nordeste,M,1.5,4,não
-103,Carlos de Alencar Pinto,Vovozão,Fortaleza,Ceará,Nordeste,P,1.5,3,Sim
-104,Coronel Virgilio Távora,Virgilio Távora,Aracati,Ceará,Nordeste,M,2.5,3,Sim
-105,Estádio M. de Quiterianopoles,Vieirão,Quiterianopoles,Ceará,Nordeste,M,8,12,Sim
-106,Francisco Cardoso de Moraes,Moraisão,Maranguape,Ceará,Nordeste,M,1.7,3.7,Sim
-107,Francisco Clenilson dos Santos,Clenilsão,Horizonte,Ceará,Nordeste,M,2.5,5,Não
-108,Franzé Moraes,Cidade Vozão,Itaitinga,Ceará,Nordeste,P,1.5,2.5,Não
-109,Gerardo Feitosa de Sousa,Gerardão,Tauá,Ceará,Nordeste,M,8,11168,Sim
+101,Arena Mateus Aquino,Coliseu,Alto Santo,Ceará,Nordeste,M,3850,3850,Não
+102,Capitão Tarcisio Araújo,Tarcisão,São Benedito,Ceará,Nordeste,M,1500,4000,não
+103,Carlos de Alencar Pinto,Vovozão,Fortaleza,Ceará,Nordeste,P,1500,3000,Sim
+104,Coronel Virgilio Távora,Virgilio Távora,Aracati,Ceará,Nordeste,M,2500,3000,Sim
+105,Estádio M. de Quiterianopoles,Vieirão,Quiterianopoles,Ceará,Nordeste,M,8000,12000,Sim
+106,Francisco Cardoso de Moraes,Moraisão,Maranguape,Ceará,Nordeste,M,1700,3700,Sim
+107,Francisco Clenilson dos Santos,Clenilsão,Horizonte,Ceará,Nordeste,M,2500,5000,Não
+108,Franzé Moraes,Cidade Vozão,Itaitinga,Ceará,Nordeste,P,1500,2500,Não
+109,Gerardo Feitosa de Sousa,Gerardão,Tauá,Ceará,Nordeste,M,8000,11168,Sim
 110,Gov. Plácido Aderaldo Castelo,Castelão/Arena Castelão,Fortaleza,Ceará,Nordeste,E,63903,63903,Sim
-111,Governador Virgilio Távora,Mirandão,Crato,Ceará,Nordeste,M,8.08,11732,Sim
-112,Horácio Domingos de Sousa,Domingão,Horizonte,Ceará,Nordeste,M,10.4,10.5,Sim
-113,José Antonio Abilio de Lima,Abilhão,Quixadá,Ceará,Nordeste,M,2.5,3,Sim
-114,José de Oliveira Bandeira,Bandeirão,Limoeiro do Norte,Ceará,Nordeste,M,1.8,5,Sim
+111,Governador Virgilio Távora,Mirandão,Crato,Ceará,Nordeste,M,8080,11732,Sim
+112,Horácio Domingos de Sousa,Domingão,Horizonte,Ceará,Nordeste,M,10400,10500,Sim
+113,José Antonio Abilio de Lima,Abilhão,Quixadá,Ceará,Nordeste,M,2500,3000,Sim
+114,José de Oliveira Bandeira,Bandeirão,Limoeiro do Norte,Ceará,Nordeste,M,1800,5000,Sim
 115,José Santos Neto,Mourãozão,Nova Russas,Ceará,Nordeste,M,1281,6968,Sim
 116,Juvenal Melo,Jumelão,Crateús,Ceará,Nordeste,M,1688,7108,Sim
-117,João Firmino de Sousa,,Viçosa do Ceará,Ceará,Nordeste,M,2.4,2.4,Não
-118,Manuel Barroso Neto,Barrosão,Trairi,Ceará,Nordeste,M,2108,5,Sim
-119,Mauro Castelo Branco Sampaio,Romeirão,Juazeiro do Norte,Ceará,Nordeste,M,10,15,Sim
-120,Pedro Eymard,Pedro Eymard,Morada Nova,Ceará,Nordeste,M,7.5,16,Sim
-121,Perilo Teixeira,Perilão,Itapipoca,Ceará,Nordeste,M,3.9,6,Sim
-122,Plácido Aderaldo Castelo,Junco,Sobral,Ceará,Nordeste,M,8585,10.5,Sim
-123,Prefeito Assis Benicio,Assisão,Pacajus,Ceará,Nordeste,M,3.5,3.5,Sim
+117,João Firmino de Sousa,,Viçosa do Ceará,Ceará,Nordeste,M,2400,2400,Não
+118,Manuel Barroso Neto,Barrosão,Trairi,Ceará,Nordeste,M,2108,5000,Sim
+119,Mauro Castelo Branco Sampaio,Romeirão,Juazeiro do Norte,Ceará,Nordeste,M,10000,15000,Sim
+120,Pedro Eymard,Pedro Eymard,Morada Nova,Ceará,Nordeste,M,7500,16000,Sim
+121,Perilo Teixeira,Perilão,Itapipoca,Ceará,Nordeste,M,3900,6000,Sim
+122,Plácido Aderaldo Castelo,Junco,Sobral,Ceará,Nordeste,M,8585,10500,Sim
+123,Prefeito Assis Benicio,Assisão,Pacajus,Ceará,Nordeste,M,3500,3500,Sim
 124,Presidente Vargas,PV,Fortaleza,Ceará,Nordeste,M,20262,20262,Sim
-125,Raimundo da Cunha Rola,,Eusébio,Ceará,Nordeste,M,2,2,Não
-126,Raimundo de Oliveira,Raimundão,Caucaia,Ceará,Nordeste,M,5,5,Não
-127,Raimundo Vieira Filho,Vieirão,Itapajé,Ceará,Nordeste,M,3,3,Não
-128,Senador Carlos Jereissate,Carlos Jereissate,Maracanau,Ceará,Nordeste,M,3.5,3.5,Sim
-129,Sergismundo Rodrigues Neto,Serjão,Boa Viagem,Ceará,Nordeste,M,2,8124,Sim
-130,Tancredo Neves,Tancredão,Tianguá,Ceará,Nordeste,M,2,2,Não
-131,Ubiratan Diniz Aguiar,Unbirão,Caridade,Ceará,Nordeste,M,1.5,1.5,Sim
-132,Valter Lacerda,Murilão,Fortaleza,Ceará,Nordeste,M,3,3,Sim
-133,Vila Olimpica Elzir Cabral,Elzir Cabral,Fortaleza,Ceará,Nordeste,P,2.5,4.2,Sim
-134,Adonir José Guimarães,Adonir Guimarães,Planaltina,Distrito Federal,Centro-oeste,M,6,,Sim
-135,Antônio Otoni Filho,CAVE,Guará,Distrito Federal,Centro-oeste,M,8,,Sim
-136,Augustinho Pires de Lima,Augustinho Lima,Sobradinho,Distrito Federal,Centro-oeste,M,10,,Sim
-137,Chapadinha,Chapadinha,Brazlândia,Distrito Federal,Centro-oeste,M,3,,Sim
-138,Do Cruzeiro,Cruzeiro,Cruzeiro Velho,Distrito Federal,Centro-oeste,M,2,,Sim
-139,Elmo Serejo Farias,Boca do Jacaré / Serejão,Taguatinga,Distrito Federal,Centro-oeste,M,27,28.8,Sim
+125,Raimundo da Cunha Rola,,Eusébio,Ceará,Nordeste,M,2000,2000,Não
+126,Raimundo de Oliveira,Raimundão,Caucaia,Ceará,Nordeste,M,5000,5000,Não
+127,Raimundo Vieira Filho,Vieirão,Itapajé,Ceará,Nordeste,M,3000,3000,Não
+128,Senador Carlos Jereissate,Carlos Jereissate,Maracanau,Ceará,Nordeste,M,3500,3500,Sim
+129,Sergismundo Rodrigues Neto,Serjão,Boa Viagem,Ceará,Nordeste,M,2000,8124,Sim
+130,Tancredo Neves,Tancredão,Tianguá,Ceará,Nordeste,M,2000,2000,Não
+131,Ubiratan Diniz Aguiar,Unbirão,Caridade,Ceará,Nordeste,M,1500,1500,Sim
+132,Valter Lacerda,Murilão,Fortaleza,Ceará,Nordeste,M,3000,3000,Sim
+133,Vila Olimpica Elzir Cabral,Elzir Cabral,Fortaleza,Ceará,Nordeste,P,2500,4200,Sim
+134,Adonir José Guimarães,Adonir Guimarães,Planaltina,Distrito Federal,Centro-oeste,M,6000,6000,Sim
+135,Antônio Otoni Filho,CAVE,Guará,Distrito Federal,Centro-oeste,M,8000,8000,Sim
+136,Augustinho Pires de Lima,Augustinho Lima,Sobradinho,Distrito Federal,Centro-oeste,M,10000,10000,Sim
+137,Chapadinha,Chapadinha,Brazlândia,Distrito Federal,Centro-oeste,M,3000,3000,Sim
+138,Do Cruzeiro,Cruzeiro,Cruzeiro Velho,Distrito Federal,Centro-oeste,M,2000,2000,Sim
+139,Elmo Serejo Farias,Boca do Jacaré / Serejão,Taguatinga,Distrito Federal,Centro-oeste,M,27000,28800,Sim
 140,Estádio Nacional Mané Garrincha,Mané Garrincha,Brasília,Distrito Federal,Centro-oeste,E,72788,72788,Sim
-141,JK Paranoá,JK,Paranoá,Distrito Federal,Centro-oeste,M,8,,Não
-142,Joaquim Domingos Roriz,Rorizão,Samambaia,Distrito Federal,Centro-oeste,M,8,,Sim
-143,Maria de Lourdes Abadia ,Abadião,Ceilândia,Distrito Federal,Centro-oeste,M,3,3,Sim
-144,Vasco Viana de Andrade,Metropolitana,Núcleo Bandeirante,Distrito Federal,Centro-oeste,M,3,,Sim
-145,Valmir Campelo Bezerra,Bezerrão,Gama,Distrito Federal,Centro-oeste,M,20.31,20.31,Sim
-146,Alencar de Araripe,Engenheiro Araripe,Cariacica,Espírito Santo,Sudeste,P,7.7,7.7,Sim
+141,JK Paranoá,JK,Paranoá,Distrito Federal,Centro-oeste,M,8000,8000,Não
+142,Joaquim Domingos Roriz,Rorizão,Samambaia,Distrito Federal,Centro-oeste,M,8000,8000,Sim
+143,Maria de Lourdes Abadia ,Abadião,Ceilândia,Distrito Federal,Centro-oeste,M,3000,3000,Sim
+144,Vasco Viana de Andrade,Metropolitana,Núcleo Bandeirante,Distrito Federal,Centro-oeste,M,3000,3000,Sim
+145,Valmir Campelo Bezerra,Bezerrão,Gama,Distrito Federal,Centro-oeste,M,20310,20310,Sim
+146,Alencar de Araripe,Engenheiro Araripe,Cariacica,Espírito Santo,Sudeste,P,7700,7700,Sim
 147,Centro Esportivo Conilon,Conilon,Jaguaré,Espírito Santo,Sudeste,M,2664,2664,Sim
 148,Dr. Arthur Gerhardt,Arthur Gerhardt,Domingos Martins,Espírito Santo,Sudeste,P,500,500,Sim
-149,Emilio Nemer,,Castelo,Espírito Santo,Sudeste,P,2,2,Sim
-150,Ernesto Campos da Fonseca,Estádio do Motorista,São José do Calçado,Espírito Santo,Sudeste,P,1.25,1.25,Não
-151,Estádio da Estiva,Estiva,Serra,Espírito Santo,Sudeste,P,2.1,2.1,Não
+149,Emilio Nemer,,Castelo,Espírito Santo,Sudeste,P,2000,2000,Sim
+150,Ernesto Campos da Fonseca,Estádio do Motorista,São José do Calçado,Espírito Santo,Sudeste,P,1250,1250,Não
+151,Estádio da Estiva,Estiva,Serra,Espírito Santo,Sudeste,P,2100,2100,Não
 152,Eugenio Bitti,Bambu,Aracruz,Espírito Santo,Sudeste,P,5058,5058,Sim
-153,Gil Bernardes,Toca Índio,Vila Velha,Espírito Santo,Sudeste,P,1,1,Não
-154,Joaquim Calmon,,Linhares,Espírito Santo,Sudeste,P,2,2,Não
-155,José Olimpio da Rocha,,Aguia Branca,Espírito Santo,Sudeste,P,3.2,3.2,Sim
-156,José Olivio Soares,,Itapemirim,Espírito Santo,Sudeste,P,1,1,Sim
-157,Justiniano de Mello e Silva,,Colatina,Espírito Santo,Sudeste,M,2.6,2.6,Sim
-158,Kleber José de Andrade,Kleber Andrade,Cariacica,Espírito Santo,Sudeste,E,18,21,Sim
+153,Gil Bernardes,Toca Índio,Vila Velha,Espírito Santo,Sudeste,P,1000,1000,Não
+154,Joaquim Calmon,,Linhares,Espírito Santo,Sudeste,P,2000,2000,Não
+155,José Olimpio da Rocha,,Aguia Branca,Espírito Santo,Sudeste,P,3200,3200,Sim
+156,José Olivio Soares,,Itapemirim,Espírito Santo,Sudeste,P,1000,1000,Sim
+157,Justiniano de Mello e Silva,,Colatina,Espírito Santo,Sudeste,M,2600,2600,Sim
+158,Kleber José de Andrade,Kleber Andrade,Cariacica,Espírito Santo,Sudeste,E,18000,21000,Sim
 159,Manoel Moreira Sobrinho,Sernamby,São Mateus,Espírito Santo,Sudeste,P,3854,3854,Sim
-160,Mário Monteiro,Sumaré,Cachoeiro de Itapemirim,Espírito Santo,Sudeste,P,6,6,Sim
-161,Moreira Rebello,Moreira Rebello,Cachoeiro de Itapemirim,Espírito Santo,Sudeste,P,1,1,Não
-162,Municipal Cleber Roque Bertolde,,Marilândia,Espírito Santo,Sudeste,M,1.1,1.1,Sim
-163,Municipal de Itaguaçú,,Itaguaçú,Espírito Santo,Sudeste,M,1,1,Não
-164,Municipal Almiro Ofranti,,Vargem Alta,Espírito Santo,Sudeste,M,2,2,Sim
-165,Roberto Costa,Robertão,Serra,Espírito Santo,Sudeste,P,1.04,1.04,Sim
-166,Salvador Venâncio da Costa,Ninho da Águia,Vitória,Espírito Santo,Sudeste,P,3,3,Sim
-167,Virgilio Grassi,,Rio Bananal,Espírito Santo,Sudeste,P,2.2,2.2,Não
-168,Abrão Manoel Costa,,Trindade,Goiás,Centro-oeste,P,4.3,4.3,Sim
-169,Anibal Batista de Toledo,,Aparecida de Goiânia,Goiás,Centro-oeste,M,4.8,4.8,Sim
-170,Antônio Accioly,,Goiânia,Goiás,Centro-oeste,P,5,5,Sim
-171,Bichinho Vieira,,Quirinópolis,Goiás,Centro-oeste,M,7,7,Sim
-172,Centro Esportivo João Vilela,João Vilela,Morrinhos,Goiás,Centro-oeste,E,5.04,5.04,Sim
-173,Centro Olímpico,,Ceres,Goiás,Centro-oeste,E,5,5,Não
-174,Cruzeiro do Sul,,Itauçú,Goiás,Centro-oeste,P,2.6,2.6,Não
-175,Diogo Francisco Gomes,Diogão,Formosa,Goiás,Centro-oeste,M,6,6,Sim
-176,Divino Garcia Rosa,,Goiatuba,Goiás,Centro-oeste,M,6,6,Sim
+160,Mário Monteiro,Sumaré,Cachoeiro de Itapemirim,Espírito Santo,Sudeste,P,6000,6000,Sim
+161,Moreira Rebello,Moreira Rebello,Cachoeiro de Itapemirim,Espírito Santo,Sudeste,P,1000,1000,Não
+162,Municipal Cleber Roque Bertolde,,Marilândia,Espírito Santo,Sudeste,M,1100,1100,Sim
+163,Municipal de Itaguaçú,,Itaguaçú,Espírito Santo,Sudeste,M,1000,1000,Não
+164,Municipal Almiro Ofranti,,Vargem Alta,Espírito Santo,Sudeste,M,2000,2000,Sim
+165,Roberto Costa,Robertão,Serra,Espírito Santo,Sudeste,P,1040,1040,Sim
+166,Salvador Venâncio da Costa,Ninho da Águia,Vitória,Espírito Santo,Sudeste,P,3000,3000,Sim
+167,Virgilio Grassi,,Rio Bananal,Espírito Santo,Sudeste,P,2200,2200,Não
+168,Abrão Manoel Costa,,Trindade,Goiás,Centro-oeste,P,4300,4300,Sim
+169,Anibal Batista de Toledo,,Aparecida de Goiânia,Goiás,Centro-oeste,M,4800,4800,Sim
+170,Antônio Accioly,,Goiânia,Goiás,Centro-oeste,P,5000,5000,Sim
+171,Bichinho Vieira,,Quirinópolis,Goiás,Centro-oeste,M,7000,7000,Sim
+172,Centro Esportivo João Vilela,João Vilela,Morrinhos,Goiás,Centro-oeste,E,5040,5040,Sim
+173,Centro Olímpico,,Ceres,Goiás,Centro-oeste,E,5000,5000,Não
+174,Cruzeiro do Sul,,Itauçú,Goiás,Centro-oeste,P,2600,2600,Não
+175,Diogo Francisco Gomes,Diogão,Formosa,Goiás,Centro-oeste,M,6000,6000,Sim
+176,Divino Garcia Rosa,,Goiatuba,Goiás,Centro-oeste,M,6000,6000,Sim
 177,Durval Ferreira Franco,,Ipameri,Goiás,Centro-oeste,P,1904,1904,Não
-178,Francisco José Ferreira,Ferreirão,Iporá,Goiás,Centro-oeste,M,3.5,3.5,Não
-179,Genervino Evangelista da Fonseca ,Genervino da Fonseca,Catalão,Goiás,Centro-oeste,P,7.5,7.5,Sim
-180,Gilmar Alves,,Bom Jesus de Goiás,Goiás,Centro-oeste,M,3,3,Sim
-181,Hailé Pinheiro,Serrinha,Goiânia,Goiás,Centro-oeste,P,6.3,6.3,Sim
-182,José Roriz Aguiar (Zequinha Roriz),Serra do Lago,Luziânia,Goiás,Centro-oeste,M,12.3,12.3,Sim
-183,Jaime Guerra,,Nerópolis,Goiás,Centro-oeste,M,3,3,Sim
+178,Francisco José Ferreira,Ferreirão,Iporá,Goiás,Centro-oeste,M,3500,3500,Não
+179,Genervino Evangelista da Fonseca ,Genervino da Fonseca,Catalão,Goiás,Centro-oeste,P,7500,7500,Sim
+180,Gilmar Alves,,Bom Jesus de Goiás,Goiás,Centro-oeste,M,3000,3000,Sim
+181,Hailé Pinheiro,Serrinha,Goiânia,Goiás,Centro-oeste,P,6300,6300,Sim
+182,José Roriz Aguiar (Zequinha Roriz),Serra do Lago,Luziânia,Goiás,Centro-oeste,M,12300,12300,Sim
+183,Jaime Guerra,,Nerópolis,Goiás,Centro-oeste,M,3000,3000,Sim
 184,Jonas Ferreira Duarte,Jonas Duarte,Anápolis,Goiás,Centro-oeste,M,10707,10707,Sim
-185,José Pereira de Souza,,Paraúna,Goiás,Centro-oeste,M,2,2,Sim
-186,Juscelino Kubitschek de Oliveira,JK,Itumbiara,Goiás,Centro-oeste,M,15,15,Sim
-187,Mozart Veloso do Carmo,,Rio Verde,Goiás,Centro-oeste,E,7,7,Sim
-188,Nelson Antônio da Silva,Arapucão,Jataí,Goiás,Centro-oeste,M,15,15,Sim
-189,Odilon Flores,,Mineiros,Goiás,Centro-oeste,P,7,7,Sim
-190,Onésio Brasileiro Alvarenga,OBA,Goiânia,Goiás,Centro-oeste,P,6.5,6.5,Sim
-191,Pedro Romualdo Cabral,,Santa Helena,Goiás,Centro-oeste,E,6.07,6.07,Sim
+185,José Pereira de Souza,,Paraúna,Goiás,Centro-oeste,M,2000,2000,Sim
+186,Juscelino Kubitschek de Oliveira,JK,Itumbiara,Goiás,Centro-oeste,M,15000,15000,Sim
+187,Mozart Veloso do Carmo,,Rio Verde,Goiás,Centro-oeste,E,7000,7000,Sim
+188,Nelson Antônio da Silva,Arapucão,Jataí,Goiás,Centro-oeste,M,15000,15000,Sim
+189,Odilon Flores,,Mineiros,Goiás,Centro-oeste,P,7000,7000,Sim
+190,Onésio Brasileiro Alvarenga,OBA,Goiânia,Goiás,Centro-oeste,P,6500,6500,Sim
+191,Pedro Romualdo Cabral,,Santa Helena,Goiás,Centro-oeste,E,6070,6070,Sim
 192,Plínio José de Souza,,Senador Canedo,Goiás,Centro-oeste,M,3816,3816,Sim
-193,Rio das Pedras,,Itaberaí,Goiás,Centro-oeste,P,5,5,Sim
-194,Serra de Caldas,,Caldas Novas,Goiás,Centro-oeste,M,4,4,Sim
-195,Serra Dourada,,Goiânia,Goiás,Centro-oeste,E,42,42,Sim
-196,Waldeir José de Oliveira,,Goianésia,Goiás,Centro-oeste,E,4,4,Sim
-197,Zico Brandão,,Inhumas,Goiás,Centro-oeste,E,2.8,2.8,Sim
-198,Artemas Santos,Binezão,Santa Inês,Maranhão,Nordeste,M,9146,,Sim
-199,Cazuza Ribeiro,Cazuzão,Balsas,Maranhão,Nordeste,M,826,,Sim
-200,Daniel Rodrigues Leal,Rodrigão,Santa Quitéria,Maranhão,Nordeste,M,3.5,,Não
-201,Djalma Santos Campos Filho ,Djlama Campos,Viana,Maranhão,Nordeste,M,3725,,Não
-202,Duque de Caxias,,Caxias,Maranhão,Nordeste,M,1.5,,Sim
-203,Francisco Camilo,Mirandão,Miranda do Norte,Maranhão,Nordeste,M,700,,Não
-204,Frei Epifânio D'Abadia,Frei Epifânio,Imperatriz,Maranhão,Nordeste,M,10,10.1,Sim
+193,Rio das Pedras,,Itaberaí,Goiás,Centro-oeste,P,5000,5000,Sim
+194,Serra de Caldas,,Caldas Novas,Goiás,Centro-oeste,M,4000,4000,Sim
+195,Serra Dourada,,Goiânia,Goiás,Centro-oeste,E,42000,42000,Sim
+196,Waldeir José de Oliveira,,Goianésia,Goiás,Centro-oeste,E,4000,4000,Sim
+197,Zico Brandão,,Inhumas,Goiás,Centro-oeste,E,2800,2800,Sim
+198,Artemas Santos,Binezão,Santa Inês,Maranhão,Nordeste,M,9146,9146,Sim
+199,Cazuza Ribeiro,Cazuzão,Balsas,Maranhão,Nordeste,M,826,826,Sim
+200,Daniel Rodrigues Leal,Rodrigão,Santa Quitéria,Maranhão,Nordeste,M,3500,3500,Não
+201,Djalma Santos Campos Filho ,Djlama Campos,Viana,Maranhão,Nordeste,M,3725,3725,Não
+202,Duque de Caxias,,Caxias,Maranhão,Nordeste,M,1500,1500,Sim
+203,Francisco Camilo,Mirandão,Miranda do Norte,Maranhão,Nordeste,M,700,700,Não
+204,Frei Epifânio D'Abadia,Frei Epifânio,Imperatriz,Maranhão,Nordeste,M,10000,10100,Sim
 205,Governador João Castelo,Castelão,São Luís,Maranhão,Nordeste,E,40149,40149,Sim
-206,Ildemar Gonçalves dos Santos,Demazão,Itinga do Maranhão,Maranhão,Nordeste,M,1.72,,Não
-207,José Cardoso do Nascimento ,Cardosão,Araioses,Maranhão,Nordeste,M,800,,Não
-208,José Luis Neriz Correa,Correão,Bacabal,Maranhão,Nordeste,M,7816,,Sim
-209,Leandro Silva,Leandrão,Barra do Corda,Maranhão,Nordeste,M,600,,Não
-210,Lucídio Frazão,Lucidão,Chapadinha,Maranhão,Nordeste,M,2.3,,Não
-211,Miguel Lins,Miquelzão,Timon,Maranhão,Nordeste,M,1.5,,Não
+206,Ildemar Gonçalves dos Santos,Demazão,Itinga do Maranhão,Maranhão,Nordeste,M,1720,1720,Não
+207,José Cardoso do Nascimento ,Cardosão,Araioses,Maranhão,Nordeste,M,800,800,Não
+208,José Luis Neriz Correa,Correão,Bacabal,Maranhão,Nordeste,M,7816,7816,Sim
+209,Leandro Silva,Leandrão,Barra do Corda,Maranhão,Nordeste,M,600,600,Não
+210,Lucídio Frazão,Lucidão,Chapadinha,Maranhão,Nordeste,M,2300,2300,Não
+211,Miguel Lins,Miquelzão,Timon,Maranhão,Nordeste,M,1500,1500,Não
 212,Nhozinho Santos,,São Luís,Maranhão,Nordeste,M,11429,11429,Sim
-213,Renê Bayma,,Codó,Maranhão,Nordeste,M,8,,Sim
-214,Antônio Afonso de Melo,Bilinão,Alto Araguaia,Mato Grosso,Centro-oeste,M,3.5,,Sim
-215,Antônio Santo Renosto,Cerradão,Primavera do Leste,Mato Grosso,Centro-oeste,M,4,,Sim
-216,Apolônio Bouret Mello,,Chapada dos Guimarães,Mato Grosso,Centro-oeste,M,4,,Não
-217,Arena Pantanal,,Cuiabá,Mato Grosso,Centro-oeste,E,44,44,Sim
-218,Egídio José Preima,,Sorriso,Mato Grosso,Centro-oeste,M,4,,Sim
-219,Danilo Pagot,,Juara,Mato Grosso,Centro-oeste,M,4,,Sim
-220,Félix Belém de Castro,,Campo Verde,Mato Grosso,Centro-oeste,M,3,,Sim
-221,José Valeriano Costa,Zeca Costa,Barra do Garças,Mato Grosso,Centro-oeste,M,3,,Sim
-222,Luiz Geraldo da Silva,Geraldão,Cáceres,Mato Grosso,Centro-oeste,M,6.5,,Sim
-223,Luthero Lopes,,Rondonópolis,Mato Grosso,Centro-oeste,M,18,,Sim
-224,Mané Garrincha,,Tangará da Serra,Mato Grosso,Centro-oeste,M,4,,Sim
-225,Márcio Cassiano da Silva,,Jaciara,Mato Grosso,Centro-oeste,M,4,,Sim
-226,Massami Uriu,Gigante do Norte,Sinop,Mato Grosso,Centro-oeste,M,13,,Sim
-227,Neco Falcão,,Poconé,Mato Grosso,Centro-oeste,M,2,,Não
-228,Passo das Emas,,Lucas do Rio Verde,Mato Grosso,Centro-oeste,M,10,10,Sim
-229,Presidente Dutra,Dutrinha,Cuiabá,Mato Grosso,Centro-oeste,M,4.5,,Sim
-230,Virgílio do Nascimento,,Nova Xavantina,Mato Grosso,Centro-oeste,M,2,,Não
-231,André Borges,Caldeirão do Borjão,Coxim,Mato Grosso do Sul,Centro-oeste,M,3.5,,Não
-232,Arena da Paz,Olho do Furacão,Campo Grande,Mato Grosso do Sul,Centro-oeste,P,1.2,,Não
-233,Arthur Marinho,,Corumbá,Mato Grosso do Sul,Centro-oeste,M,5,,Sim
-234,Benedito Soares da Mota,Madrugadão,Três Lagoas,Mato Grosso do Sul,Centro-oeste,M,3.5,,Sim
-235,Cacildo Pereira,Toca do Urso,Mundo Novo,Mato Grosso do Sul,Centro-oeste,M,4,,Não
-236,Cezário de Freitas,,Rio Verde,Mato Grosso do Sul,Centro-oeste,M,3,,Não
-237,Estádio Municipal Aral Moreira ,Aral Moreira,Ponta Porã,Mato Grosso do Sul,Centro-oeste,M,4,,Não
-238,Estádio Municipal de Caarapó,Carecão,Caarapó,Mato Grosso do Sul,Centro-oeste,M,1.8,,Não
-239,Estádio Municipal Sotero Zarate,,Sidrolândia,Mato Grosso do Sul,Centro-oeste,M,4,,Sim
-240,Estádio Pedro Pedrossian,Morenão,Campo Grande,Mato Grosso do Sul,Centro-oeste,F,24,29.67,Sim
-241,Francisco Chaves Filho,Chavinha,Itaporã,Mato Grosso do Sul,Centro-oeste,M,1.25,,Sim
-242,Frédis Saldivar,Douradão,Dourados,Mato Grosso do Sul,Centro-oeste,E,30,,Sim
-243,Ijair Tomquelsqui,SERC,Chapadão do Sul,Mato Grosso do Sul,Centro-oeste,P,7,,Não
-244,Iliê Vidal,Ninho D'Águia,Rio Brilhante,Mato Grosso do Sul,Centro-oeste,M,5,,Sim
-245,Jacques da Luz,Toca do Leão,Campo Grande,Mato Grosso do Sul,Centro-oeste,M,4.5,,Não
-246,Joaquim Faustino Rosa,Carecão,Camapuã,Mato Grosso do Sul,Centro-oeste,M,3,,Não
-247,José Cândido dos Santos Viroti,Virotão,Naviraí,Mato Grosso do Sul,Centro-oeste,M,3.5,,Sim
-248,Laerte Paes Coelho,Laertão,Costa Rica,Mato Grosso do Sul,Centro-oeste,M,5,,Sim
-249,Luiz Gonzaga Prata Braga,Loucão,Maracaju,Mato Grosso do Sul,Centro-oeste,M,6,,Sim
-250,Luiz Saraiva Vieira,Saraivão,Ivinhema,Mato Grosso do Sul,Centro-oeste,M,5,,Sim
-251,Municipal de Aquidauana,Noroeste,Aquidauana,Mato Grosso do Sul,Centro-oeste,M,2.6,,Sim
-252,Municipal de Nova Andradina,Andradão,Nova Andradina,Mato Grosso do Sul,Centro-oeste,M,6.98,8,Sim
-253,Municipal de Paranaíba,,Paranaíba,Mato Grosso do Sul,Centro-oeste,M,5,,Não
-254,Municipal de Terenos,,Terenos,Mato Grosso do Sul,Centro-oeste,M,500,,Não
-255,Municipal de Ribas do Rio Pardo,,Ribas do Rio Pardo,Mato Grosso do Sul,Centro-oeste,M,500,,Não
-256,Vicente Fortunato,Vicentão,Ladário,Mato Grosso do Sul,Centro-oeste,M,3,,Não
-257,Antônio Guimarães de Almeida,,Tombos,Minas Gerais,Sudeste,P,3.05,3.05,Sim
-258,Astrogildo Duarte,,Nova Serrana,Minas Gerais,Sudeste,P,1.2,1.2,Sim
-259,Bernardo Rubinger de Queiroz,,Patos de Minas,Minas Gerais,Sudeste,P,8372,10,Sim
-260,Campo do América,,Nepomuceno,Minas Gerais,Sudeste,P,3.5,3.5,Sim
+213,Renê Bayma,,Codó,Maranhão,Nordeste,M,8000,8000,Sim
+214,Antônio Afonso de Melo,Bilinão,Alto Araguaia,Mato Grosso,Centro-oeste,M,3500,3500,Sim
+215,Antônio Santo Renosto,Cerradão,Primavera do Leste,Mato Grosso,Centro-oeste,M,4000,4000,Sim
+216,Apolônio Bouret Mello,,Chapada dos Guimarães,Mato Grosso,Centro-oeste,M,4000,4000,Não
+217,Arena Pantanal,,Cuiabá,Mato Grosso,Centro-oeste,E,44000,44000,Sim
+218,Egídio José Preima,,Sorriso,Mato Grosso,Centro-oeste,M,4000,4000,Sim
+219,Danilo Pagot,,Juara,Mato Grosso,Centro-oeste,M,4000,4000,Sim
+220,Félix Belém de Castro,,Campo Verde,Mato Grosso,Centro-oeste,M,3000,3000,Sim
+221,José Valeriano Costa,Zeca Costa,Barra do Garças,Mato Grosso,Centro-oeste,M,3000,3000,Sim
+222,Luiz Geraldo da Silva,Geraldão,Cáceres,Mato Grosso,Centro-oeste,M,6500,6500,Sim
+223,Luthero Lopes,,Rondonópolis,Mato Grosso,Centro-oeste,M,18000,18000,Sim
+224,Mané Garrincha,,Tangará da Serra,Mato Grosso,Centro-oeste,M,4000,4000,Sim
+225,Márcio Cassiano da Silva,,Jaciara,Mato Grosso,Centro-oeste,M,4000,4000,Sim
+226,Massami Uriu,Gigante do Norte,Sinop,Mato Grosso,Centro-oeste,M,13000,13000,Sim
+227,Neco Falcão,,Poconé,Mato Grosso,Centro-oeste,M,2000,2000,Não
+228,Passo das Emas,,Lucas do Rio Verde,Mato Grosso,Centro-oeste,M,10000,10000,Sim
+229,Presidente Dutra,Dutrinha,Cuiabá,Mato Grosso,Centro-oeste,M,4500,4500,Sim
+230,Virgílio do Nascimento,,Nova Xavantina,Mato Grosso,Centro-oeste,M,2000,2000,Não
+231,André Borges,Caldeirão do Borjão,Coxim,Mato Grosso do Sul,Centro-oeste,M,3500,3500,Não
+232,Arena da Paz,Olho do Furacão,Campo Grande,Mato Grosso do Sul,Centro-oeste,P,1200,1200,Não
+233,Arthur Marinho,,Corumbá,Mato Grosso do Sul,Centro-oeste,M,5000,5000,Sim
+234,Benedito Soares da Mota,Madrugadão,Três Lagoas,Mato Grosso do Sul,Centro-oeste,M,3500,3500,Sim
+235,Cacildo Pereira,Toca do Urso,Mundo Novo,Mato Grosso do Sul,Centro-oeste,M,4000,4000,Não
+236,Cezário de Freitas,,Rio Verde,Mato Grosso do Sul,Centro-oeste,M,3000,3000,Não
+237,Estádio Municipal Aral Moreira ,Aral Moreira,Ponta Porã,Mato Grosso do Sul,Centro-oeste,M,4000,4000,Não
+238,Estádio Municipal de Caarapó,Carecão,Caarapó,Mato Grosso do Sul,Centro-oeste,M,1800,1800,Não
+239,Estádio Municipal Sotero Zarate,,Sidrolândia,Mato Grosso do Sul,Centro-oeste,M,4000,4000,Sim
+240,Estádio Pedro Pedrossian,Morenão,Campo Grande,Mato Grosso do Sul,Centro-oeste,F,24000,29670,Sim
+241,Francisco Chaves Filho,Chavinha,Itaporã,Mato Grosso do Sul,Centro-oeste,M,1250,1250,Sim
+242,Frédis Saldivar,Douradão,Dourados,Mato Grosso do Sul,Centro-oeste,E,30000,30000,Sim
+243,Ijair Tomquelsqui,SERC,Chapadão do Sul,Mato Grosso do Sul,Centro-oeste,P,7000,7000,Não
+244,Iliê Vidal,Ninho D'Águia,Rio Brilhante,Mato Grosso do Sul,Centro-oeste,M,5000,5000,Sim
+245,Jacques da Luz,Toca do Leão,Campo Grande,Mato Grosso do Sul,Centro-oeste,M,4500,4500,Não
+246,Joaquim Faustino Rosa,Carecão,Camapuã,Mato Grosso do Sul,Centro-oeste,M,3000,3000,Não
+247,José Cândido dos Santos Viroti,Virotão,Naviraí,Mato Grosso do Sul,Centro-oeste,M,3500,3500,Sim
+248,Laerte Paes Coelho,Laertão,Costa Rica,Mato Grosso do Sul,Centro-oeste,M,5000,5000,Sim
+249,Luiz Gonzaga Prata Braga,Loucão,Maracaju,Mato Grosso do Sul,Centro-oeste,M,6000,6000,Sim
+250,Luiz Saraiva Vieira,Saraivão,Ivinhema,Mato Grosso do Sul,Centro-oeste,M,5000,5000,Sim
+251,Municipal de Aquidauana,Noroeste,Aquidauana,Mato Grosso do Sul,Centro-oeste,M,2600,2600,Sim
+252,Municipal de Nova Andradina,Andradão,Nova Andradina,Mato Grosso do Sul,Centro-oeste,M,6980,8000,Sim
+253,Municipal de Paranaíba,,Paranaíba,Mato Grosso do Sul,Centro-oeste,M,5000,5000,Não
+254,Municipal de Terenos,,Terenos,Mato Grosso do Sul,Centro-oeste,M,500,500,Não
+255,Municipal de Ribas do Rio Pardo,,Ribas do Rio Pardo,Mato Grosso do Sul,Centro-oeste,M,500,500,Não
+256,Vicente Fortunato,Vicentão,Ladário,Mato Grosso do Sul,Centro-oeste,M,3000,3000,Não
+257,Antônio Guimarães de Almeida,,Tombos,Minas Gerais,Sudeste,P,3050,3050,Sim
+258,Astrogildo Duarte,,Nova Serrana,Minas Gerais,Sudeste,P,1200,1200,Sim
+259,Bernardo Rubinger de Queiroz,,Patos de Minas,Minas Gerais,Sudeste,P,8372,10000,Sim
+260,Campo do América,,Nepomuceno,Minas Gerais,Sudeste,P,3500,3500,Sim
 261,Carlos Costa Monteiro,,Guaxupé,Minas Gerais,Sudeste,M,2471,2471,Sim
-262,Castor Cifuentes,Penidão,Nova Lima,Minas Gerais,Sudeste,M,5.16,5.16,Sim
-263,Cícero Paiva,,Sto Antônio do Amparo,Minas Gerais,Sudeste,M,4165,,Não
-264,Coleto de Paula,,Ituiutaba,Minas Gerais,Sudeste,P,1.1,1.1,Não
-265,Coronel Erasmo Cabral,,Santa Rita do Sapucaí,Minas Gerais,Sudeste,M,2,3044,Não
+262,Castor Cifuentes,Penidão,Nova Lima,Minas Gerais,Sudeste,M,5160,5160,Sim
+263,Cícero Paiva,,Sto Antônio do Amparo,Minas Gerais,Sudeste,M,4165,4165,Não
+264,Coleto de Paula,,Ituiutaba,Minas Gerais,Sudeste,P,1100,1100,Não
+265,Coronel Erasmo Cabral,,Santa Rita do Sapucaí,Minas Gerais,Sudeste,M,2000,3044,Não
 266,Dilzon Luís de Melo,Melão,Varginha,Minas Gerais,Sudeste,M,15471,15471,Sim
-267,Elias Arbex,,Três Corações,Minas Gerais,Sudeste,M,2.5,3,Sim
-268,Fausto Alvim,,Araxá,Minas Gerais,Sudeste,M,5.5,7,Sim
-269,Fazendinha,,Ituiutaba,Minas Gerais,Sudeste,P,1.8,3,Sim
-270,Irmão Gino Maria Rossi,,Pouso Alegre,Minas Gerais,Sudeste,M,26,26,Sim
-271,Israel Pinheiro,,Itabira,Minas Gerais,Sudeste,M,5,5,Sim
-272,João Guido,Uberabão,Uberaba,Minas Gerais,Sudeste,M,10,16384,Sim
-273,João Havelange,Parque do Sabiá,Uberlândia,Minas Gerais,Sudeste,M,53.35,56.45,Sim
-274,João Lamego Neto,Lamegão,Ipatinga,Minas Gerais,Sudeste,M,16,16,Sim
-275,Joaquim Henrique Nogueira,Arena do Jacaré,Sete Lagoas,Minas Gerais,Sudeste,P,20.02,22,Sim
-276,José Flávio de Carvalho,,Itaúna,Minas Gerais,Sudeste,M,1.9,3.8,Sim
+267,Elias Arbex,,Três Corações,Minas Gerais,Sudeste,M,2500,3000,Sim
+268,Fausto Alvim,,Araxá,Minas Gerais,Sudeste,M,5500,7000,Sim
+269,Fazendinha,,Ituiutaba,Minas Gerais,Sudeste,P,1800,3000,Sim
+270,Irmão Gino Maria Rossi,,Pouso Alegre,Minas Gerais,Sudeste,M,26000,26000,Sim
+271,Israel Pinheiro,,Itabira,Minas Gerais,Sudeste,M,5000,5000,Sim
+272,João Guido,Uberabão,Uberaba,Minas Gerais,Sudeste,M,10000,16384,Sim
+273,João Havelange,Parque do Sabiá,Uberlândia,Minas Gerais,Sudeste,M,53350,56450,Sim
+274,João Lamego Neto,Lamegão,Ipatinga,Minas Gerais,Sudeste,M,16000,16000,Sim
+275,Joaquim Henrique Nogueira,Arena do Jacaré,Sete Lagoas,Minas Gerais,Sudeste,P,20020,22000,Sim
+276,José Flávio de Carvalho,,Itaúna,Minas Gerais,Sudeste,M,1900,3800,Sim
 277,José Mammud Abbas,Marmudão,Governador Valadares,Minas Gerais,Sudeste,P,8678,8678,Sim
-278,José Maria Melo,Campo do Casimiro,Montes Claros,Minas Gerais,Sudeste,P,5,5,Sim
-279,Juca Pedro,,Formiga,Minas Gerais,Sudeste,P,2.38,3581,Sim
-280,Juca Ribeiro,,Uberlândia,Minas Gerais,Sudeste,P,7,,Sim
-281,Júlio Aguiar,,Patrocínio,Minas Gerais,Sudeste,M,1.5,3,Sim
-282,Louis Ensch,Campo do Social,Coronel Feliciano,Minas Gerais,Sudeste,P,2.29,3.6,Sim
+278,José Maria Melo,Campo do Casimiro,Montes Claros,Minas Gerais,Sudeste,P,5000,5000,Sim
+279,Juca Pedro,,Formiga,Minas Gerais,Sudeste,P,2380,3581,Sim
+280,Juca Ribeiro,,Uberlândia,Minas Gerais,Sudeste,P,7000,7000,Sim
+281,Júlio Aguiar,,Patrocínio,Minas Gerais,Sudeste,M,1500,3000,Sim
+282,Louis Ensch,Campo do Social,Coronel Feliciano,Minas Gerais,Sudeste,P,2290,3600,Sim
 283,Magalhães Pinto ,Mineirão,Belo Horizonte,Minas Gerais,Sudeste,E,61846,75783,Sim
-284,Mario Ferreira Guimarães,Baleião,Belo Horizonte,Minas Gerais,Sudeste,M,1.8,1.8,Não
-285,Mário Helênio,,Juiz de Fora,Minas Gerais,Sudeste,M,14185,30,Sim
-286,Nassari Mattar,,Teófilo Otoni,Minas Gerais,Sudeste,P,5,5,Não
-287,Oswaldo Nascimento,,Pirapora,Minas Gerais,Sudeste,P,1.5,1.5,Não
-288,Parque do Azulão,,Andradas,Minas Gerais,Sudeste,M,7.5,7.5,Sim
-289,Pedro Anício Maia,,Minas Novas,Minas Gerais,Sudeste,M,2,2,Não
+284,Mario Ferreira Guimarães,Baleião,Belo Horizonte,Minas Gerais,Sudeste,M,1800,1800,Não
+285,Mário Helênio,,Juiz de Fora,Minas Gerais,Sudeste,M,14185,30000,Sim
+286,Nassari Mattar,,Teófilo Otoni,Minas Gerais,Sudeste,P,5000,5000,Não
+287,Oswaldo Nascimento,,Pirapora,Minas Gerais,Sudeste,P,1500,1500,Não
+288,Parque do Azulão,,Andradas,Minas Gerais,Sudeste,M,7500,7500,Sim
+289,Pedro Anício Maia,,Minas Novas,Minas Gerais,Sudeste,M,2000,2000,Não
 290,Raimundo Sampaio,Independência,Belo Horizonte,Minas Gerais,Sudeste,P,23018,23018,Sim
-291,Ribeiro Junqueira,,Leopoldina,Minas Gerais,Sudeste,P,1.6,1.6,Não
-292,Ronaldo Junqueira,Ronaldão,Poços de Caldas,Minas Gerais,Sudeste,M,7.6,7.6,Sim
-293,Rubro Negro,,Varginha,Minas Gerais,Sudeste,M,2,2,Sim
-294,Sebastião Cesar da Silva,,Araguari,Minas Gerais,Sudeste,P,2.2,2.6,Sim
-295,Senador Zezé Perrela,Arena dos Calçados,Nova Serrana,Minas Gerais,Sudeste,M,10,10,Sim
-296,Soares de Azevedo,Campo do Nacional,Muriaé,Minas Gerais,Sudeste,P,10,13971,Sim
-297,Starling Soares,,Passos,Minas Gerais,Sudeste,M,5.4,5.4,Sim
-298,Victor Andrade Brito,Frimisa,Santa Luzia,Minas Gerais,Sudeste,M,3.2,3.2,Sim
-299,Vila Olimpica,,Belo Horizonte,Minas Gerais,Sudeste,P,,1,Não
-300,Waldemar Teixeira de Farias,Farião,Divinópolis,Minas Gerais,Sudeste,P ,4.08,4.08,Sim
-301,Waldir Melo,,Borda da Mata,Minas Gerais,Sudeste,M,5,5,Não
+291,Ribeiro Junqueira,,Leopoldina,Minas Gerais,Sudeste,P,1600,1600,Não
+292,Ronaldo Junqueira,Ronaldão,Poços de Caldas,Minas Gerais,Sudeste,M,7600,7600,Sim
+293,Rubro Negro,,Varginha,Minas Gerais,Sudeste,M,2000,2000,Sim
+294,Sebastião Cesar da Silva,,Araguari,Minas Gerais,Sudeste,P,2200,2600,Sim
+295,Senador Zezé Perrela,Arena dos Calçados,Nova Serrana,Minas Gerais,Sudeste,M,10000,10000,Sim
+296,Soares de Azevedo,Campo do Nacional,Muriaé,Minas Gerais,Sudeste,P,10000,13971,Sim
+297,Starling Soares,,Passos,Minas Gerais,Sudeste,M,5400,5400,Sim
+298,Victor Andrade Brito,Frimisa,Santa Luzia,Minas Gerais,Sudeste,M,3200,3200,Sim
+299,Vila Olimpica,,Belo Horizonte,Minas Gerais,Sudeste,P,1000,1000,Não
+300,Waldemar Teixeira de Farias,Farião,Divinópolis,Minas Gerais,Sudeste,P ,4080,4080,Sim
+301,Waldir Melo,,Borda da Mata,Minas Gerais,Sudeste,M,5000,5000,Não
 302,Zama Maciel,,Patos de Minas,Minas Gerais,Sudeste,P,4858,4858,Sim
-303,Abelardo Conduru,,Belém,Pará,Norte,P,500,,Não
-304,Antônio Dias,Navegantão,Tucuruí,Pará,Norte,M,8,8,Sim
+303,Abelardo Conduru,,Belém,Pará,Norte,P,500,500,Não
+304,Antônio Dias,Navegantão,Tucuruí,Pará,Norte,M,8000,8000,Sim
 305,Arena do Município Verde,Arena Verde,Paragominas,Pará,Norte,M,9878,9878,Sim
-306,Edilson Abreu,Abreuzão,Santa Izabel,Pará,Norte,M,600,2,Não
-307,Estadual de Santarém (Jader Barbalho),Colosso do Tapajós,Santarém,Pará,Norte,E,8,12,Sim
-308,Evandro Almeida,Baenão,Belém,Pará,Norte,P,12,12,Sim
-309,Francisco Vasques,Souza,Belém,Pará,Norte,P,4.9,1.9,Não
-310,Humberto Parente,,Abaetetuba,Pará,Norte,P,3.1,,Sim
-311,João Jaó,Jaozão,Mãe do Rio,Pará,Norte,M,8,,Não
-312,Leônidas Sobré de Castro,Curuzu,Belém,Pará,Norte,P,16.2,16.2,Sim
-313,Mario Couto Neto,Coutão,Santa Cruz,Pará,Norte,P,1.5,1.5,Não
-314,Maximino Porpino Filho,Modelão,Castanhal,Pará,Norte,M,5,5,Sim
+306,Edilson Abreu,Abreuzão,Santa Izabel,Pará,Norte,M,600,2000,Não
+307,Estadual de Santarém (Jader Barbalho),Colosso do Tapajós,Santarém,Pará,Norte,E,8000,12000,Sim
+308,Evandro Almeida,Baenão,Belém,Pará,Norte,P,12000,12000,Sim
+309,Francisco Vasques,Souza,Belém,Pará,Norte,P,4900,1900,Não
+310,Humberto Parente,,Abaetetuba,Pará,Norte,P,3100,3100,Sim
+311,João Jaó,Jaozão,Mãe do Rio,Pará,Norte,M,8000,8000,Não
+312,Leônidas Sobré de Castro,Curuzu,Belém,Pará,Norte,P,16200,16200,Sim
+313,Mario Couto Neto,Coutão,Santa Cruz,Pará,Norte,P,1500,1500,Não
+314,Maximino Porpino Filho,Modelão,Castanhal,Pará,Norte,M,5000,5000,Sim
 315,Olímpico do Pará,Mangueirão,Belém,Pará,Norte,E,45007,45007,Sim
-316,Orfelino Martins Valente,Parque do Bacurau,Cametá,Pará,Norte,M,8.2,10.23,Sim
-317,Raimundo Roseno de Araújo,Rosenão ,Paraupébas,Pará,Norte,M,5,5,Sim
-318,São Benedito,Diogão,Bragança,Pará,Norte,P,9.09,10,Não
-319,Zinho Oliveira,Zinho Oliveira,Marabá,Pará,Norte,M,5,5,Sim
-320,Antônio Mariz,Marizão,Sousa,Paraíba,Nordeste,M,5.4,5.4,Sim
-321,Ernani Sátyro,Amigão,Campina Grande,Paraíba,Nordeste,E,19,19,Sim
-322,Evandro Lelis,Mangabeirão,João Pessoa,Paraíba,Nordeste,P,2,2,Não
-323,Frederico Lundregen,Lundregão,Caaporã,Paraíba,Nordeste,M,3,3,Não
-324,José Américo de Almeida Filho ,Almeidão,João Pessoa,Paraíba,Nordeste,E,19,19,Sim
-325,José Barros Sobrinho,Zezão,Itaporanga,Paraíba,Nordeste,M,3,3,Sim
-326,José Cavalcanti,Zé Cavalcanti,Patos,Paraíba,Nordeste,M,5.17,5.17,Sim
-327,Juraci Pedro Gomes,Juracizão,João Pessoa,Paraíba,Nordeste,M,3,3,Não
-328,Leonardo da Silveira,Estádio da Graça,João Pessoa,Paraíba,Nordeste,M,6.4,6.4,Sim
-329,Perpétuo Correia de Lima,Perpetão,Cajazeiras,Paraíba,Nordeste,E,1.6,1.6,Sim
-330,Presidente Vargas,PV,Campina Grande,Paraíba,Nordeste,P,5,5,Sim
-331,Sílvio Porto,Sílvio Porto,Guarabira,Paraíba,Nordeste,M,1.54,1.54,Sim
-332,Tadeu Matias,Tadeuzão,Sapé,Paraíba,Nordeste,M,1,1,Não
-333,Virgínio Veloso Borges,Teixeirão,Santa Rita,Paraíba,Nordeste,M,4.5,4.5,Sim
-334,ABC,Estádio do ABC,Foz do Iguaçu,Paraná,Sul,P,5,6968,Sim
-335,14 De Dezembro,,Toledo,Paraná,Sul,M,12.5,15,Sim
-336,Albino Turbay,Olímpico,Cianorte,Paraná,Sul,M,2254,4,Sim
-337,Anilado,Anilado,Francisco Beltrão,Paraná,Sul,M,2,5.46,Sim
-338,Antiocho Pereira,Antiocho,União da Vitória,Paraná,Sul,M,1.1,4087,Sim
-339,Arena Vermelha,,Curitiba,Paraná,Sul,M,2,2,Sim
-340,Arnaldo Bussato,Olímpico Regional,Cascavel,Paraná,Sul,M,9999,25,Sim
+316,Orfelino Martins Valente,Parque do Bacurau,Cametá,Pará,Norte,M,8200,10230,Sim
+317,Raimundo Roseno de Araújo,Rosenão ,Paraupébas,Pará,Norte,M,5000,5000,Sim
+318,São Benedito,Diogão,Bragança,Pará,Norte,P,9090,10000,Não
+319,Zinho Oliveira,Zinho Oliveira,Marabá,Pará,Norte,M,5000,5000,Sim
+320,Antônio Mariz,Marizão,Sousa,Paraíba,Nordeste,M,5400,5400,Sim
+321,Ernani Sátyro,Amigão,Campina Grande,Paraíba,Nordeste,E,19000,19000,Sim
+322,Evandro Lelis,Mangabeirão,João Pessoa,Paraíba,Nordeste,P,2000,2000,Não
+323,Frederico Lundregen,Lundregão,Caaporã,Paraíba,Nordeste,M,3000,3000,Não
+324,José Américo de Almeida Filho ,Almeidão,João Pessoa,Paraíba,Nordeste,E,19000,19000,Sim
+325,José Barros Sobrinho,Zezão,Itaporanga,Paraíba,Nordeste,M,3000,3000,Sim
+326,José Cavalcanti,Zé Cavalcanti,Patos,Paraíba,Nordeste,M,5170,5170,Sim
+327,Juraci Pedro Gomes,Juracizão,João Pessoa,Paraíba,Nordeste,M,3000,3000,Não
+328,Leonardo da Silveira,Estádio da Graça,João Pessoa,Paraíba,Nordeste,M,6400,6400,Sim
+329,Perpétuo Correia de Lima,Perpetão,Cajazeiras,Paraíba,Nordeste,E,1600,1600,Sim
+330,Presidente Vargas,PV,Campina Grande,Paraíba,Nordeste,P,5000,5000,Sim
+331,Sílvio Porto,Sílvio Porto,Guarabira,Paraíba,Nordeste,M,1540,1540,Sim
+332,Tadeu Matias,Tadeuzão,Sapé,Paraíba,Nordeste,M,1000,1000,Não
+333,Virgínio Veloso Borges,Teixeirão,Santa Rita,Paraíba,Nordeste,M,4500,4500,Sim
+334,ABC,Estádio do ABC,Foz do Iguaçu,Paraná,Sul,P,5000,6968,Sim
+335,14 De Dezembro,,Toledo,Paraná,Sul,M,12500,15000,Sim
+336,Albino Turbay,Olímpico,Cianorte,Paraná,Sul,M,2254,4000,Sim
+337,Anilado,Anilado,Francisco Beltrão,Paraná,Sul,M,2000,5460,Sim
+338,Antiocho Pereira,Antiocho,União da Vitória,Paraná,Sul,M,1100,4087,Sim
+339,Arena Vermelha,,Curitiba,Paraná,Sul,M,2000,2000,Sim
+340,Arnaldo Bussato,Olímpico Regional,Cascavel,Paraná,Sul,M,9999,25000,Sim
 341,Atílio Gionedes,Estádio do Internacional,Campo Largo,Paraná,Sul,P,4198,4198,Sim
-342,Bom Jesus da Lapa,Mun. Olímpio Barreto,Apucarana,Paraná,Sul,M,9.95,10682,Sim
-343,C. E. Roberto Brzezinski,,Campo Mourão,Paraná,Sul,M,2.5,3.5,Sim
-344,C.E. Fernando Charbud Farah,Caranguejão,Paranaguá,Paraná,Sul,M,7781,9.07,Sim
-345,C.E. Umuarama,Complexo Esportivo,Umuarama,Paraná,Sul,M,10,11,Não
-346,Cambará,Regional,Cambará,Paraná,Sul,P,5,8,Não
-347,Centro Poliesportivo Pinheirão,Pinheirão,Curitiba,Paraná,Sul,P,35,35,Sim
-348,Comendador Luiz Meneghel,Alto da Vila Maria,Bandeirantes,Paraná,Sul,P,5,6,Sim
+342,Bom Jesus da Lapa,Mun. Olímpio Barreto,Apucarana,Paraná,Sul,M,9950,10682,Sim
+343,C. E. Roberto Brzezinski,,Campo Mourão,Paraná,Sul,M,2500,3500,Sim
+344,C.E. Fernando Charbud Farah,Caranguejão,Paranaguá,Paraná,Sul,M,7781,9070,Sim
+345,C.E. Umuarama,Complexo Esportivo,Umuarama,Paraná,Sul,M,10000,11000,Não
+346,Cambará,Regional,Cambará,Paraná,Sul,P,5000,8000,Não
+347,Centro Poliesportivo Pinheirão,Pinheirão,Curitiba,Paraná,Sul,P,35000,35000,Sim
+348,Comendador Luiz Meneghel,Alto da Vila Maria,Bandeirantes,Paraná,Sul,P,5000,6000,Sim
 349,Coronel Emílio Gomes,,Irati,Paraná,Sul,P,4322,4579,Não
-350,Dr. Durval José da Silva,Municipal de Assaí,Assaí,Paraná,Sul,M,2,2,Não
-351,Durival Britto e Silva,Vila Capanema,Curitiba,Paraná,Sul,P,17.14,20083,Sim
+350,Dr. Durval José da Silva,Municipal de Assaí,Assaí,Paraná,Sul,M,2000,2000,Não
+351,Durival Britto e Silva,Vila Capanema,Curitiba,Paraná,Sul,P,17140,20083,Sim
 352,Edvar Sávio,,Santa Terezinha de Itaipú,Paraná,Sul,M,800,800,Sim
-353,Erich Georg,Estádio do Nacional,Rolândia,Paraná,Sul,M,1818,2.05,Não
-354,Érton Coelho Queiroz,Vila Olímpica,Curitiba,Paraná,Sul,P,500,10,Não
-355,Éxaro Menk,,Sertanópolis,Paraná,Sul,M,1,1,Não
-356,Francisco Borges de Campos,,Colorado,Paraná,Sul,M,1,1.4,Sim
+353,Erich Georg,Estádio do Nacional,Rolândia,Paraná,Sul,M,1818,2050,Não
+354,Érton Coelho Queiroz,Vila Olímpica,Curitiba,Paraná,Sul,P,500,10000,Não
+355,Éxaro Menk,,Sertanópolis,Paraná,Sul,M,1000,1000,Não
+356,Francisco Borges de Campos,,Colorado,Paraná,Sul,M,1000,1400,Sim
 357,Francisco Muraro,,Curitiba,Paraná,Sul,P,800,800,Sim
 358,Francisco Zellerhoff Filho,,Nova Esperança,Paraná,Sul,M,500,540,Sim
-359,Germano Krugrer,Vilas Oficinas,Ponta Grossa,Paraná,Sul,P,8,8832,Sim
-360,Jacy Scaff,Do Café,Londrina,Paraná,Sul,M,30,31,Sim
-361,Janguito Malucelli,Eco-Estádio,Curitiba,Paraná,Sul,P,3.15,4.2,Sim
+359,Germano Krugrer,Vilas Oficinas,Ponta Grossa,Paraná,Sul,P,8000,8832,Sim
+360,Jacy Scaff,Do Café,Londrina,Paraná,Sul,M,30000,31000,Sim
+361,Janguito Malucelli,Eco-Estádio,Curitiba,Paraná,Sul,P,3150,4200,Sim
 362,João Cavalcanti de Menezes,,Engenheiro Beltrão,Paraná,Sul,M,795,894,Não
 363,Joaquim Américo Guimarães,Arena da Baixada,Curitiba,Paraná,Sul,P,40305,42372,Sim
-364,José Chiappin,Dos Pássaros,Arapongas,Paraná,Sul,M,9.5,10,Sim
-365,José Eleotério da Silva,,Sto. Antônio da Platina,Paraná,Sul,M,2843,3,Sim
+364,José Chiappin,Dos Pássaros,Arapongas,Paraná,Sul,M,9500,10000,Sim
+365,José Eleotério da Silva,,Sto. Antônio da Platina,Paraná,Sul,M,2843,3000,Sim
 366,José Ferreira de Almeida,,Palmas,Paraná,Sul,M,900,912,Não
-367,José Garbelini,Da Curva,Cambé,Paraná,Sul,M,2.2,2.2,Não
-368,Lucio Pepino,Gigante da Baixada,Umuarama,Paraná,Sul,M,3,6584,Não
+367,José Garbelini,Da Curva,Cambé,Paraná,Sul,M,2200,2200,Não
+368,Lucio Pepino,Gigante da Baixada,Umuarama,Paraná,Sul,M,3000,6584,Não
 369,Major Antônio Couto Pereira,Couto Pereira,Curitiba,Paraná,Sul,P,40502,40502,Sim
-370,Nelson Medrado Dias,Leão da Estradinha,Paranaguá,Paraná,Sul,P,3,4,Sim
-371,Newton Agibert,Estádio Municipal,Prudentópolis,Paraná,Sul,M,2984,3.09,Não
-372,Orlando Rinaldin,,Curitiba,Paraná,Sul,P,2,2,Sim
-373,Os Pioneiros,Os Pioneiros,Pato Branco,Paraná,Sul,M,2.1,2.1,Sim
-374,Pedro Basso,Estádio de ABC,Foz do Iguaçú,Paraná,Sul,P,5,6968,Não
-375,Pedro Vilela,,Jacarezinho,Paraná,Sul,M,3,3.22,Não
-376,Pinhão,Do Xingú,São José dos Pinhais,Paraná,Sul,M,3.84,5.2,Não
-377,Sérgio Vitor Mega,,Centenário do Sul,Paraná,Sul,M,1.3,1348,Não
-378,Ubirajara Medeiros,Campo da Vila,Cornélio Procópio,Paraná,Sul,M,2.58,4.08,Sim
+370,Nelson Medrado Dias,Leão da Estradinha,Paranaguá,Paraná,Sul,P,3000,4000,Sim
+371,Newton Agibert,Estádio Municipal,Prudentópolis,Paraná,Sul,M,2984,3090,Não
+372,Orlando Rinaldin,,Curitiba,Paraná,Sul,P,2000,2000,Sim
+373,Os Pioneiros,Os Pioneiros,Pato Branco,Paraná,Sul,M,2100,2100,Sim
+374,Pedro Basso,Estádio de ABC,Foz do Iguaçú,Paraná,Sul,P,5000,6968,Não
+375,Pedro Vilela,,Jacarezinho,Paraná,Sul,M,3000,3220,Não
+376,Pinhão,Do Xingú,São José dos Pinhais,Paraná,Sul,M,3840,5200,Não
+377,Sérgio Vitor Mega,,Centenário do Sul,Paraná,Sul,M,1300,1348,Não
+378,Ubirajara Medeiros,Campo da Vila,Cornélio Procópio,Paraná,Sul,M,2580,4080,Sim
 379,Vergínio Bortoli,,Ipiporã,Paraná,Sul,M,800,816,Sim
-380,Vitorino Gonçalves Dias,VGD,Londrina,Paraná,Sul,P,7,10,Sim
-381,Waldemiro Wagner,Felipão,Paranavaí,Paraná,Sul,M,4,9999,Sim
+380,Vitorino Gonçalves Dias,VGD,Londrina,Paraná,Sul,P,7000,10000,Sim
+381,Waldemiro Wagner,Felipão,Paranavaí,Paraná,Sul,M,4000,9999,Sim
 382,Waldomiro Gelinski,Campo do Batel,Guarapuava,Paraná,Sul,P,3516,3516,Não
-383,Willie Davids,Regional,Maringá,Paraná,Sul,M,16226,20,Sim
-384,Theodoro Colombelli,Ninho da Cobra,Cascavel,Paraná,Sul,M,900,2.4,Não
-385,Ademir Cunha,,Paulista,Pernambuco,Nordeste,M,12,12,Sim
-386,Agamenón Magalhães,,Goiana,Pernambuco,Nordeste,M,1.3,1.3,Sim
+383,Willie Davids,Regional,Maringá,Paraná,Sul,M,16226,20000,Sim
+384,Theodoro Colombelli,Ninho da Cobra,Cascavel,Paraná,Sul,M,900,2400,Não
+385,Ademir Cunha,,Paulista,Pernambuco,Nordeste,M,12000,12000,Sim
+386,Agamenón Magalhães,,Goiana,Pernambuco,Nordeste,M,1300,1300,Sim
 387,Aldemar da Costa Carvalho,Ilha do Retiro,Recife,Pernambuco,Nordeste,P,32983,32983,Sim
-388,Anteógenes Chaves,,Catende,Pernambuco,Nordeste,M,3,3,Sim
-389,Antônio Dourado,,Ipojuca,Pernambuco,Nordeste,M,3,3,Sim
-390,Antônio Galdêncio Freire,Galdenção,Itacuruba,Pernambuco,Nordeste,M,5,5,Sim
-391,Antônio Inácio de Souza,Vera Cruz,Caruaru,Pernambuco,Nordeste,P,6,6,Sim
-392,Arena Pernambuco,,São Lourenço da Mata,Pernambuco,Nordeste,E,44.3,44.3,Sim
-393,Arthur Tavares de Melo,,Bonito,Pernambuco,Nordeste,M,4,4,Sim
-394,Aureo Bradley,,Arcoverde,Pernambuco,Nordeste,M,3,3,Sim
-395,Carlos Alberto Gomes de Oliveira,,Surubim,Pernambuco,Nordeste,M,3.5,3.5,Sim
-396,Cornélio de Barros Muniz,,Salgueiro,Pernambuco,Nordeste,M,12.07,12.07,Sim
-397,Edvanes Nascimento,,Santa Maria da Boa Vista,Pernambuco,Nordeste,M,5,5,Sim
+388,Anteógenes Chaves,,Catende,Pernambuco,Nordeste,M,3000,3000,Sim
+389,Antônio Dourado,,Ipojuca,Pernambuco,Nordeste,M,3000,3000,Sim
+390,Antônio Galdêncio Freire,Galdenção,Itacuruba,Pernambuco,Nordeste,M,5000,5000,Sim
+391,Antônio Inácio de Souza,Vera Cruz,Caruaru,Pernambuco,Nordeste,P,6000,6000,Sim
+392,Arena Pernambuco,,São Lourenço da Mata,Pernambuco,Nordeste,E,44300,44300,Sim
+393,Arthur Tavares de Melo,,Bonito,Pernambuco,Nordeste,M,4000,4000,Sim
+394,Aureo Bradley,,Arcoverde,Pernambuco,Nordeste,M,3000,3000,Sim
+395,Carlos Alberto Gomes de Oliveira,,Surubim,Pernambuco,Nordeste,M,3500,3500,Sim
+396,Cornélio de Barros Muniz,,Salgueiro,Pernambuco,Nordeste,M,12070,12070,Sim
+397,Edvanes Nascimento,,Santa Maria da Boa Vista,Pernambuco,Nordeste,M,5000,5000,Sim
 398,Eládio de Barros Carvalho,Aflitos,Recife,Pernambuco,Nordeste,P,22856,22856,Sim
-399,Eugênio de Araújo,Olindão,Olinda,Pernambuco,Nordeste,M,4,4,Sim
-400,Ewerson Simões,Barbosão,Chã Grande,Pernambuco,Nordeste,M,3.4,3.4,Sim
-401,Ferreira Lima,,Timbaúba,Pernambuco,Nordeste,M,3.75,3.75,Sim
+399,Eugênio de Araújo,Olindão,Olinda,Pernambuco,Nordeste,M,4000,4000,Sim
+400,Ewerson Simões,Barbosão,Chã Grande,Pernambuco,Nordeste,M,3400,3400,Sim
+401,Ferreira Lima,,Timbaúba,Pernambuco,Nordeste,M,3750,3750,Sim
 402,Gileno de Carli,,Cabo de Santo Agostinho,Pernambuco,Nordeste,M,5459,5459,Sim
 403,Gilson Tirburtino de Souza,Chapadão do Araripe,Araripina,Pernambuco,Nordeste,M,5341,5341,Sim
-404,Jefferson de Freitas,,Jaboatão dos Guararapes,Pernambuco,Nordeste,M,2,2,Sim
-405,Joaquim de Brito,,Pesqueira,Pernambuco,Nordeste,M,1.8,1.8,Sim
+404,Jefferson de Freitas,,Jaboatão dos Guararapes,Pernambuco,Nordeste,M,2000,2000,Sim
+405,Joaquim de Brito,,Pesqueira,Pernambuco,Nordeste,M,1800,1800,Sim
 406,José do Rego Maciel,Arruda,Recife,Pernambuco,Nordeste,P,60044,60044,Sim
-407,José Mendonça Bezerra,Mendonção/SESC,Belo Jardim,Pernambuco,Nordeste,P,7.05,7.05,Sim
-408,José Joaquim de Albertin,,Vicência,Pernambuco,Nordeste,M,5.5,5.5,Sim
-409,José Vareda,,Limoeiro ,Pernambuco,Nordeste,M,5,5,Sim
+407,José Mendonça Bezerra,Mendonção/SESC,Belo Jardim,Pernambuco,Nordeste,P,7050,7050,Sim
+408,José Joaquim de Albertin,,Vicência,Pernambuco,Nordeste,M,5500,5500,Sim
+409,José Vareda,,Limoeiro ,Pernambuco,Nordeste,M,5000,5000,Sim
 410,Luíz José de Lacerda,Lacerdão,Caruaru,Pernambuco,Nordeste,P,19478,19478,Sim
-411,Manoel Anizio Mota,,Petrolândia,Pernambuco,Nordeste,M,5,5,Sim
+411,Manoel Anizio Mota,,Petrolândia,Pernambuco,Nordeste,M,5000,5000,Sim
 412,Marco Antônio Maciel,Gigante do Agreste,Garanhuns,Pernambuco,Nordeste,M,6356,6356,Sim
-413,Moacir Soares,,Cupira,Pernambuco,Nordeste,M,1.5,1.5,Não
-414,Municipal de Carpina,,Carpina,Pernambuco,Nordeste,M,3.5,3.5,Sim
-415,Nildo Pereira de Menezes,Pereirão,Serra Talhada,Pernambuco,Nordeste,M,5,5,Sim
-416,Nossa Senhora do Ó,Municipal,Ipojuca,Pernambuco,Nordeste,M,5,5,Sim
+413,Moacir Soares,,Cupira,Pernambuco,Nordeste,M,1500,1500,Não
+414,Municipal de Carpina,,Carpina,Pernambuco,Nordeste,M,3500,3500,Sim
+415,Nildo Pereira de Menezes,Pereirão,Serra Talhada,Pernambuco,Nordeste,M,5000,5000,Sim
+416,Nossa Senhora do Ó,Municipal,Ipojuca,Pernambuco,Nordeste,M,5000,5000,Sim
 417,Olívio Lemos ,Altinense,Altinho,Pernambuco,Nordeste,P,3012,3012,Sim
 418,Otávio Limeira Alves,Limeirão,Santa Cruz do Capibaribe ,Pernambuco,Nordeste,P,5039,5039,Sim
-419,Paulo de Souza Coelho,,Petrolina,Pernambuco,Nordeste,M,5,5,Sim
-420,Professor Luiz Alexandrino,,Camaragibe,Pernambuco,Nordeste,M,2,2,Sim
+419,Paulo de Souza Coelho,,Petrolina,Pernambuco,Nordeste,M,5000,5000,Sim
+420,Professor Luiz Alexandrino,,Camaragibe,Pernambuco,Nordeste,M,2000,2000,Sim
 421,Severino Cândido Carneiro,Carneirão,Vitória de Santo Antão,Pernambuco,Nordeste,M,10911,10911,Sim
 422,Valdemar Viana de Araújo,,Afogados da Ingazeira,Pernambuco,Nordeste,M,1735,1735,Não
-423,Walter Dantas Caldeira,,Lagoa de Itaenga,Pernambuco,Nordeste,M,3,3,Não
+423,Walter Dantas Caldeira,,Lagoa de Itaenga,Pernambuco,Nordeste,M,3000,3000,Não
 424,Centro Esportivo Dirceu Arcoverde,Verdinho,Parnaíba,Piauí,Nordeste,P,4328,4328,Sim
-425,Deusdeth de Melo,,Campo Maior,Piauí,Nordeste,M,4,4,Sim
-426,Gerson Campos,,Oeiras,Piauí,Nordeste,M,4,4,Sim
+425,Deusdeth de Melo,,Campo Maior,Piauí,Nordeste,M,4000,4000,Sim
+426,Gerson Campos,,Oeiras,Piauí,Nordeste,M,4000,4000,Sim
 427,Governador Alberto Silva,Albertão,Teresina,Piauí,Nordeste,E,52296,52296,Sim
-428,Helvídio Nunes,,Picos,Piauí,Nordeste,M,5,5.4,Sim
-429,Juca Fortes,,Barras,Piauí,Nordeste,M,4.87,4.87,Sim
+428,Helvídio Nunes,,Picos,Piauí,Nordeste,M,5000,5400,Sim
+429,Juca Fortes,,Barras,Piauí,Nordeste,M,4870,4870,Sim
 430,Lindolfo Monteiro,Lindolfinho,Teresina,Piauí,Nordeste,M,5144,5144,Sim
-431,Manoel Freitas Soares,Duduzão,Luiz Correia,Piauí,Nordeste,M,3,3,Não
+431,Manoel Freitas Soares,Duduzão,Luiz Correia,Piauí,Nordeste,M,3000,3000,Não
 432,Mão Santa,Piscinão,Parnaíba,Piauí,Nordeste,M,4146,4146,Sim
 433,Tibério Nunes,Tiberão,Floriano,Piauí,Nordeste,M,5398,5398,Sim
-434,Ytacoatiara,Arena Colorada,Piripiri,Piauí,Nordeste,M,5.83,5.83,Sim
+434,Ytacoatiara,Arena Colorada,Piripiri,Piauí,Nordeste,M,5830,5830,Sim
 435,Alair Corrêa,Correão,Cabo Frio,Rio de Janeiro,Sudeste,M,522,2611,Sim
-436,Aloísio Rodrigues de Lima,Catarinão,São Gonçalo,Rio de Janeiro,Sudeste,P,,2,Não
+436,Aloísio Rodrigues de Lima,Catarinão,São Gonçalo,Rio de Janeiro,Sudeste,P,2000,2000,Não
 437,Alziro de Almeida,Alzirão,Itaboraí,Rio de Janeiro,Sudeste,M,900,900,Não
 438,Aniceto Moscoso,Conselheiro Galvão,Rio de Janeiro,Rio de Janeiro,Sudeste,P,1709,2136,Não
 439,Antônio Carneiro,Carneirão,Quissamã,Rio de Janeiro,Sudeste,M,370,370,Não
-440,Antônio Ferreira de Medeiros,Ferreirão,Cardoso Moreira,Rio de Janeiro,Sudeste,P,900,3,Não
-441,Antônio Gomes Viana,,Carapebus,Rio de Janeiro,Sudeste,P,10,,Não
-442,Antônio Mourão Vieira Filho,Bariri,Rio de Janeiro,Rio de Janeiro,Sudeste,P,4.98,8.3,Sim
-443,Antônio Salvatore,,Teresópolis,Rio de Janeiro,Sudeste,P,8,,Não
+440,Antônio Ferreira de Medeiros,Ferreirão,Cardoso Moreira,Rio de Janeiro,Sudeste,P,900,3000,Não
+441,Antônio Gomes Viana,,Carapebus,Rio de Janeiro,Sudeste,P,10000,10000,Não
+442,Antônio Mourão Vieira Filho,Bariri,Rio de Janeiro,Rio de Janeiro,Sudeste,P,4980,8300,Sim
+443,Antônio Salvatore,,Teresópolis,Rio de Janeiro,Sudeste,P,8000,8000,Não
 444,Arthur Antunes Coimbra,Antunes,Rio de Janeiro,Rio de Janeiro,Sudeste,P,774,774,Sim
 445,Arthur Sendas,Sendolândia,São João de Meriti,Rio de Janeiro,Sudeste,P,560,560,Não
-446,Ary de Oliveira e Souza,Arizão,Campos,Rio de Janeiro,Sudeste,P,5.8,5.8,Sim
-447,Atílio Marotti,,Petrópolis,Rio de Janeiro,Sudeste,P,8.5,,Não
-448,Cabuçu,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,400,,Não
-449,Campo dos Cordeiros,,São Gonçalo,Rio de Janeiro,Sudeste,P,15,,Não
-450,Carmo Arenari Filho,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,500,,Não
-451,Cláudio Moacyr Azevedo,Moacyrzão,Macaé,Rio de Janeiro,Sudeste,P,15,15,Sim
+446,Ary de Oliveira e Souza,Arizão,Campos,Rio de Janeiro,Sudeste,P,5800,5800,Sim
+447,Atílio Marotti,,Petrópolis,Rio de Janeiro,Sudeste,P,8500,8500,Não
+448,Cabuçu,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,400,400,Não
+449,Campo dos Cordeiros,,São Gonçalo,Rio de Janeiro,Sudeste,P,15000,15000,Não
+450,Carmo Arenari Filho,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,500,500,Não
+451,Cláudio Moacyr Azevedo,Moacyrzão,Macaé,Rio de Janeiro,Sudeste,P,15000,15000,Sim
 452,Carlos Gonçalves,Motorista,Rio Bonito,Rio de Janeiro,Sudeste,P,300,300,Não
-453,De Los Larios,Los Larios,Duque de Caxias,Rio de Janeiro,Sudeste,P,5088,6.3,Sim
-454,Eduardo Guinle,,Nova Friburgo,Rio de Janeiro,Sudeste,M,4.75,5.5,Sim
-455,Eduardo Viana,Toca Capirava,Japeri,Rio de Janeiro,Sudeste,P,1,,Não
+453,De Los Larios,Los Larios,Duque de Caxias,Rio de Janeiro,Sudeste,P,5088,6300,Sim
+454,Eduardo Guinle,,Nova Friburgo,Rio de Janeiro,Sudeste,M,4750,5500,Sim
+455,Eduardo Viana,Toca Capirava,Japeri,Rio de Janeiro,Sudeste,P,1000,1000,Não
 456,Elcyr Resende de Mendonça,Bacaxá,Saquarema,Rio de Janeiro,Sudeste,P,4315,2058,Sim
-457,Eustáquio Marques,Estádio do Divino,Rio de Janeiro,Rio de Janeiro,Sudeste,P,1,,Não
-458,Expedicionário,,Macaé,Rio de Janeiro,Sudeste,P,7.5,,Não
+457,Eustáquio Marques,Estádio do Divino,Rio de Janeiro,Rio de Janeiro,Sudeste,P,1000,1000,Não
+458,Expedicionário,,Macaé,Rio de Janeiro,Sudeste,P,7500,7500,Não
 459,Figueira de Melo,Figueirinha,Rio de Janeiro,Rio de Janeiro,Sudeste,P ,800,800,Não
 460,Giulite Coutinho,Edson Passos,Edson Passos,Rio de Janeiro,Sudeste,P,13544,13544,Sim
 461,Guilherme da Silveira Filho,Moça Bonita,Rio de Janeiro,Rio de Janeiro,Sudeste,P,6989,9024,Sim
-462,Helio Rodrigues da Siqueira,Municipal Itacuruça,Itacuruça,Rio de Janeiro,Sudeste,M,400,,Não
-463,Hermano Victor Meguelle,,Itaguaí,Rio de Janeiro,Sudeste,M,500,,Não
-464,Hermenegildo Barcelos,Barcelão,Arraial do Cabo,Rio de Janeiro,Sudeste,M,4.5,,Sim
-465,Ítalo Del Cima,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,18,,Não
-466,Jair Carneiro Toscano de Brito,,Angra dos Reis,Rio de Janeiro,Sudeste,M,500,1.5,Não
-467,Jair Pereira da Silva,,São Gonçalo,Rio de Janeiro,Sudeste,P,2,,Não
-468,Jair Siqueira Bittencourt,,Itaperuna,Rio de Janeiro,Sudeste,P,10,,Não
-469,Janio de Moraes,Laranjão,Nova Iguaçu,Rio de Janeiro,Sudeste,P,1.81,1.81,Não
-470,João Francisco,Estádio do Ceres,Rio de janeiro,Rio de Janeiro,Sudeste,P,3,,Não
-471,Joaquim de Almeida Flores,,Nilópolis,Rio de Janeiro,Sudeste,P,5,,Não
-472,Joel Pereira,Pereirão,Nova Iguaçu,Rio de Janeiro,Sudeste,P,1,,Não
+462,Helio Rodrigues da Siqueira,Municipal Itacuruça,Itacuruça,Rio de Janeiro,Sudeste,M,400,400,Não
+463,Hermano Victor Meguelle,,Itaguaí,Rio de Janeiro,Sudeste,M,500,500,Não
+464,Hermenegildo Barcelos,Barcelão,Arraial do Cabo,Rio de Janeiro,Sudeste,M,4500,4500,Sim
+465,Ítalo Del Cima,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,18000,18000,Não
+466,Jair Carneiro Toscano de Brito,,Angra dos Reis,Rio de Janeiro,Sudeste,M,500,1500,Não
+467,Jair Pereira da Silva,,São Gonçalo,Rio de Janeiro,Sudeste,P,2000,2000,Não
+468,Jair Siqueira Bittencourt,,Itaperuna,Rio de Janeiro,Sudeste,P,10000,10000,Não
+469,Janio de Moraes,Laranjão,Nova Iguaçu,Rio de Janeiro,Sudeste,P,1810,1810,Não
+470,João Francisco,Estádio do Ceres,Rio de janeiro,Rio de Janeiro,Sudeste,P,3000,3000,Não
+471,Joaquim de Almeida Flores,,Nilópolis,Rio de Janeiro,Sudeste,P,5000,5000,Não
+472,Joel Pereira,Pereirão,Nova Iguaçu,Rio de Janeiro,Sudeste,P,1000,1000,Não
 473,Jornalista Mário Filho,Maracanã,Rio de Janeiro,Rio de Janeiro,Sudeste,E,78838,78838,Sim
-474,José Bastos Padilha,Da Gávea,Rio de Janeiro,Rio de Janeiro,Sudeste,P,4,,Não
-475,José de Alvarenga,Alvarengão,Belford Roxo,Rio de Janeiro,Sudeste,P,4,,Não
-476,José Gonçalves Brandão Filho,,Aperibé,Rio de Janeiro,Sudeste,P,1,,Não
+474,José Bastos Padilha,Da Gávea,Rio de Janeiro,Rio de Janeiro,Sudeste,P,4000,4000,Não
+475,José de Alvarenga,Alvarengão,Belford Roxo,Rio de Janeiro,Sudeste,P,4000,4000,Não
+476,José Gonçalves Brandão Filho,,Aperibé,Rio de Janeiro,Sudeste,P,1000,1000,Não
 477,José Maria de Brito Barros,,Mangaratiba,Rio de Janeiro,Sudeste,M,600,600,Não
-478,Leonidas da Silva,Teixeira de Castro,Rio de Janeiro,Rio de Janeiro,Sudeste,P,836,2.39,Não
-479,Lourival Gomes de Almeida,Lourivalzão,Sampaio Correa,Rio de Janeiro,Sudeste,P,1.8,1.8,Não
-480,Luso Brasileiro,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,2,4697,Sim
+478,Leonidas da Silva,Teixeira de Castro,Rio de Janeiro,Rio de Janeiro,Sudeste,P,836,2390,Não
+479,Lourival Gomes de Almeida,Lourivalzão,Sampaio Correa,Rio de Janeiro,Sudeste,P,1800,1800,Não
+480,Luso Brasileiro,,Rio de Janeiro,Rio de Janeiro,Sudeste,P,2000,4697,Sim
 481,Manoel José Vianna de Sá,,São João da Barra,Rio de Janeiro,Sudeste,M,900,1824,Não
-482,Manoel Schwartz,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Sudeste,P,2,,Não
-483,Marcelo de Moura e Souza,Marcelão,Três Rios,Rio de Janeiro,Sudeste,P,2.2,,Não
-484,Mario Castanho,Arena Guanabara,Araruama,Rio de Janeiro,Sudeste,P,10,,Não
-485,Mestre Telê Santana,Maracanazinho,Duque de Caxias,Rio de Janeiro,Sudeste,M,2,,Sim
-486,Mestre Ziza,Caio Martins,Niterói,Rio de Janeiro,Sudeste,P,12,,Sim
-487,Municipal de Búzios,SE Buzios,Búzios,Rio de Janeiro,Sudeste,M,1,,Não
-488,Municipal de Resende,Do Trabalhador,Resende,Rio de Janeiro,Sudeste,M,950,4.6,Não
-489,Nielsen Louzada,Louzadão,Mesquita,Rio de Janeiro,Sudeste,P,6,,Não
-490,Nilton Santos,Engenhão,Rio de Janeiro,Rio de Janeiro,Sudeste,M,34171,45,Sim
+482,Manoel Schwartz,Laranjeiras,Rio de Janeiro,Rio de Janeiro,Sudeste,P,2000,2000,Não
+483,Marcelo de Moura e Souza,Marcelão,Três Rios,Rio de Janeiro,Sudeste,P,2200,2200,Não
+484,Mario Castanho,Arena Guanabara,Araruama,Rio de Janeiro,Sudeste,P,10000,10000,Não
+485,Mestre Telê Santana,Maracanazinho,Duque de Caxias,Rio de Janeiro,Sudeste,M,2000,2000,Sim
+486,Mestre Ziza,Caio Martins,Niterói,Rio de Janeiro,Sudeste,P,12000,12000,Sim
+487,Municipal de Búzios,SE Buzios,Búzios,Rio de Janeiro,Sudeste,M,1000,1000,Não
+488,Municipal de Resende,Do Trabalhador,Resende,Rio de Janeiro,Sudeste,M,950,4600,Não
+489,Nielsen Louzada,Louzadão,Mesquita,Rio de Janeiro,Sudeste,P,6000,6000,Não
+490,Nilton Santos,Engenhão,Rio de Janeiro,Rio de Janeiro,Sudeste,M,34171,45000,Sim
 491,Nivaldo Pereira,Nivaldão,Queimados,Rio de Janeiro,Sudeste,P,160,2184,Não
-492,Odair Gama,,Três Rios,Rio de Janeiro,Sudeste,P,10,,Não
-493,Oswaldo Delegado de Moraes,,Paracambi,Rio de Janeiro,Sudeste,P,1,,Não
-494,Ozório Junior,,Petropolis,Rio de Janeiro,Sudeste,P,5,,Não
-495,Paulo Fernandes,Royal Barra do Parai,Barra do Piraí,Rio de Janeiro,Sudeste,P,6,,Não
-496,Plínio Bastos Barros,,Miracema,Rio de Janeiro,Sudeste,M,400,,Não
-497,Pref. Ismael de Souza Leão do Sul,Leão do Sul,Barra Mansa,Rio de Janeiro,Sudeste,M,1,2,Não
+492,Odair Gama,,Três Rios,Rio de Janeiro,Sudeste,P,10000,10000,Não
+493,Oswaldo Delegado de Moraes,,Paracambi,Rio de Janeiro,Sudeste,P,1000,1000,Não
+494,Ozório Junior,,Petropolis,Rio de Janeiro,Sudeste,P,5000,5000,Não
+495,Paulo Fernandes,Royal Barra do Parai,Barra do Piraí,Rio de Janeiro,Sudeste,P,6000,6000,Não
+496,Plínio Bastos Barros,,Miracema,Rio de Janeiro,Sudeste,M,400,400,Não
+497,Pref. Ismael de Souza Leão do Sul,Leão do Sul,Barra Mansa,Rio de Janeiro,Sudeste,M,1000,2000,Não
 498,Romário de Souza Faria,Marrentão,Xerém,Rio de Janeiro,Sudeste,P,3334,3334,Sim
-499,São Januário,São Januário,Rio de Janeiro,Rio de Janeiro,Sudeste,P,21.88,24584,Sim
-500,Sylvio Raulino de Oliveira,Da Cidadania,Volta Redonda,Rio de Janeiro,Sudeste,M,18.23,20255,Sim
-501,Waldemar Tardio,,São Pedro da Aldeia,Rio de Janeiro,Sudeste,M,500,,Não
-502,Waldo Carneiro Xavier,,Santo Antônio de Pádua,Rio de Janeiro,Sudeste,M,850,3.35,Não
-503,9 de Janeiro,,Pau dos Ferros,Rio Grande do Norte,Nordeste,M,,4746,Sim
-504,Arena das Dunas, ,Natal,Rio Grande do Norte,Nordeste,P,32.05,32.05,Sim
-505,Dinarte de Medeiros Mariz,Marizão,Caicó,Rio Grande do Norte,Nordeste,E,3,12,Sim
-506,Edgar Borges Montenegro,Edgarzão,Assu,Rio Grande do Norte,Nordeste,P,4.2,4.2,Sim
+499,São Januário,São Januário,Rio de Janeiro,Rio de Janeiro,Sudeste,P,21880,24584,Sim
+500,Sylvio Raulino de Oliveira,Da Cidadania,Volta Redonda,Rio de Janeiro,Sudeste,M,18230,20255,Sim
+501,Waldemar Tardio,,São Pedro da Aldeia,Rio de Janeiro,Sudeste,M,500,500,Não
+502,Waldo Carneiro Xavier,,Santo Antônio de Pádua,Rio de Janeiro,Sudeste,M,850,3350,Não
+503,9 de Janeiro,,Pau dos Ferros,Rio Grande do Norte,Nordeste,M,4746,4746,Sim
+504,Arena das Dunas, ,Natal,Rio Grande do Norte,Nordeste,P,32050,32050,Sim
+505,Dinarte de Medeiros Mariz,Marizão,Caicó,Rio Grande do Norte,Nordeste,E,3000,12000,Sim
+506,Edgar Borges Montenegro,Edgarzão,Assu,Rio Grande do Norte,Nordeste,P,4200,4200,Sim
 507,Iberê Ferreira de Souza,Iberezão,Santa Cruz ,Rio Grande do Norte,Nordeste,M,4403,5013,Sim
-508,João Pedro Filho,Pajesão,Guamaré,Rio Grande do Norte,Nordeste,M,,4.05,Sim
-509,José Bezerra,Bezerrão,Currais Novos,Rio Grande do Norte,Nordeste,M,,1.6,Sim
-510,José Nazareno do Nascimento,Nazarenão,Goianinha,Rio Grande do Norte,Nordeste,M,4.1,4.1,Sim
-511,Juvenal Lamartine,JL,Natal,Rio Grande do Norte,Nordeste,P,,3,Não
-512,Laurentino Bezerra,,Parelhas,Rio Grande do Norte,Nordeste,M,,600,Não
+508,João Pedro Filho,Pajesão,Guamaré,Rio Grande do Norte,Nordeste,M,4050,4050,Sim
+509,José Bezerra,Bezerrão,Currais Novos,Rio Grande do Norte,Nordeste,M,1600,1600,Sim
+510,José Nazareno do Nascimento,Nazarenão,Goianinha,Rio Grande do Norte,Nordeste,M,4100,4100,Sim
+511,Juvenal Lamartine,JL,Natal,Rio Grande do Norte,Nordeste,P,3000,3000,Não
+512,Laurentino Bezerra,,Parelhas,Rio Grande do Norte,Nordeste,M,600,600,Não
 513,Luís Rios Bacurau,Ninho do Periquito,São Gonçalo,Rio Grande do Norte,Nordeste,P,2067,2167,Sim
 514,Manoel Dantas Barretto,Barrettão,Ceará Mirim,Rio Grande do Norte,Nordeste,M,9994,10068,Sim
-515,Manoel Leonardo Nogueira,Nogueirão,Mossoró,Rio Grande do Norte,Nordeste,P,4,10,Sim
-516,Maria Lamas Farache,Frasqueirão,Natal,Rio Grande do Norte,Nordeste,P,14.74,15082,Sim
-517,Walter Bichão,Walter Bichão,Macau,Rio Grande do Norte,Nordeste,M,,3,Sim
+515,Manoel Leonardo Nogueira,Nogueirão,Mossoró,Rio Grande do Norte,Nordeste,P,4000,10000,Sim
+516,Maria Lamas Farache,Frasqueirão,Natal,Rio Grande do Norte,Nordeste,P,14740,15082,Sim
+517,Walter Bichão,Walter Bichão,Macau,Rio Grande do Norte,Nordeste,M,3000,3000,Sim
 518,19 de Outubro,,Ijuí,Rio Grande do Sul,Sul,P ,5217,5217,Sim
-519,Alberto Carlos Schwingler,,Igrejinha,Rio Grande do Sul,Sul,P,2.5,2.5,Sim
-520,Alcides Santa Rosa,,Garibldi,Rio Grande do Sul,Sul,P,2,5,Sim
-521,Aldo Dapuzzo,,Rio Grande,Rio Grande do Sul,Sul,P,3.5,3.5,Sim
+519,Alberto Carlos Schwingler,,Igrejinha,Rio Grande do Sul,Sul,P,2500,2500,Sim
+520,Alcides Santa Rosa,,Garibldi,Rio Grande do Sul,Sul,P,2000,5000,Sim
+521,Aldo Dapuzzo,,Rio Grande,Rio Grande do Sul,Sul,P,3500,3500,Sim
 522,Alfredo Jaconi,,Caxias do Sul,Rio Grande do Sul,Sul,P,19924,19924,Sim
-523,Aloysio Valentin Schwertner,,Estrela,Rio Grande do Sul,Sul,M,2.8,2.8,Não
-524,Altos da Glória,,Vacaria,Rio Grande do Sul,Sul,P,2.41,3,Sim
+523,Aloysio Valentin Schwertner,,Estrela,Rio Grande do Sul,Sul,M,2800,2800,Não
+524,Altos da Glória,,Vacaria,Rio Grande do Sul,Sul,P,2410,3000,Sim
 525,Amaro Cassep,,Rio Pardo,Rio Grande do Sul,Sul,P,1133,1133,Não
-526,Antônio David Farina,,Veranópolis,Rio Grande do Sul,Sul,M,4.72,5,Sim
-527,Antônio Magalhães Russel,Estrela D'Alva,Bagé,Rio Grande do Sul,Sul,P,3,10,Sim
-528,Antônio Vieira Ramos,Vieirão,Gravataí,Rio Grande do Sul,Sul,P,4.7,4.7,Sim
+526,Antônio David Farina,,Veranópolis,Rio Grande do Sul,Sul,M,4720,5000,Sim
+527,Antônio Magalhães Russel,Estrela D'Alva,Bagé,Rio Grande do Sul,Sul,P,3000,10000,Sim
+528,Antônio Vieira Ramos,Vieirão,Gravataí,Rio Grande do Sul,Sul,P,4700,4700,Sim
 529,Arena Alviazul,,Lajeado,Rio Grande do Sul,Sul,P,4266,4266,Sim
 530,Arena do Grêmio,Arena Portoalegrense,Porto Alegre,Rio Grande do Sul,Sul,P,55662,55662,Sim
-531,Aristides Bertuol,,Bento Gonçalves,Rio Grande do Sul,Sul,P,3.5,,Não
-532,Arthur Lawson,,Rio Grande,Rio Grande do Sul,Sul,P,3,3,Sim
-533,Arthur Mesquita Dias,,Sapucaia do Sul,Rio Grande do Sul,Sul,M,2.5,,Não
-534,Azalobão,,Nova Petrópolis,Rio Grande do Sul,Sul,P,2.5,,Não
-535,Bento da Silva Freitas,Bento Freitas,Pelotas,Rio Grande do Sul,Sul,P ,5,5,Sim
-536,Breno Guimarães,,Guaíba,Rio Grande do Sul,Sul,P,1,,Não
+531,Aristides Bertuol,,Bento Gonçalves,Rio Grande do Sul,Sul,P,3500,3500,Não
+532,Arthur Lawson,,Rio Grande,Rio Grande do Sul,Sul,P,3000,3000,Sim
+533,Arthur Mesquita Dias,,Sapucaia do Sul,Rio Grande do Sul,Sul,M,2500,2500,Não
+534,Azalobão,,Nova Petrópolis,Rio Grande do Sul,Sul,P,2500,2500,Não
+535,Bento da Silva Freitas,Bento Freitas,Pelotas,Rio Grande do Sul,Sul,P ,5000,5000,Sim
+536,Breno Guimarães,,Guaíba,Rio Grande do Sul,Sul,P,1000,1000,Não
 537,Boca do Lobo,,Pelotas,Rio Grande do Sul,Sul,P,15478,15478,Sim
-538,Carlos Bebber,,Marau,Rio Grande do Sul,Sul,M,2,2,Sim
-539,Carlos Denardin,,Santa Rosa,Rio Grande do Sul,Sul,M,3.5,,Sim
-540,Carlos Jacob Simon,,Ibirubá,Rio Grande do Sul,Sul,P,3,,Não
-541,Castanheiras,,Farroupilha,Rio Grande do Sul,Sul,P,4.5,,Sim
-542,Colosso da Lagoa,,Erechim,Rio Grande do Sul,Sul,P,22,22,Sim
-543,Complexo Esportivo da PUC,,Porto Alegre,Rio Grande do Sul,Sul,P,2.2,,Sim
-544,Complexo Esportivo Ulbra,Complexo Esportivo,Canoas,Rio Grande do Sul,Sul,P,10,,Sim
-545,Coronel Sílvio Luiz,,Camaquã,Rio Grande do Sul,Sul,P,3,,Não
-546,Das Cabriúvas,Cabriúvas,Encantado,Rio Grande do Sul,Sul,P,3,3,Não
-547,Das Rosas,,Sapiranga,Rio Grande do Sul,Sul,P,5,,Não
-548,Dos Pinheirais,,Gramado,Rio Grande do Sul,Sul,P,1.5,,Não
-549,Dr. Mário Cini,Mário Cini,Nova Prata,Rio Grande do Sul,Sul,M,3,3,Não
-550,Dr. Pedro Sander,,Canela,Rio Grande do Sul,Sul,P,3,,Não
-551,Edgar Leitão Teixeira,Tamoio,Viamão,Rio Grande do Sul,Sul,P,400,,Não
-552,Edmundo Feix,,Venâncio Alves,Rio Grande do Sul,Sul,P ,3,3,Sim
-553,Estádio Beira-Mar,Municipal de Tramadaí,Tramandaí,Rio Grande do Sul,Sul,M,2,2,Não
+538,Carlos Bebber,,Marau,Rio Grande do Sul,Sul,M,2000,2000,Sim
+539,Carlos Denardin,,Santa Rosa,Rio Grande do Sul,Sul,M,3500,3500,Sim
+540,Carlos Jacob Simon,,Ibirubá,Rio Grande do Sul,Sul,P,3000,3000,Não
+541,Castanheiras,,Farroupilha,Rio Grande do Sul,Sul,P,4500,4500,Sim
+542,Colosso da Lagoa,,Erechim,Rio Grande do Sul,Sul,P,22000,22000,Sim
+543,Complexo Esportivo da PUC,,Porto Alegre,Rio Grande do Sul,Sul,P,2200,2200,Sim
+544,Complexo Esportivo Ulbra,Complexo Esportivo,Canoas,Rio Grande do Sul,Sul,P,10000,10000,Sim
+545,Coronel Sílvio Luiz,,Camaquã,Rio Grande do Sul,Sul,P,3000,3000,Não
+546,Das Cabriúvas,Cabriúvas,Encantado,Rio Grande do Sul,Sul,P,3000,3000,Não
+547,Das Rosas,,Sapiranga,Rio Grande do Sul,Sul,P,5000,5000,Não
+548,Dos Pinheirais,,Gramado,Rio Grande do Sul,Sul,P,1500,1500,Não
+549,Dr. Mário Cini,Mário Cini,Nova Prata,Rio Grande do Sul,Sul,M,3000,3000,Não
+550,Dr. Pedro Sander,,Canela,Rio Grande do Sul,Sul,P,3000,3000,Não
+551,Edgar Leitão Teixeira,Tamoio,Viamão,Rio Grande do Sul,Sul,P,400,400,Não
+552,Edmundo Feix,,Venâncio Alves,Rio Grande do Sul,Sul,P ,3000,3000,Sim
+553,Estádio Beira-Mar,Municipal de Tramadaí,Tramandaí,Rio Grande do Sul,Sul,M,2000,2000,Não
 554,Estádio do Vale,,Novo Hamburgo,Rio Grande do Sul,Sul,P,5196,5196,Sim
-555,Eucaliptos,,Santa Cruz do Sul,Rio Grande do Sul,Sul,P,3,3,Sim
-556,Eucaliptos,,Santa Maria,Rio Grande do Sul,Sul,P,4,,Não
-557,Florestal,,Lajeado,Rio Grande do Sul,Sul,P,3.2,3.2,Sim
-558,Fonte Sarandi,,Sarandi,Rio Grande do Sul,Sul,P,2.5,2.5,Não
-559,Francisco Emilio Trein,,Ibirubá,Rio Grande do Sul,Sul,P,3,,Não
+555,Eucaliptos,,Santa Cruz do Sul,Rio Grande do Sul,Sul,P,3000,3000,Sim
+556,Eucaliptos,,Santa Maria,Rio Grande do Sul,Sul,P,4000,4000,Não
+557,Florestal,,Lajeado,Rio Grande do Sul,Sul,P,3200,3200,Sim
+558,Fonte Sarandi,,Sarandi,Rio Grande do Sul,Sul,P,2500,2500,Não
+559,Francisco Emilio Trein,,Ibirubá,Rio Grande do Sul,Sul,P,3000,3000,Não
 560,Francisco Stédile,Centenário,Caxias do Sul,Rio Grande do Sul,Sul,P,22132,22132,Sim
-561,Homero Soldatelli,,Flôres da Cunha,Rio Grande do Sul,Sul,M,1.5,,Não
-562,João Corrêa da Silveira,Cristo Rei,São Leopoldo,Rio Grande do Sul,Sul,P,7.8,10,Sim
-563,João da Silva Moreira,Parque Lami,Porto Alegre,Rio Grande do Sul,Sul,P,1.5,,Não
+561,Homero Soldatelli,,Flôres da Cunha,Rio Grande do Sul,Sul,M,1500,1500,Não
+562,João Corrêa da Silveira,Cristo Rei,São Leopoldo,Rio Grande do Sul,Sul,P,7800,10000,Sim
+563,João da Silva Moreira,Parque Lami,Porto Alegre,Rio Grande do Sul,Sul,P,1500,1500,Não
 564,João Marimon Junior,,Panambi,Rio Grande do Sul,Sul,M,2873,2873,Sim
-565,João Martins,,Santana do Livramento,Rio Grande do Sul,Sul,P,5,,Não
-566,João Renato Feltes,,Novo Hamburgo,Rio Grande do Sul,Sul,P,1.5,,Não
-567,Joaquim Vidal,,Cachoeira do Sul,Rio Grande do Sul,Sul,M,5,5,Sim
+565,João Martins,,Santana do Livramento,Rio Grande do Sul,Sul,P,5000,5000,Não
+566,João Renato Feltes,,Novo Hamburgo,Rio Grande do Sul,Sul,P,1500,1500,Não
+567,Joaquim Vidal,,Cachoeira do Sul,Rio Grande do Sul,Sul,M,5000,5000,Sim
 568,José Pinheiro Borda,Beira Rio,Porto Alegre,Rio Grande do Sul,Sul,P ,50128,50128,Sim
-569,Luciano Ferreira Martins,,Palmeira das Missões,Rio Grande do Sul,Sul,P,2,,Não
-570,Luiz de Medeiros,,Três Passos,Rio Grande do Sul,Sul,M,3,,Não
-571,Miguel Wairich Filho,,Júlio de Castilhos,Rio Grande do Sul,Sul,M,1,,Não
-572,Morada dos Quero-Queros,,Alvorada,Rio Grande do Sul,Sul,P,1,1487,Não
-573,Nicolau Fico,Fragata,Pelotas,Rio Grande do Sul,Sul,P,3.12,3.12,Não
-574,Odorico Mosmann,,Parobé,Rio Grande do Sul,Sul,P,2.5,,Não
-575,Omar de Carli,,Fagundes Varela,Rio Grande do Sul,Sul,P,3,,Não
-576,Pq. Esp. Montanha dos Vinhedos ,Montanha dos Vinhedos,Bento Gonçalves,Rio Grande do Sul,Sul,P,12859,15,Sim
-577,Passo D'Areia,,Porto Alegre,Rio Grande do Sul,Sul,P,10646,14,Sim
-578,Paulo Coutinho,,Carazinho,Rio Grande do Sul,Sul,P,4,,Não
-579,Pedra Moura,,Bagé,Rio Grande do Sul,Sul,P,3,3,Sim
-580,Plátanos,,Santa Cruz do Sul,Rio Grande do Sul,Sul,P,3,3,Sim
+569,Luciano Ferreira Martins,,Palmeira das Missões,Rio Grande do Sul,Sul,P,2000,2000,Não
+570,Luiz de Medeiros,,Três Passos,Rio Grande do Sul,Sul,M,3000,3000,Não
+571,Miguel Wairich Filho,,Júlio de Castilhos,Rio Grande do Sul,Sul,M,1000,1000,Não
+572,Morada dos Quero-Queros,,Alvorada,Rio Grande do Sul,Sul,P,1000,1487,Não
+573,Nicolau Fico,Fragata,Pelotas,Rio Grande do Sul,Sul,P,3120,3120,Não
+574,Odorico Mosmann,,Parobé,Rio Grande do Sul,Sul,P,2500,2500,Não
+575,Omar de Carli,,Fagundes Varela,Rio Grande do Sul,Sul,P,3000,3000,Não
+576,Pq. Esp. Montanha dos Vinhedos ,Montanha dos Vinhedos,Bento Gonçalves,Rio Grande do Sul,Sul,P,12859,15000,Sim
+577,Passo D'Areia,,Porto Alegre,Rio Grande do Sul,Sul,P,10646,14000,Sim
+578,Paulo Coutinho,,Carazinho,Rio Grande do Sul,Sul,P,4000,4000,Não
+579,Pedra Moura,,Bagé,Rio Grande do Sul,Sul,P,3000,3000,Sim
+580,Plátanos,,Santa Cruz do Sul,Rio Grande do Sul,Sul,P,3000,3000,Sim
 581,Presidente Vargas,Baixada Melancólica,Santa Maria,Rio Grande do Sul,Sul,P,6523,6523,Sim
-582,Raul Oliveira,Zona Sul,Santo Ângelo,Rio Grande do Sul,Sul,P,6,,Sim
-583,Rubro Negro,,Crissiumal,Rio Grande do Sul,Sul,M,3.5,,Não
-584,Sadi Arnildo Schmidt,,Campo Bom,Rio Grande do Sul,Sul,P ,2,,Sim
-585,Silvio de Faria Correa,,São Gabriel,Rio Grande do Sul,Sul,M,5,6,Sim
-586,Vermelhão da Colina,,Frederico Westphalen,Rio Grande do Sul,Sul,P,4,,Sim
-587,Vermelhão da Serra,,Passo Fundo,Rio Grande do Sul,Sul,P,15,15,Sim
-588,Vicente Goulart,,São Borja,Rio Grande do Sul,Sul,P,8,,Sim
-589,Aglair Tonelli Nogueira,,Cacoal,Rondônia,Norte,M,4,,Sim
-590,Aluizio Pinheiro Ferreira,Aluizão,Porto Velho,Rondônia,Norte,E,700,5,Sim
-591,Arnaldo Lopes Martins,Portal da Amazônia,Vilhena,Rondônia,Norte,M,2.5,,Sim
-592,Gentil Valério,Valerião,Ariquemes,Rondônia,Norte,M,2.5,,Sim
-593,José Ângelo Cassol,Cassolão,Rolim de Moura,Rondônia,Norte,M,4,,Sim
-594,José de Abreu Bianco,Biancão,Ji-Paraná,Rondônia,Norte,E,5,,Sim
-595,Leal Chapelão,,Jaru,Rondônia,Norte,M,3,,Sim
-596,Luiz Alves de Ataíde,Ataíde,Pimenta Bueno,Rondônia,Norte,M,2,,Sim
-597,Luizinho Turatti,,Espigão D'Oeste,Rondônia,Norte,M,2,,Sim
-598,Flamarion Vasconcelos,Canarinho (em obras),Boa Vista,Roraima,Norte,E,6,6,Sim
-599,Municipal de Mucajaí,Sabinão,Mucajaí,Roraima,Norte,M,1,1.1,Sim
-600,Raimundo Ribeiro de Souza,Ribeirão,Boa Vista,Roraima,Norte,E,1107,1.5,Sim
+582,Raul Oliveira,Zona Sul,Santo Ângelo,Rio Grande do Sul,Sul,P,6000,6000,Sim
+583,Rubro Negro,,Crissiumal,Rio Grande do Sul,Sul,M,3500,3500,Não
+584,Sadi Arnildo Schmidt,,Campo Bom,Rio Grande do Sul,Sul,P ,2000,2000,Sim
+585,Silvio de Faria Correa,,São Gabriel,Rio Grande do Sul,Sul,M,5000,6000,Sim
+586,Vermelhão da Colina,,Frederico Westphalen,Rio Grande do Sul,Sul,P,4000,4000,Sim
+587,Vermelhão da Serra,,Passo Fundo,Rio Grande do Sul,Sul,P,15000,15000,Sim
+588,Vicente Goulart,,São Borja,Rio Grande do Sul,Sul,P,8000,8000,Sim
+589,Aglair Tonelli Nogueira,,Cacoal,Rondônia,Norte,M,4000,4000,Sim
+590,Aluizio Pinheiro Ferreira,Aluizão,Porto Velho,Rondônia,Norte,E,700,5000,Sim
+591,Arnaldo Lopes Martins,Portal da Amazônia,Vilhena,Rondônia,Norte,M,2500,2500,Sim
+592,Gentil Valério,Valerião,Ariquemes,Rondônia,Norte,M,2500,2500,Sim
+593,José Ângelo Cassol,Cassolão,Rolim de Moura,Rondônia,Norte,M,4000,4000,Sim
+594,José de Abreu Bianco,Biancão,Ji-Paraná,Rondônia,Norte,E,5000,5000,Sim
+595,Leal Chapelão,,Jaru,Rondônia,Norte,M,3000,3000,Sim
+596,Luiz Alves de Ataíde,Ataíde,Pimenta Bueno,Rondônia,Norte,M,2000,2000,Sim
+597,Luizinho Turatti,,Espigão D'Oeste,Rondônia,Norte,M,2000,2000,Sim
+598,Flamarion Vasconcelos,Canarinho (em obras),Boa Vista,Roraima,Norte,E,6000,6000,Sim
+599,Municipal de Mucajaí,Sabinão,Mucajaí,Roraima,Norte,M,1000,1100,Sim
+600,Raimundo Ribeiro de Souza,Ribeirão,Boa Vista,Roraima,Norte,E,1107,1500,Sim
 601,Aderbal Ramos da Silva,Ressacada,Florianópolis,Santa Catarina,Sul,P,17826,17826,Sim
-602,Aníbal Torres Costa,,Tubarão,Santa Catarina,Sul,M,3.57,3.57,Sim
-603,Arena Joinville,Arena,Joinville,Santa Catarina,Sul,M,20.16,22,Sim
-604,Augusto Bauer,,Brusque,Santa Catarina,Sul,P,5,5,Sim
-605,Benedito Therezio de Carvalho Jr.,Ditão,Canoinhas,Santa Catarina,Sul,M,3.17,3.17,Não
-606,Botafogo Futebol Clube,Estrela Solitária,Jaraguá do Sul,Santa Catarina,Sul,P,1,1,Não
-607,Carlos Alberto Costa Neves,,Caçador,Santa Catarina,Sul,M,6.5,6.5,Sim
+602,Aníbal Torres Costa,,Tubarão,Santa Catarina,Sul,M,3570,3570,Sim
+603,Arena Joinville,Arena,Joinville,Santa Catarina,Sul,M,20160,22000,Sim
+604,Augusto Bauer,,Brusque,Santa Catarina,Sul,P,5000,5000,Sim
+605,Benedito Therezio de Carvalho Jr.,Ditão,Canoinhas,Santa Catarina,Sul,M,3170,3170,Não
+606,Botafogo Futebol Clube,Estrela Solitária,Jaraguá do Sul,Santa Catarina,Sul,P,1000,1000,Não
+607,Carlos Alberto Costa Neves,,Caçador,Santa Catarina,Sul,M,6500,6500,Sim
 608,Complexo Esportivo do SESI,SESI,Blumenau,Santa Catarina,Sul,P,3624,3624,Sim
 609,Domingos Machado de Lima,,Concórdia,Santa Catarina,Sul,M,3161,3161,Sim
 610,Domingos Silveira Gonzales,,Tubarão,Santa Catarina,Sul,P,1706,1706,Sim
-611,Edir Prestes Valin,Macieirão,Fraiburgo,Santa Catarina,Sul,M,4.25,4.25,Não
-612,Ernesto Schlemm Sobrinho,Ernestão,Joinville,Santa Catarina,Sul,P,5,5,Sim
-613,Hercílio Luz,Gigantão,Itajaí,Santa Catarina,Sul,P,6.01,6.01,Sim
-614,Heriberto Hulse,Majestoso,Cricíuma,Santa Catarina,Sul,P,19.9,19.9,Sim
-615,Hermann Aichinger,Da Baixada,Ibirama,Santa Catarina,Sul,P,3,3,Sim
+611,Edir Prestes Valin,Macieirão,Fraiburgo,Santa Catarina,Sul,M,4250,4250,Não
+612,Ernesto Schlemm Sobrinho,Ernestão,Joinville,Santa Catarina,Sul,P,5000,5000,Sim
+613,Hercílio Luz,Gigantão,Itajaí,Santa Catarina,Sul,P,6010,6010,Sim
+614,Heriberto Hulse,Majestoso,Cricíuma,Santa Catarina,Sul,P,19900,19900,Sim
+615,Hermann Aichinger,Da Baixada,Ibirama,Santa Catarina,Sul,P,3000,3000,Sim
 616,Índio Condá,Arena Condá,Chapecó,Santa Catarina,Sul,M,15765,15765,Sim
-617,João Marcatto,,Jaraguá do Sul,Santa Catarina,Sul,M,5.27,5.27,Sim
+617,João Marcatto,,Jaraguá do Sul,Santa Catarina,Sul,M,5270,5270,Sim
 618,Orlando Scarpelli,Scarpelli,Florianópolis,Santa Catarina,Sul,P,19584,19584,Sim
 619,Renato Silveira,,Palhoça,Santa Catarina,Sul,P,2081,2081,Sim
-620,Roberto Santos Garcia,Robertão,Camboriú,Santa Catarina,Sul,M,3.3,3.3,Sim
-621,Vidal Ramos Júnior,,Lages,Santa Catarina,Sul,M,4681,6,Sim
-622,Victório Pierozan,,Seára,Santa Catarina,Sul,M,1.5,1.5,Não
-623,1º de Maio,,São Bernardo do Campo,São Paulo,Sudeste,M,13.44,15759,Sim
-624,Acrísio Paes Cruz,,Botucatu,São Paulo,Sudeste,M,3,3,Sim
+620,Roberto Santos Garcia,Robertão,Camboriú,Santa Catarina,Sul,M,3300,3300,Sim
+621,Vidal Ramos Júnior,,Lages,Santa Catarina,Sul,M,4681,6000,Sim
+622,Victório Pierozan,,Seára,Santa Catarina,Sul,M,1500,1500,Não
+623,1º de Maio,,São Bernardo do Campo,São Paulo,Sudeste,M,13440,15759,Sim
+624,Acrísio Paes Cruz,,Botucatu,São Paulo,Sudeste,M,3000,3000,Sim
 625,Adail Nunes da Silva,,Taquaritinga,São Paulo,Sudeste,M,16805,18805,Sim
 626,Ademar de Barros,Ademarzão,Araçatuba,São Paulo,Sudeste,M,11274,11274,Sim
-627,Ademar Pereira de Barros,Fonte Luminosa/Arena da Fonte,Araraquara,São Paulo,Sudeste,M,20,21441,Sim
-628,Adhemar de Barros,,São Manuel,São Paulo,Sudeste,M,1.5,1.5,Não
+627,Ademar Pereira de Barros,Fonte Luminosa/Arena da Fonte,Araraquara,São Paulo,Sudeste,M,20000,21441,Sim
+628,Adhemar de Barros,,São Manuel,São Paulo,Sudeste,M,1500,1500,Não
 629,AD Parahyba,,São José dos Campos,São Paulo,Sudeste,P,5016,5016,Não
-630,Alberto Victolo,Albertão,Tanabi,São Paulo,Sudeste,M,8.4,8.4,Não
+630,Alberto Victolo,Albertão,Tanabi,São Paulo,Sudeste,M,8400,8400,Não
 631,Aldevio Barbosa de Lemos,,Campo Limpo Paulista,São Paulo,Sudeste,M,1533,1533,Não
-632,Alexandre Augusto Camacho,,Mogi Guaçu,São Paulo,Sudeste,M,4,5594,Sim
-633,Alfredo Chiavegato,,Jaguariúna,São Paulo,Sudeste,M,15,15,Não
-634,Alfredo de Castilho,Alfredão,Bauru,São Paulo,Sudeste,P,16.3,18866,Sim
-635,Alfredo Schürig,Parque São Jorge,São Paulo,São Paulo,Sudeste,P,12,18.5,Não
+632,Alexandre Augusto Camacho,,Mogi Guaçu,São Paulo,Sudeste,M,4000,5594,Sim
+633,Alfredo Chiavegato,,Jaguariúna,São Paulo,Sudeste,M,15000,15000,Não
+634,Alfredo de Castilho,Alfredão,Bauru,São Paulo,Sudeste,P,16300,18866,Sim
+635,Alfredo Schürig,Parque São Jorge,São Paulo,São Paulo,Sudeste,P,12000,18500,Não
 636,Allianz Parque,Allianz Parque,São Paulo,São Paulo,Sudeste,P,43713,43713,Sim
 637,Alonso de Carvalho Braga,,Tupã,São Paulo,Sudeste,M,5515,5515,Sim
-638,Amadeu Mosca,,Salto,São Paulo,Sudeste,M,2,2,Não
+638,Amadeu Mosca,,Salto,São Paulo,Sudeste,M,2000,2000,Não
 639,Anacleto Campanella,,São Caetano do Sul ,São Paulo,Sudeste,M,16744,16744,Sim
-640,André Nunes Junior,,Itapevi,São Paulo,Sudeste,M,3452,5,Não
+640,André Nunes Junior,,Itapevi,São Paulo,Sudeste,M,3452,5000,Não
 641,Anísio Haddad,,São José do Rio Preto,São Paulo,Sudeste,P ,14014,14126,Sim
-642,Antônio Fernandes,,Guarujá,São Paulo,Sudeste,M,6.84,6.84,Não
+642,Antônio Fernandes,,Guarujá,São Paulo,Sudeste,M,6840,6840,Não
 643,Antônio Gomes Martins,Fortaleza,Barretos,São Paulo,Sudeste,M,13007,13007,Sim
 644,Antônio Lins Ribeiro Guimarães,,Santa Bárbara D ?Oeste ,São Paulo,Sudeste,P,14913,14913,Sim
-645,Antônio Pereira Braga,,José Bonifácio,São Paulo,Sudeste,M,4.66,4.8,Não
-646,Antônio Soares de Oliveira,,Guarulhos,São Paulo,Sudeste,M,6,6235,Não
+645,Antônio Pereira Braga,,José Bonifácio,São Paulo,Sudeste,M,4660,4800,Não
+646,Antônio Soares de Oliveira,,Guarulhos,São Paulo,Sudeste,M,6000,6235,Não
 647,Antônio Viana Silva,Tonicão,Assis,São Paulo,Sudeste,M,8525,8525,Não
 648,Arena Capivari,,Capivari,São Paulo,Sudeste,M,7314,7314,Não
-649,Arena Corinthians,,São Paulo,São Paulo,Sudeste,P,45,47605,Sim
+649,Arena Corinthians,,São Paulo,São Paulo,Sudeste,P,45000,47605,Sim
 650,Arena Plínio Marin,,Votuporanga,São Paulo,Sudeste,M,7464,8087,Não
 651,Archangelo Breda,,Lençóis Paulista,São Paulo,Sudeste,M,5242,5242,Não
 652,Dr. Orlando Batista Novelli,Arena Barueri,Barueri,São Paulo,Sudeste,M,31452,31452,Sim
 653,Augusto Schmidt Filho,Schmiltão,Rio Claro,São Paulo,Sudeste,M,6284,6284,Sim
-654,Barão de Serra Negra,,Piracicaba,São Paulo,Sudeste,M,18,18,Sim
+654,Barão de Serra Negra,,Piracicaba,São Paulo,Sudeste,M,18000,18000,Sim
 655,Belarmino Del Nero,BDN,Pirassununga,São Paulo,Sudeste,P,4935,4935,Não
 656,Benito Agnelo Castellano,Benitão,Rio Claro,São Paulo,Sudeste,M,8136,8136,Sim
 657,Benedito Teixeira,Teixeirão,São José do Rio Preto ,São Paulo,Sudeste,P ,32168,32936,Sim
-658,Bento de Abreu Souza Vidal,Bento de Abreu,Marília,São Paulo,Sudeste,M,15.01,15.01,Sim
+658,Bento de Abreu Souza Vidal,Bento de Abreu,Marília,São Paulo,Sudeste,M,15010,15010,Sim
 659,Breno Ribeiro do Val,,Oswaldo Cruz,São Paulo,Sudeste,M,11784,11784,Sim
-660,Brinco de Ouro da Princesa,Brinco de Ouro,Campinas,São Paulo,Sudeste,P,29.13,29.13,Sim
-661,Bruno José Daniel,,Santo André,São Paulo,Sudeste,M,8,14185,Sim
+660,Brinco de Ouro da Princesa,Brinco de Ouro,Campinas,São Paulo,Sudeste,P,29130,29130,Sim
+661,Bruno José Daniel,,Santo André,São Paulo,Sudeste,M,8000,14185,Sim
 662,Bruno Lazzarini,,Leme,São Paulo,Sudeste,M,6701,6701,Sim
 663,Cândido de Barros,,Araraquara,São Paulo,Sudeste,M,4156,4156,Sim
-664,Carlos Affini,,Paraguaçu Paulista,São Paulo,Sudeste,M,15,15,Sim
-665,Carlos Ferracine,,Caieiras,São Paulo,Sudeste,M,5.56,5.56,Não
+664,Carlos Affini,,Paraguaçu Paulista,São Paulo,Sudeste,M,15000,15000,Sim
+665,Carlos Ferracine,,Caieiras,São Paulo,Sudeste,M,5560,5560,Não
 666,Cerecamp,,Campinas,São Paulo,Sudeste,M,4033,4033,Não
 667,Cícero Pompeu de Toledo,Morumbi,São Paulo,São Paulo,Sudeste,P,72039,77011,Sim
-668,Cláudio Rodante,,Fernandópolis,São Paulo,Sudeste,M,5,6.95,Sim
+668,Cláudio Rodante,,Fernandópolis,São Paulo,Sudeste,M,5000,6950,Sim
 669,Comendador Agostinho Prada,Pradão,Limeira,São Paulo,Sudeste,M,9483,9483,Sim
-670,Conde Rodolfo Crespi,Rua Javari,São Paulo,São Paulo,Sudeste,P,3.8,4004,Não
-671,Coronel Francisco Vieira,,Itapira,São Paulo,Sudeste,M,4444,4.8,Sim
+670,Conde Rodolfo Crespi,Rua Javari,São Paulo,São Paulo,Sudeste,P,3800,4004,Não
+671,Coronel Francisco Vieira,,Itapira,São Paulo,Sudeste,M,4444,4800,Sim
 672,CP João do Pulo,,São José dos Campos,São Paulo,Sudeste,M,600,600,Sim
 673,Dario Rodrigues Leite,,Guaratinguetá,São Paulo,Sudeste,M,16095,16095,Sim
-674,Décio Vitta,Rio Brancão,Americana,São Paulo,Sudeste,M,16.3,16.3,Sim
-675,Distrital Vila Guarani,,São Paulo,São Paulo,Sudeste,M,1.5,1.5,Não
+674,Décio Vitta,Rio Brancão,Americana,São Paulo,Sudeste,M,16300,16300,Sim
+675,Distrital Vila Guarani,,São Paulo,São Paulo,Sudeste,M,1500,1500,Não
 676,Domenico Paolo Mettidieri,,Votorantim,São Paulo,Sudeste,M,980,980,Não
 677,Domingos Baldan,,Guariba,São Paulo,Sudeste,M,2737,2737,Não
 678,Dos Amaros,,Itápolis,São Paulo,Sudeste,M,946,14074,Sim
-679,Dr. Francisco Palmas Travassos,,Ribeirão Preto,São Paulo,Sudeste,P,14.5,18277,Sim
+679,Dr. Francisco Palmas Travassos,,Ribeirão Preto,São Paulo,Sudeste,P,14500,18277,Sim
 680,Dr. Jorge Ismael de Biasi,,Novo Horizonte,São Paulo,Sudeste,P,12872,14096,Sim
-681,Dr. Oswaldo Scatena,,Batatais,São Paulo,Sudeste,P,13,13,Sim
+681,Dr. Oswaldo Scatena,,Batatais,São Paulo,Sudeste,P,13000,13000,Sim
 682,Ernesto Rocco,,Porto Feliz,São Paulo,Sudeste,M,3646,4246,Não
 683,Espanha,,Santos,São Paulo,Sudeste,P,7228,7228,Não
-684,Euclides da Almeida,,Cotia,São Paulo,Sudeste,M,5.23,5.23,Não
-685,Farid Jorge Resegue,,Bariri,São Paulo,Sudeste,M,3,4892,Não
+684,Euclides da Almeida,,Cotia,São Paulo,Sudeste,M,5230,5230,Não
+685,Farid Jorge Resegue,,Bariri,São Paulo,Sudeste,M,3000,4892,Não
 686,Francisco Franco,,Rancharia,São Paulo,Sudeste,P,3213,3213,Não
 687,Francisco Marques Figueira,,Suzano,São Paulo,Sudeste,M,3445,3445,Sim
 688,Francisco Ribeiro Nogueira Filho,,Mogi das Cruzes,São Paulo,Sudeste,M,14384,14384,Sim
-689,Frederico Dalmaso,Fredericão,Sertãozinho,São Paulo,Sudeste,M,2277,7.86,Sim
-690,Frei Arnaldo Castilho,,Ilha Solteira,São Paulo,Sudeste,M,5.5,5.5,Sim
+689,Frederico Dalmaso,Fredericão,Sertãozinho,São Paulo,Sudeste,M,2277,7860,Sim
+690,Frei Arnaldo Castilho,,Ilha Solteira,São Paulo,Sudeste,M,5500,5500,Sim
 691,Giglio Portugal Pichinin,Baetão,São Bernardo do Campo,São Paulo,Sudeste,M,6315,6315,Sim
-692,Gilberto Siqueira Lopes,Gilbertão,Lins,São Paulo,Sudeste,M,15064,15.77,Sim
+692,Gilberto Siqueira Lopes,Gilbertão,Lins,São Paulo,Sudeste,M,15064,15770,Sim
 693,Hermínio Espósito,,Embu das Artes,São Paulo,Sudeste,M,2986,2986,Não
 694,Hermínio Ometto,Herminião,Araras,São Paulo,Sudeste,P,16096,16096,Sim
-695,Hudson Buck Ferreira,,Matão,São Paulo,Sudeste,P,8758,14.5,Sim
-696,Ítalo Mário Limongi,Gigante da Vila Industrial,Indaiatuba,São Paulo,Sudeste,P,7.82,7.82,Não
+695,Hudson Buck Ferreira,,Matão,São Paulo,Sudeste,P,8758,14500,Sim
+696,Ítalo Mário Limongi,Gigante da Vila Industrial,Indaiatuba,São Paulo,Sudeste,P,7820,7820,Não
 697,Jayme Pinheiro Ulhoa Cintra,Jayme Cintra,Jundiaí,São Paulo,Sudeste,P,13905,15155,Sim
-698,Joaquim de Moraes Filho,Joaquinzão,Taubaté,São Paulo,Sudeste,P,9.6,12896,Sim
-699,Joaquim Justo,,Américo Brasiliense,São Paulo,Sudeste,M,5,5,Não
-700,Joe Sanchez,ADC GM,São José dos Campo,São Paulo,Sudeste,P,1,1,Não
+698,Joaquim de Moraes Filho,Joaquinzão,Taubaté,São Paulo,Sudeste,P,9600,12896,Sim
+699,Joaquim Justo,,Américo Brasiliense,São Paulo,Sudeste,M,5000,5000,Não
+700,Joe Sanchez,ADC GM,São José dos Campo,São Paulo,Sudeste,P,1000,1000,Não
 701,José Araújo Cintra,,Amparo,São Paulo,Sudeste,P,4675,4675,Não
 702,José Lancha Filho,Lanchão,Franca,São Paulo,Sudeste,M,14686,14686,Sim
-703,José Liberatti,Rochedale,Osasco,São Paulo,Sudeste,M,11.78,12.43,Não
-704,José Maria Campos Maia,,Mirassol,São Paulo,Sudeste,M,15,15,Sim
+703,José Liberatti,Rochedale,Osasco,São Paulo,Sudeste,M,11780,12430,Não
+704,José Maria Campos Maia,,Mirassol,São Paulo,Sudeste,M,15000,15000,Sim
 705,José Sidney Cunha,,Capão Bonito,São Paulo,Sudeste,M,10022,10022,Não
-706,Laudo Natel,,Cotia,São Paulo,Sudeste,P,2,2,Sim
+706,Laudo Natel,,Cotia,São Paulo,Sudeste,P,2000,2000,Sim
 707,Legionário Esporte Clube,Dedé Muniz,Bragança Paulista,São Paulo,Sudeste,P,900,900,Não
-708,Leonardo Barbieri,,Águas de Lindóia,São Paulo,Sudeste,M,7.2,7.2,Não
-709,Leônidas Camarinha,,Santa Cruz do Rio Pardo,São Paulo,Sudeste,M,6,7.5,Sim
+708,Leonardo Barbieri,,Águas de Lindóia,São Paulo,Sudeste,M,7200,7200,Não
+709,Leônidas Camarinha,,Santa Cruz do Rio Pardo,São Paulo,Sudeste,M,6000,7500,Sim
 710,Luiz Perissinotto,,Paulínia,São Paulo,Sudeste,M,5386,5386,Não
-711,Major José Levy Sobrinho,Limeirão,Limeira,São Paulo,Sudeste,M,18,23475,Sim
+711,Major José Levy Sobrinho,Limeirão,Limeira,São Paulo,Sudeste,M,18000,23475,Sim
 712,Mansueto Pierotti,,São Vicente,São Paulo,Sudeste,P,4912,4912,Não
-713,Marcos Eduardo C. Truvilho,,Ibiúna,São Paulo,Sudeste,M,3.72,3.72,Não
-714,Maria Tereza Breda,,Olímpia,São Paulo,Sudeste,M,15,15,Sim
-715,Martins Pereira,,São José dos Campos ,São Paulo,Sudeste,M,16.5,16.5,Sim
+713,Marcos Eduardo C. Truvilho,,Ibiúna,São Paulo,Sudeste,M,3720,3720,Não
+714,Maria Tereza Breda,,Olímpia,São Paulo,Sudeste,M,15000,15000,Sim
+715,Martins Pereira,,São José dos Campos ,São Paulo,Sudeste,M,16500,16500,Sim
 716,Moisés Lucarelli,,Campinas,São Paulo,Sudeste,P,17728,19728,Sim
 717,Nabi Abi Chedid,,Bragança Paulista,São Paulo,Sudeste,P,17022,17128,Sim
-718,Nicolau Alayon,,São Paulo,São Paulo,Sudeste,P,5,10117,Não
-719,Novelli Junior,Majestoso da Vila Nova,Itu,São Paulo,Sudeste,M,18.56,18.56,Sim
+718,Nicolau Alayon,,São Paulo,São Paulo,Sudeste,P,5000,10117,Não
+719,Novelli Junior,Majestoso da Vila Nova,Itu,São Paulo,Sudeste,M,18560,18560,Sim
 720,Oswaldo Teixeira Duarte,Canindé,São Paulo,São Paulo,Sudeste,P,21004,22375,Sim
-721,Otacília Patrício Arroyo,,Monte Azul,São Paulo,Sudeste,P,13.1,13.1,Não
+721,Otacília Patrício Arroyo,,Monte Azul,São Paulo,Sudeste,P,13100,13100,Não
 722,Paulo Constantino,Prudentão,Presidente Prudente,São Paulo,Sudeste,M,45954,45954,Sim
-723,Paulo Machado de Carvalho,Pacaembu,São Paulo,São Paulo,Sudeste,M,37.73,40199,Sim
+723,Paulo Machado de Carvalho,Pacaembu,São Paulo,São Paulo,Sudeste,M,37730,40199,Sim
 724,Pedro Benedetti,EM de Mauá,Mauá,São Paulo,Sudeste,M,8567,8567,Não
-725,Pedro Marin Barbel,Pedrão,Biriguí,São Paulo,Sudeste,M,2.5,8.24,Sim
-726,Prof. Luiz Augusto Oliveira,,São Carlos,São Paulo,Sudeste,M,8,10,Sim
+725,Pedro Marin Barbel,Pedrão,Biriguí,São Paulo,Sudeste,M,2500,8240,Sim
+726,Prof. Luiz Augusto Oliveira,,São Carlos,São Paulo,Sudeste,M,8000,10000,Sim
 727,Robert Todd Locke,,Jaboticabal,São Paulo,Sudeste,P,7512,7512,Sim
-728,Roberto do Vale Rollemberg,,Jales,São Paulo,Sudeste,M,7.68,7.68,Sim
-729,Romildo Vitor Gomes Ferreira,,Mogi Mirim,São Paulo,Sudeste,P,19.9,19.9,Sim 
+728,Roberto do Vale Rollemberg,,Jales,São Paulo,Sudeste,M,7680,7680,Sim
+729,Romildo Vitor Gomes Ferreira,,Mogi Mirim,São Paulo,Sudeste,P,19900,19900,Sim 
 730,Salvador Russani,,Atibaia,São Paulo,Sudeste,M,2563,2563,Não
-731,Santa Cruz,,Ribeirão Preto,São Paulo,Sudeste,P,25,29292,Sim
-732,São Sebastião,,Mococa,São Paulo,Sudeste,M,7.8,7.8,Sim
+731,Santa Cruz,,Ribeirão Preto,São Paulo,Sudeste,P,25000,29292,Sim
+732,São Sebastião,,Mococa,São Paulo,Sudeste,M,7800,7800,Sim
 733,Sílvio Salles,,Catanduva,São Paulo,Sudeste,M,16444,16444,Sim
 734,Sociedade Esportiva Palmeirinha,Vila Famosa,Porto Ferreira,São Paulo,Sudeste,M,3402,3402,Não
-735,Sócrates Stamato,,Bebedouro,São Paulo,Sudeste,M,10.2,10.2,Sim
-736,Stavos Papadopoulos,,Jacareí,São Paulo,Sudeste,P,4.09,4.09,Não
-737,Tenente Carriço,Tenentão,Penápolis,São Paulo,Sudeste,M,2,4679,Não
+735,Sócrates Stamato,,Bebedouro,São Paulo,Sudeste,M,10200,10200,Sim
+736,Stavos Papadopoulos,,Jacareí,São Paulo,Sudeste,P,4090,4090,Não
+737,Tenente Carriço,Tenentão,Penápolis,São Paulo,Sudeste,M,2000,4679,Não
 738,Ulrico Mursa,,Santos,São Paulo,Sudeste,P,5737,8392,Sim
 739,Urbano Caldeira,Vila Belmiro,Santos,São Paulo,Sudeste,P,16068,21732,Sim
-740,Vereador José Feres,,Taboão da Serra,São Paulo,Sudeste,M,4,4.41,Não
-741,Vereador José Pereira,,Sumaré,São Paulo,Sudeste,M,2.5,2626,Não
-742,Virgílio Holtz,,Itararé,São Paulo,Sudeste,P,5.57,5.57,Sim
+740,Vereador José Feres,,Taboão da Serra,São Paulo,Sudeste,M,4000,4410,Não
+741,Vereador José Pereira,,Sumaré,São Paulo,Sudeste,M,2500,2626,Não
+742,Virgílio Holtz,,Itararé,São Paulo,Sudeste,P,5570,5570,Sim
 743,Walter Ribeiro,,Sorocaba,São Paulo,Sudeste,M,13772,13772,Sim
 744,Wanderley J. Vicentini,,Pedreira,São Paulo,Sudeste,M,3262,3262,Não
 745,Zezinho Magalhães,,Jaú,São Paulo,Sudeste,P,12978,12978,Sim
-746,André Avelino,Andrezão,Canindé do São Francisco,Sergipe,Nordeste,M,2,2,Sim
-747,André Moura,,Pirambu,Sergipe,Nordeste,M,2,2,Sim
-748,Antônio Carlos Fontes Souza,Tozão,Japaratuba,Sergipe,Nordeste,M,2,2,Não
-749,Ariston Azevedo,,Nossa Senhora das Dores,Sergipe,Nordeste,P,2,2,Não
-750,Arnaldo Pereira,,São Domingos,Sergipe,Nordeste,M,2,2,Não
-751,Augusto Franco,Francão,Estância,Sergipe,Nordeste,E,8,8,Sim
-752,Caio Feitosa,,Porto da Folha,Sergipe,Nordeste,P,3,3,Não
-753,C. D. Augusto Franco,Augusto Franco,Laranjeiras,Sergipe,Nordeste,F,1.5,1.5,Não
-754,Denisson Fontes Souza,Souzão,Itabaianinha,Sergipe,Nordeste,P,2,2,Não
-755,Durval Feitosa,,Propriá,Sergipe,Nordeste,P,2,2,Não
-756,Editon Oliveira,,Nossa Senhora da Glória,Sergipe,Nordeste,M,2,2,Não
-757,Francisco Leite,Chico Leite,Riachuelo,Sergipe,Nordeste,P,1.3,1.3,Não
-758,Fernando França,Franção,Carmópolis,Sergipe,Nordeste,P,2,2,Sim
-759,Geraldo Oliveira,Geraldão,Cristinápolis,Sergipe,Nordeste,M,2,2,Sim
+746,André Avelino,Andrezão,Canindé do São Francisco,Sergipe,Nordeste,M,2000,2000,Sim
+747,André Moura,,Pirambu,Sergipe,Nordeste,M,2000,2000,Sim
+748,Antônio Carlos Fontes Souza,Tozão,Japaratuba,Sergipe,Nordeste,M,2000,2000,Não
+749,Ariston Azevedo,,Nossa Senhora das Dores,Sergipe,Nordeste,P,2000,2000,Não
+750,Arnaldo Pereira,,São Domingos,Sergipe,Nordeste,M,2000,2000,Não
+751,Augusto Franco,Francão,Estância,Sergipe,Nordeste,E,8000,8000,Sim
+752,Caio Feitosa,,Porto da Folha,Sergipe,Nordeste,P,3000,3000,Não
+753,C. D. Augusto Franco,Augusto Franco,Laranjeiras,Sergipe,Nordeste,F,1500,1500,Não
+754,Denisson Fontes Souza,Souzão,Itabaianinha,Sergipe,Nordeste,P,2000,2000,Não
+755,Durval Feitosa,,Propriá,Sergipe,Nordeste,P,2000,2000,Não
+756,Editon Oliveira,,Nossa Senhora da Glória,Sergipe,Nordeste,M,2000,2000,Não
+757,Francisco Leite,Chico Leite,Riachuelo,Sergipe,Nordeste,P,1300,1300,Não
+758,Fernando França,Franção,Carmópolis,Sergipe,Nordeste,P,2000,2000,Sim
+759,Geraldo Oliveira,Geraldão,Cristinápolis,Sergipe,Nordeste,M,2000,2000,Sim
 760,Gov. Antônio Carlos Valadares,Vavazão,Maruim,Sergipe,Nordeste,E,10235,10235,Sim
-761,Idalito Oliveira,,Carmópolis,Sergipe,Nordeste,F,2.5,2.5,Não
-762,Isaías Gileno Barreto,Campo do Limão,São Cristóvão,Sergipe,Nordeste,M,2,2,Não
-763,João Alves Filho,,Propriá,Sergipe,Nordeste,E,4.5,4.5,Não
-764,João Hora de Oliveira,João Hora,Aracaju,Sergipe,Nordeste,P,6,6,Sim
-765,Joaquim Sabino Ribeiro,Sabino Ribeiro,Aracaju,Sergipe,Nordeste,P,4,4,Sim
-766,José Francisco de Oliveira,Severão,Macambira,Sergipe,Nordeste,M,1.5,1.5,Não
+761,Idalito Oliveira,,Carmópolis,Sergipe,Nordeste,F,2500,2500,Não
+762,Isaías Gileno Barreto,Campo do Limão,São Cristóvão,Sergipe,Nordeste,M,2000,2000,Não
+763,João Alves Filho,,Propriá,Sergipe,Nordeste,E,4500,4500,Não
+764,João Hora de Oliveira,João Hora,Aracaju,Sergipe,Nordeste,P,6000,6000,Sim
+765,Joaquim Sabino Ribeiro,Sabino Ribeiro,Aracaju,Sergipe,Nordeste,P,4000,4000,Sim
+766,José Francisco de Oliveira,Severão,Macambira,Sergipe,Nordeste,M,1500,1500,Não
 767,Lourival Baptista,Batistão,Aracaju,Sergipe,Nordeste,E,15586,15586,Sim
-768,Manoel Joaquim Porto,Manoel Joaquim,Aquidabã,Sergipe,Nordeste,M,2,2,Não
-769,Módulo Esportivo Tobias Barreto,Brejeirão,Tobias Barreto,Sergipe,Nordeste,M,3,3,Sim
-770,Paulo Barreto de Menezes,Barretão,Lagarto,Sergipe,Nordeste,E,6,6,Sim
-771,Presidente Médici,Médici,Itabaiana,Sergipe,Nordeste,E,10,10,Sim
-772,Roberto Góis,,Riachão,Sergipe,Nordeste,M,2,2,Não
-773,Wellington Elias,Lelesão,Nsa. Senhora do Socorro,Sergipe,Nordeste,F,3,3,Sim
-774,Velho Chico,Velho Chico,Neópolis,Sergipe,Nordeste,M,1.5,1.5,Não
-775,Vila Operária,Passagem,Neópolis,Sergipe,Nordeste,P,2,2,Não
-776,Alexandre Cândido Gomes,Alexandre Gomes,Araguaçu,Tocantins,Norte,M,1,1,Não
-777,Antônio Neto,Bigodão,Colinas,Tocantins,Norte,M,1.2,1.2,Sim
-778,Castanheirão,Castanheirão,Miracema,Tocantins,Norte,E,2,2,Sim
-779,Delfino Pereira Lopes,Delfinão,Guaraí,Tocantins,Norte,M,1.5,1.5,Sim
-780,Dr. Magalhães,Dr. Magalhães,Dianópolis,Tocantins,Norte,M,1,1,Não
-781,Elias Natan,Elias Natan,Alvorada,Tocantins,Norte,M,1.5,1.5,Não
-782,General Sampaio,General Sampaio,Porto Nacional,Tocantins,Norte,M,2,2,Sim
-783,Gilberto Resende Rocha,Rezendão,Gurupi,Tocantins,Norte,E,3,3,Sim
-784,João Ribeiro,Ribeirão,Tocantinópolis,Tocantins,Norte,P ,10,10,Sim
-785,José Pereira Rêgo,Pereirão,Paraíso ,Tocantins,Norte,M,2.3,2.3,Sim
-786,Leôncio Miranda,Mirandão,Araguaína,Tocantins,Norte,E,9,9,Sim
+768,Manoel Joaquim Porto,Manoel Joaquim,Aquidabã,Sergipe,Nordeste,M,2000,2000,Não
+769,Módulo Esportivo Tobias Barreto,Brejeirão,Tobias Barreto,Sergipe,Nordeste,M,3000,3000,Sim
+770,Paulo Barreto de Menezes,Barretão,Lagarto,Sergipe,Nordeste,E,6000,6000,Sim
+771,Presidente Médici,Médici,Itabaiana,Sergipe,Nordeste,E,10000,10000,Sim
+772,Roberto Góis,,Riachão,Sergipe,Nordeste,M,2000,2000,Não
+773,Wellington Elias,Lelesão,Nsa. Senhora do Socorro,Sergipe,Nordeste,F,3000,3000,Sim
+774,Velho Chico,Velho Chico,Neópolis,Sergipe,Nordeste,M,1500,1500,Não
+775,Vila Operária,Passagem,Neópolis,Sergipe,Nordeste,P,2000,2000,Não
+776,Alexandre Cândido Gomes,Alexandre Gomes,Araguaçu,Tocantins,Norte,M,1000,1000,Não
+777,Antônio Neto,Bigodão,Colinas,Tocantins,Norte,M,1200,1200,Sim
+778,Castanheirão,Castanheirão,Miracema,Tocantins,Norte,E,2000,2000,Sim
+779,Delfino Pereira Lopes,Delfinão,Guaraí,Tocantins,Norte,M,1500,1500,Sim
+780,Dr. Magalhães,Dr. Magalhães,Dianópolis,Tocantins,Norte,M,1000,1000,Não
+781,Elias Natan,Elias Natan,Alvorada,Tocantins,Norte,M,1500,1500,Não
+782,General Sampaio,General Sampaio,Porto Nacional,Tocantins,Norte,M,2000,2000,Sim
+783,Gilberto Resende Rocha,Rezendão,Gurupi,Tocantins,Norte,E,3000,3000,Sim
+784,João Ribeiro,Ribeirão,Tocantinópolis,Tocantins,Norte,P ,10000,10000,Sim
+785,José Pereira Rêgo,Pereirão,Paraíso ,Tocantins,Norte,M,2300,2300,Sim
+786,Leôncio Miranda,Mirandão,Araguaína,Tocantins,Norte,E,9000,9000,Sim
 787,Municipal de Rio Sono,Rio Sono,Rio Sono,Tocantins,Norte,M,500,500,Não
-788,Nilton Santos,Nilton Santos,Palmas,Tocantins,Norte,E,10,10,Sim
+788,Nilton Santos,Nilton Santos,Palmas,Tocantins,Norte,E,10000,10000,Sim
 789,Vanderlei Afonso da Silva,Ipirangão,Aliança,Tocantins,Norte,M,500,500,Não
